@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/xzerep31/trinicuba/en/</loc>
+    <loc>https://xzerep31.github.com/trinicuba/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/xzerep31/trinicuba/es/"
+                href="https://xzerep31.github.com/trinicuba/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/xzerep31/trinicuba/fr/"
+                href="https://xzerep31.github.com/trinicuba/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/xzerep31/trinicuba/en/"
+                href="https://xzerep31.github.com/trinicuba/en/"
                 />
   </url>
 </urlset>
