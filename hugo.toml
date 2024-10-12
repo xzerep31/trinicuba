@@ -1,4 +1,5 @@
-baseURL = 'https://xzerep31.github.com/trinicuba/'
+baseURL = 'https://xzerep31.github.io/trinicuba/'
+# baseURL = 'https://trinicuba.com/'
 languageCode = 'en-us'
 title = 'TriniCuba'
 disableKinds = ["taxonomy"]
