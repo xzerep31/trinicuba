@@ -1,0 +1,37 @@
+<section class="footer">
+    <div class="container">
+        <div class="row">
+
+            <!-- START FOOTER BOTTOM -->
+            <div class="offset-md-3 col-md-6 offset-md-3">
+
+                <!-- FOOTER LOGO -->
+                <a class="navbar-brand" href="#home">
+                    <img src="{{ "img/footer-logo.png" | relURL }}" alt="footer-Logo" class="logo"></a>
+                <h2 class="heading-tertiary mb-3">Tour & Travel Template</h2>
+
+                <!-- START SOCIAL ICONS -->
+                <div class="social-links">
+                    <ul>
+                        {{ with .Site.Params.social }}
+                        {{ range sort . "weight" }}
+                            <li><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+                </div>
+                <!-- END SOCIAL ICONS -->
+
+                <!-- START RIGHTS -->
+                <div class="copyright">
+                    <h5>&copy; tozo travel theme&#44; All Rights Reserved &#10072; Designed by <a
+                            href="https://gecdesigns.com/" class="text-primary">GEC Designs</a></h5>
+                </div>
+                <!-- END RIGHTS -->
+
+            </div>
+            <!-- END FOOTER BOTTOM -->
+
+        </div>
+    </div>
+</section>

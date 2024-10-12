@@ -1,0 +1,132 @@
+baseURL = 'https://trinicuba.com/'
+languageCode = 'en-us'
+title = 'TriniCuba'
+disableKinds = ["taxonomy"]
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = true
+pagination.pagerSize = 20
+canonifyUrls = true
+[params]
+    defaultDescription = ""
+    defaultKeywords = ["Agencia de viajes", "TriniCuba", "Taxi", "Excursiones", "Hostales"]
+    
+    info = ""
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+
+    phone  = "(+53) 5 271-1795"
+    phone2 = "(+53) 5 380-9184"
+    phone3 = "(+53) 5 292-9820"
+    email = "trinicuba@gmail.com"
+
+    formsubmit_action = "https://formsubmit.co/trinicuba@gmail.com"
+
+    css = ["css/style.css", 
+           "css/lightbox.css",
+           "css/owl.theme.default.css",
+           "css/owl.carousel.min.css",
+           "css/bootstrap.min.css",
+           "extras/font-awesome-4.7.0/css/font-awesome.min.css"
+           ]
+
+    js = ["js/main.js",
+          "js/jquery.paroller.min.js",
+          "js/lightbox.js",
+          "js/jquery.filterizr.min.js",
+          "js/waypoints.min.js",
+          "js/popper.min.js",
+          "js/jquery-3.3.1.min.js",
+          "js/scrollIt.min.js",
+          "js/gmaps.min.js",
+          "js/map.js",
+          "js/validator.js",
+          "js/owl.carousel.min.js",
+          "js/jquery.countTo.js",
+          "js/bootstrap.min.js"
+        ]
+
+[Author]
+    name = "Pedro Victor Navarrete Alejo"
+
+[languages]
+    [languages.es]
+        contentDir = 'content/es'
+        languageName = "Es"
+        weight = 1
+        [languages.es.params]
+            flag = 'fi fi-es fis'
+
+    [languages.en]
+       contentDir = 'content/en'
+       languageName = "En"
+       weight = 2
+       [languages.en.params]
+            flag = 'fi fi-sh fis'
+
+    [languages.fr]
+       contentDir = 'content/fr'
+       languageName = "Fr"
+       weight = 3
+       [languages.fr.params]
+            flag = 'fi fi-fr fis'
+
+
+# Social links
+[[params.social]]
+    name = "Facebook"
+    icon = "fa fa-facebook fa-fw"
+    weight = 1
+    url = "https://www.facebook.com/profile.php?id=61555910130082"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram fa-fw"
+    weight = 2
+    url = "https://www.instagram.com/yoan_trinicuba/"
+[[params.social]]
+    name = "Gmail"
+    icon = "fa fa-envelope fa-fw"
+    weight = 3
+    url = "mailto:trinicuba@gmail.com"
+
+# Menu links
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    url  = "#home"
+[[menu.main]]
+    name = "Top Deals"
+    weight = 2
+    url = "#about"
+[[menu.main]]
+    name = "Services"
+    weight = 4
+    url = "#services"
+[[menu.main]]
+    name = "Gallery"
+    weight = 5
+    url = "#portfolio"
+[[menu.main]]
+    name = "Packages"
+    weight = 6
+    url = "#tour-package"
+[[menu.main]]
+    name = "Blog"
+    weight = 7
+    url = "#blog"
+[[menu.main]]
+    name = "Contact"
+    weight = 8
+    url = "#contact"
+
+# Services
+[params.services]
+    enable = true
+
+# Staff
+[params.staff]
+    enable = true

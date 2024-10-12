@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ .Content }}
+<!-- Scroll to Top -->
+<div id="scroll-to-top"><i class="fa fa-arrow-up fa-fw"></i></div>
+
+<!-- ====== START ABOUT ======  -->
+{{ partial "aboutus" . }}
+<!-- ====== END ABOUT======  -->
+
+<!-- ====== START DEST ======  -->
+{{ partial "destination" . }}
+<!-- ====== END DEST ======  -->
+
+<!-- ====== START SERVICES ======  -->
+{{ partial "services" . }}
+<!-- ====== END SERVICES ======  -->
+
+<!-- ====== START PORTFOLIO ======  -->
+{{ partial "portfolio" . }}
+<!-- ====== END PORTFOLIO ======  -->
+
+<!-- ====== START COUNTS ======  -->
+{{ partial "counts" . }}
+<!-- ====== END COUNTS ======  -->
+
+<!-- ====== START TOUR PACKAGE ======  -->
+{{ partial "packages" . }}
+<!-- ======== END TOUR PACKAGE ====== -->
+
+<!-- ====== START TESTIMONIALS======  -->
+{{ partial "testimonials" . }}
+<!-- ====== END TESTIMONIALS======  -->
+
+<!-- ====== START BLOG ======  -->
+{{ partial "blog" . }}
+<!-- ====== END BLOG ======  -->
+{{ end }}
