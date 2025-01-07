@@ -1,4 +1,5 @@
-baseURL = 'https://trinicuba.com/'
+# baseURL = 'https://trinicuba.com/'
+baseURL = 'https://https://xzerep31.github.io/trinicuba'
 languageCode = 'en-us'
 title = 'TriniCuba'
 
