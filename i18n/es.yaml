@@ -1,0 +1,35 @@
+- id: Home
+  translation: "Inicio"
+
+- id: "Top Deals"
+  translation: "Promociones"
+
+- id: "Services"
+  translation: "Servicios"
+
+- id: "Gallery"
+  translation: "Galería"
+
+- id: "Accomodation"
+  translation: "Hostales"
+
+- id: "Contact"
+  translation: "Contáctenos"
+
+- id: "About Us"
+  translation: "Quienes Somos"
+
+- id: "AboutUsDesc"
+  translation: "Somos una agencia lista para cumplir tus deseos y contamos con un paraiso por descubrir para usted; asi que no se lo piense más y reserve sus mejores vacaciones con nosotros en la mejor Isla del Caribe."
+
+- id: "Designed by"
+  translation: "Sitio diseñado por"
+
+- id: "Other Links"
+  translation: "Enlaces Amigos"
+
+- id: Newsletter
+  translation: "Actualizaciones"
+
+- id: Notice
+  translation: "¡Tenemos canal de Whatsapp! ¡Únete!"

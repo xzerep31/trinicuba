@@ -1,0 +1,158 @@
+baseURL = 'https://trinicuba.com/'
+languageCode = 'en-us'
+title = 'TriniCuba'
+
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = true
+pagination.pagerSize = 20
+canonifyUrls = true
+
+[params]
+    defaultDescription = "Somos una agencia lista para cumplir tus deseos y contamos con un paraiso por descubrir para usted; asi que no se lo piense más y reserve sus mejores vacaciones con nosotros en la mejor Isla del Caribe."
+    defaultKeywords = [
+        "hostales",
+        "alojamiento", 
+        "casa", 
+        "rent", 
+        "room", 
+        "trinidad", 
+        "cuba", 
+        "hospedaje", 
+        "hostal", 
+        "renta", 
+        "lodging", 
+        "trinidad", 
+        "habitación",
+        "playa", 
+        "montaña", 
+        "habitacion", 
+        "turismo", 
+        "historico", 
+        "historia", 
+        "monumento", 
+        "colonial", 
+        "ciudad", 
+        "museo", 
+        "cuba",
+        "trinicuba"
+    ]
+    
+    info = ""
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+
+    phone  = "(+53) 5 271-1795"
+    phone2 = "(+53) 5 380-9184"
+    phone3 = "(+53) 5 292-9820"
+    email = "trinicuba@gmail.com"
+
+    formsubmit_action = "https://formsubmit.co/reserva@trinicuba.com"
+    formsubmit_thanks = "/thanks/"
+
+    css = [
+            "https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700",
+            "css/linearicons.css",
+            "css/font-awesome.min.css",
+            "css/bootstrap.css",
+            "css/magnific-popup.css",
+            "css/animate.min.css",
+            "css/owl.carousel.css",
+            "css/main.css"
+           ]
+
+    js = [
+            "js/vendor/jquery-2.2.4.min.js",
+            "js/vendor/bootstrap.min.js",
+            "js/jquery.magnific-popup.min.js",
+            "js/owl.carousel.min.js",
+            "js/jquery.sticky.js",
+            "js/slick.js",
+            "js/jquery.counterup.min.js",
+            "js/waypoints.min.js",
+            "js/main.js"
+        ]
+    
+    author = "Ing. Pedro Victor Navarrete Alejo"
+
+[languages]
+    [languages.es]
+        contentDir = 'content/es'
+        languageName = "Es"
+        weight = 1
+        [languages.es.params]
+            flag = 'fi fi-es fis'
+
+    [languages.en]
+       contentDir = 'content/en'
+       languageName = "En"
+       weight = 2
+       [languages.en.params]
+            flag = 'fi fi-sh fis'
+
+    [languages.fr]
+       contentDir = 'content/fr'
+       languageName = "Fr"
+       weight = 3
+       [languages.fr.params]
+            flag = 'fi fi-fr fis'
+
+
+# Social links
+[[params.social]]
+    name = "Facebook"
+    icon = "fa fa-facebook fa-fw"
+    weight = 1
+    url = "https://www.facebook.com/ViajeConTriniCuba"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram fa-fw"
+    weight = 2
+    url = "https://www.instagram.com/servicios_trinicuba/"
+[[params.social]]
+    name = "Gmail"
+    icon = "fa fa-envelope fa-fw"
+    weight = 3
+    url = "mailto:trinicuba@gmail.com"
+
+# Menu links
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    url  = "#home"
+[[menu.main]]
+    name = "Top Deals"
+    weight = 2
+    url = "#about"
+[[menu.main]]
+    name = "Services"
+    weight = 4
+    url = "#services"
+[[menu.main]]
+    name = "Gallery"
+    weight = 5
+    url = "#portfolio"
+[[menu.main]]
+    name = "Accomodation"
+    weight = 6
+    url = "/gallery/"
+[[menu.main]]
+    name = "Contact"
+    weight = 7
+    url = "#contact"
+
+# Services
+[params.services]
+    enable = true
+
+# hostales
+[params.accomod]
+    hostales = "ok"
+
+# Staff
+[params.staff]
+    enable = false

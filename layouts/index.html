@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{ .Content }}
+<!-- Scroll to Top -->
+<div id="scroll-to-top"><i class="fa fa-arrow-up fa-fw"></i></div>
+
+<!-- ====== START ABOUT ======  -->
+{{ partial "aboutus" . }}
+<!-- ====== END ABOUT======  -->
+
+<!-- ====== START PROJECTS ======  -->
+{{ partial "projects" . }}
+<!-- ====== END PROJECTS ======  -->
+
+<!-- ====== START SERVICES ======  -->
+{{ partial "services" . }}
+<!-- ====== END SERVICES ======  -->
+
+<!-- ====== START PORTFOLIO ======  -->
+{{ partial "portfolio" . }}
+<!-- ====== END PORTFOLIO ======  -->
+
+<!-- ====== START FAQ ======  -->
+{{ partial "counts" . }}
+<!-- ====== END FAQ ======  -->
+
+<!-- ====== START VIDEO PROMO ======  -->
+{{ partial "packages" . }}
+<!-- ======== END VIDEO PROMO ====== -->
+
+<!-- ====== START LOGO ======  -->
+{{ partial "logo" . }}
+<!-- ======== END LOGO ====== -->
+
+<!-- ====== START TESTIMONIALS======  -->
+{{ partial "testimonials" . }}
+<!-- ====== END TESTIMONIALS======  -->
+
+{{ end }}

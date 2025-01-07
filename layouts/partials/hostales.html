@@ -1,0 +1,22 @@
+{{ if isset .Site.Data "accomod" }}
+    {{ if gt (len .Site.Data.accomod) 0 }}           
+        <div id="hostales" class="gallery-main">
+            <div class="section">
+                <div class="gal-container clearfix columns ">
+                    {{ range sort .Site.Data.accomod "weight"}}
+                    <div class="column is-3 gal-item">
+                        <div class=" position-relative box">
+                            <a href="{{ .address }}">
+                                <img src="{{ .screenshot }}" alt="" />
+                            </a>
+                            <div class="col-md-12 description">
+                                <h4>{{ .name }}</h4>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+{{ end }}
+{{ end }}

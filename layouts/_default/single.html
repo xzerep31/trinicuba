@@ -1,0 +1,10 @@
+{{ define "main" }}
+    {{ if isset .Params "id" }}
+
+        {{ partial .Params.id . }}
+
+    {{ else }}
+        {{ .Content }}
+    {{ end }}
+
+{{ end }}

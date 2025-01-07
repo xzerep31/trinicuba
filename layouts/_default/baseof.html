@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    
+<head>
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- meta character set -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    
+    <!-- Meta Keyword -->
+    {{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
+    {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
+    {{ if isset .Params "keywords" }}{{ range .Params.keywords }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
+    {{ if gt (len $keywords) 0 }}
+    <meta name="keywords" content="{{ delimit (uniq $keywords) ", " }}">
+    {{ end }}
+
+    <!-- Meta Description -->
+    {{ $description_plain := default .Site.Params.defaultDescription .Description | markdownify | plainify }}
+    <meta name="description" content="{{ $description_plain }}">
+    
+    {{ range .Site.Params.css -}}
+        <link rel="stylesheet" href="{{ . | relURL }}">
+    {{ end -}}
+    
+    <title>{{ .Site.Title }}{{ if not .IsHome }}{{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+    
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ "img/favicon.png" | relURL }}">
+    <link rel="apple-touch-icon" href="{{ "img/favicon.png" | relURL }}" sizes="180x180">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "img/favicon_32x32.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "img/favicon_16x16.png" | relURL }}">
+</head>
+
+<body>
+
+    <section class="banner-area" id="home">
+        <!-- Start Header Area -->
+        {{ partial "navbar" . }}
+        <!-- End Header Area -->
+    </section>
+    <section class="default-banner active-blog-slider">
+        <!-- Start Banner Area -->
+        {{ partial "banner" . }}
+        <!-- End Banner Area -->
+    </section>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        <!-- ====== START CONTACT ======  -->
+        {{ partial "contact" . }}
+        <!-- ====== END CONTACT ======  -->
+        <!-- ====== START FOOTER ======  -->
+        {{ partial "footer" .}}
+        <!-- ====== END FOOTER ======  -->
+        <!-- ====== JS ======  -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+        {{ range .Site.Params.js -}}
+            <script src="{{ . | relURL }}"></script>
+        {{ end -}}
+    </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+- id: Home
+  translation: "Home"
+
+- id: "Top Deals"
+  translation: "Top Deals"
+
+- id: "Services"
+  translation: "Services"
+
+- id: "Gallery"
+  translation: "Gallery"
+
+- id: "Accomodation"
+  translation: "Accomodations"
+
+- id: "Contact"
+  translation: "Contact Us"
+
+- id: "About Us"
+  translation: "About Us"
+
+- id: "AboutUsDesc"
+  translation: "We are an agency ready to fulfill your wishes and we have a paradise waiting for you to discover; so don't think twice and book your best vacation with us on the best island in the Caribbean."
+
+- id: "Designed by"
+  translation: "Website designed by "
+
+- id: "Other Links"
+  translation: "Other links"
+
+- id: Newsletter
+  translation: "Updates"
+
+- id: Notice
+  translation: "We are available! Click here to chat"
