@@ -33,3 +33,9 @@
 
 - id: Notice
   translation: "¡Tenemos canal de Whatsapp! ¡Únete!"
+
+- id: slogan
+  translation: "La elección es suya, el gusto es nuestro"
+
+- id: agency
+  translation: "Servicios de Viajes" 

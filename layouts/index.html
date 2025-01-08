@@ -1,7 +1,5 @@
 {{ define "main" }}
 {{ .Content }}
-<!-- Scroll to Top -->
-<div id="scroll-to-top"><i class="fa fa-arrow-up fa-fw"></i></div>
 
 <!-- ====== START ABOUT ======  -->
 {{ partial "aboutus" . }}
@@ -34,5 +32,9 @@
 <!-- ====== START TESTIMONIALS======  -->
 {{ partial "testimonials" . }}
 <!-- ====== END TESTIMONIALS======  -->
+
+ <!-- ====== START CONTACT ======  -->
+ {{ partial "contact" . }}
+ <!-- ====== END CONTACT ======  -->
 
 {{ end }}

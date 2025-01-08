@@ -1,5 +1,5 @@
-# baseURL = 'https://trinicuba.com/'
-baseURL = 'https://xzerep31.github.io/trinicuba'
+baseURL = 'https://trinicuba.com/'
+# baseURL = 'https://xzerep31.github.io/trinicuba'
 languageCode = 'en-us'
 title = 'TriniCuba'
 
@@ -53,7 +53,7 @@ canonifyUrls = true
     email = "trinicuba@gmail.com"
 
     formsubmit_action = "https://formsubmit.co/reserva@trinicuba.com"
-    formsubmit_thanks = "/thanks/"
+    
 
     css = [
             "https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700",
@@ -79,6 +79,7 @@ canonifyUrls = true
         ]
     
     author = "Ing. Pedro Victor Navarrete Alejo"
+    website_author = "https://github.com/xzerep31/"
 
 [languages]
     [languages.es]

@@ -1,3 +1,14 @@
+/*--------------------------- Fonts ----------------------*/
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url("../extras/fonts/LibreBaskerville-Italic.ttf");
+}
+
+@font-face {
+  font-family: 'Maravale';
+  src: url("../extras/fonts/MaravaleItalic.otf");
+}
+
 /*--------------------------- Color variations ----------------------*/
 /* Medium Layout: 1280px */
 /* Tablet Layout: 768px */
@@ -568,6 +579,20 @@ td, th {
 
 .text-white {
   color: #fff;
+}
+
+.text-white-banner {
+  color: #fff ;
+  font-family: "Libre Baskerville";
+  font-size: 48pt;
+  text-indent: .20em;
+  line-height: 1em;
+}
+
+.text-logo {
+  color: red;
+  font-family: "Maravale";
+  font-size: 24pt;
 }
 
 .text-black {
@@ -2715,6 +2740,22 @@ h6 {
     z-index: 1;
 }
 
+.logo{
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10%;
+}
+
+.banner-area .logo_h {
+  padding-top: 0px;
+}
+
+.banner-brand_style {
+  float: left;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 80px;
+}
 
 @media (max-width: 991px) {
   .footer-social {

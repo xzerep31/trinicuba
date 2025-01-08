@@ -33,3 +33,9 @@
 
 - id: Notice
   translation: "We are available! Click here to chat"
+
+- id: agency
+  translation: "Travel Services"
+
+- id: slogan
+  translation: "The choice is yours, the taste is ours"
