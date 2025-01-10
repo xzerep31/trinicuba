@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Offers on TriniCuba</title>
-    <link>http://localhost:1313/trinicuba/en/offers/</link>
+    <link>http://localhost:1313/en/offers/</link>
     <description>Recent content in Offers on TriniCuba</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/trinicuba/en/offers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/offers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
