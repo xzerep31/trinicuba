@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xzerep31.github.io/trinicuba/es/offers/hav-cun/</loc>
+    <lastmod>2025-01-10T11:59:21-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/excursions/</loc>
+    <lastmod>2025-01-10T09:34:37-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/taxi/</loc>
+    <lastmod>2025-01-10T09:35:03-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/packs/</loc>
+    <lastmod>2025-01-10T09:34:57-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/flights/</loc>
+    <lastmod>2025-01-10T09:34:47-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/accomodations/</loc>
+    <lastmod>2025-01-10T09:34:31-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/social/</loc>
+    <lastmod>2025-01-10T09:34:17-05:00</lastmod>
+  </url><url>
     <loc>https://xzerep31.github.io/trinicuba/es/</loc>
-    <lastmod>2025-01-06T17:05:18-05:00</lastmod>
+    <lastmod>2025-01-10T12:10:48-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +39,27 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://xzerep31.github.io/trinicuba/es/"
+                />
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/services/</loc>
+    <lastmod>2025-01-10T09:30:27-05:00</lastmod>
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/es/contact/</loc>
+    <lastmod>2025-01-06T17:05:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xzerep31.github.io/trinicuba/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://xzerep31.github.io/trinicuba/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://xzerep31.github.io/trinicuba/es/contact/"
                 />
   </url><url>
     <loc>https://xzerep31.github.io/trinicuba/es/thanks/</loc>
