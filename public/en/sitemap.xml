@@ -2,26 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/contact/</loc>
-    <lastmod>2025-01-06T17:05:36-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/contact/"
-                />
+    <loc>http://localhost:1313/en/excursions/</loc>
+    <lastmod>2025-01-10T09:47:07-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/contact/"
+                href="http://localhost:1313/fr/excursions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="http://localhost:1313/en/excursions/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-01-06T17:05:36-05:00</lastmod>
+    <lastmod>2025-01-10T09:47:07-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -36,6 +31,186 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/social/</loc>
+    <lastmod>2025-01-10T09:37:51-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/social/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/accomodations/</loc>
+    <lastmod>2025-01-10T09:37:29-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/accomodations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/accomodations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/accomodations/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/excursions/</loc>
+    <lastmod>2025-01-10T09:36:54-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/excursions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/excursions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/excursions/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/flights/</loc>
+    <lastmod>2025-01-10T09:36:37-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/flights/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/flights/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/flights/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/packs/</loc>
+    <lastmod>2025-01-10T09:36:27-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/packs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/packs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/packs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/taxi/</loc>
+    <lastmod>2025-01-10T09:35:13-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/taxi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/taxi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/taxi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/accomod/</loc>
+    <lastmod>2025-01-10T09:31:50-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/accomod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/accomod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/accomod/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/offers/</loc>
+    <lastmod>2025-01-10T09:31:28-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/offers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/offers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/offers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/services/</loc>
+    <lastmod>2025-01-10T09:31:07-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/services/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <lastmod>2025-01-06T17:05:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/contact/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/thanks/</loc>
@@ -54,24 +229,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/thanks/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/services/</loc>
-    <lastmod>2025-01-06T17:01:54-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/services/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/gallery/</loc>

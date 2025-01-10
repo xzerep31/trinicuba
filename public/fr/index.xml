@@ -6,12 +6,54 @@
     <description>Recent content on TriniCuba</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 06 Jan 2025 17:05:41 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 09:37:57 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social</title>
+      <link>http://localhost:1313/fr/services/social/</link>
+      <pubDate>Fri, 10 Jan 2025 09:37:57 -0500</pubDate>
+      <guid>http://localhost:1313/fr/services/social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accomodations</title>
+      <link>http://localhost:1313/fr/services/accomodations/</link>
+      <pubDate>Fri, 10 Jan 2025 09:37:34 -0500</pubDate>
+      <guid>http://localhost:1313/fr/services/accomodations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excursions</title>
+      <link>http://localhost:1313/fr/services/excursions/</link>
+      <pubDate>Fri, 10 Jan 2025 09:37:00 -0500</pubDate>
+      <guid>http://localhost:1313/fr/services/excursions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flights</title>
+      <link>http://localhost:1313/fr/services/flights/</link>
+      <pubDate>Fri, 10 Jan 2025 09:36:41 -0500</pubDate>
+      <guid>http://localhost:1313/fr/services/flights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>http://localhost:1313/fr/services/packs/</link>
+      <pubDate>Fri, 10 Jan 2025 09:35:29 -0500</pubDate>
+      <guid>http://localhost:1313/fr/services/packs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taxi</title>
+      <link>http://localhost:1313/fr/services/taxi/</link>
+      <pubDate>Fri, 10 Jan 2025 09:35:18 -0500</pubDate>
+      <guid>http://localhost:1313/fr/services/taxi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/fr/contact/</link>
-      <pubDate>Mon, 06 Jan 2025 17:05:41 -0500</pubDate>
+      <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
       <guid>http://localhost:1313/fr/contact/</guid>
       <description></description>
     </item>
@@ -20,13 +62,6 @@
       <link>http://localhost:1313/fr/thanks/</link>
       <pubDate>Mon, 06 Jan 2025 17:02:20 -0500</pubDate>
       <guid>http://localhost:1313/fr/thanks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Services</title>
-      <link>http://localhost:1313/fr/services/</link>
-      <pubDate>Mon, 06 Jan 2025 17:02:00 -0500</pubDate>
-      <guid>http://localhost:1313/fr/services/</guid>
       <description></description>
     </item>
     <item>

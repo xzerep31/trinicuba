@@ -10,43 +10,24 @@
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     <!--<p class="footer-text">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>-->
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    <p>
-                        <span>{{ i18n "Designed by" }} <a href="{{ .Site.Params.website_author }}" target="_blank">{{ .Site.Params.author }}</a>.</span>
-                    </p>
                 </div>    
                     
+            </div>					
+            <div class="col-lg-5 col-md-6 col-sm-6">
+                <div class="footer-links align-content-center">
+                    <h6> {{ i18n "Other Links"}} </h6>
+                    <div class="footer-links d-flex align-items-center">
+                        {{ with .Site.Params.footer_links }}
+                            {{ range sort . "weight" }}
+                                <a href="{{ .url  }}">{{ .name }}</a>
+                            {{ end }}
+                            {{ end }} 
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-5  col-md-6 col-sm-6">
+            <div class="col-lg-2  col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h6>{{ i18n "Newsletter" }}</h6>
-                    <p>Stay update with our latest</p>
-                    <div class="" id="mc_embed_signup">
-
-                            <form action="{{ .Site.Params.formsubmit_action }}" method="POST" class="form-inline">
-
-                            <div class="d-flex flex-row">
-
-                                <input class="form-control" name="EMAIL" placeholder="Enter Email" required="" type="email">
-                                <input type="hidden" name="_subject" value="Nuevo contacto!">
-                                <input type="hidden" name="_captcha" value="false">
-                                <input type="hidden" name="_template" value="box">
-                                <!-- <input type="hidden" name="_next" value="{{ .Site.BaseURL }}thanks"> -->
-                
-                                <button class="click-btn btn btn-default" type="submit"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
-
-                                <!-- <div class="col-lg-4 col-md-4">
-                                    <button class="bb-btn btn"><span class="lnr lnr-arrow-right"></span></button>
-                                </div>  -->
-                            </div>		
-                            <div class="info"></div>
-                            </form>
-                    </div>
-                    </div>
-            </div>						
-            <div class="col-lg-2 col-md-6 col-sm-6 social-widget">
-                <div class="single-footer-widget">
-                    <h6>Follow Us</h6>
-                    <p>Let us be social</p>
+                    <h6>{{ i18n "followus" }}</h6>
                     <div class="footer-social d-flex align-items-center">
                         {{ with .Site.Params.social }}
                         {{ range sort . "weight" }}
@@ -54,13 +35,13 @@
                         {{ end }}
                         {{ end }}
                     </div>
-                    <br>
-                    <br>
-                    <div class="footer-links align-content-center">
-                        <h6> {{ i18n "Other Links"}} </h6>
-                        <a href="https://cubacasasrental.com">Cuba Casas Rental</a>
-                    </div>
-                </div>
+                </div>	
+            </div>
+            <div class="col-md-12 d-flex justify-content-center">
+                <p>
+                    <span>{{ i18n "Designed by" }} <a href="{{ .Site.Params.website_author }}" target="_blank">{{ .Site.Params.author }}</a></span>
+                </p>
+            </div>
             </div>							
         </div>
     </div>

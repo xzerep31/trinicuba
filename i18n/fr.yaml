@@ -3,3 +3,30 @@
 
 - id: slogan
   translation: "Le choix vous appartient, le goût nous appartient"
+
+- id: contactname
+  translation: "Entrez votre nom"
+
+- id: contactmail
+  translation: "Entrez l'adresse e-mail"
+
+- id: contactcountry
+  translation: "Sélectionnez votre pays"
+
+- id: contacthostal
+  translation: "Sélectionnez votre auberge"
+
+- id: arrivalDate
+  translation: "Date d'arrivée"
+
+- id: departDate
+  translation: "Date de départ"
+
+- id: contactroom
+  translation: "Chambres"
+
+- id: contactpax
+  translation: "Personnes"
+
+- id: contactmsg
+  translation: "Commentaires"

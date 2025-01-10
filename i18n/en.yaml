@@ -39,3 +39,30 @@
 
 - id: slogan
   translation: "The choice is yours, the taste is ours"
+
+- id: contactname
+  translation: "Enter your name"
+
+- id: contactmail
+  translation: "Enter email address"
+
+- id: contactcountry
+  translation: "Select your country"
+
+- id: contacthostal
+  translation: "Select your hostel"
+
+- id: arrivalDate
+  translation: "Arrival date"
+
+- id: departDate
+  translation: "Departure date"
+
+- id: contactroom
+  translation: "Rooms"
+
+- id: contactpax
+  translation: "Pax"
+
+- id: contactmsg
+  translation: "Comments"

@@ -69,6 +69,7 @@ canonifyUrls = true
     js = [
             "js/vendor/jquery-2.2.4.min.js",
             "js/vendor/bootstrap.min.js",
+            "js/vendor/form.js",
             "js/jquery.magnific-popup.min.js",
             "js/owl.carousel.min.js",
             "js/jquery.sticky.js",
@@ -131,6 +132,10 @@ canonifyUrls = true
     weight = 2
     url = "#about"
 [[menu.main]]
+    name = "Booking"
+    weight = 3
+    url = "/contact/"    
+[[menu.main]]
     name = "Services"
     weight = 4
     url = "#services"
@@ -158,3 +163,9 @@ canonifyUrls = true
 # Staff
 [params.staff]
     enable = false
+
+# Other footer links
+[[params.footer_links]]
+    weight = 1
+    name = "Cuba Casas Rental"
+    url = "https://cubacasasrental.com"

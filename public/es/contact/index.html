@@ -69,6 +69,10 @@
                         </li>
                     
                         <li class="nav-item">
+                            <a href="http://localhost:1313/es/contact/" data-scroll-nav=".weight">Reservas</a>
+                        </li>
+                    
+                        <li class="nav-item">
                             <a href="http://localhost:1313/es/#services" data-scroll-nav=".weight">Servicios</a>
                         </li>
                     
@@ -96,55 +100,48 @@
     <section class="default-banner active-blog-slider">
         
         <div class="item-slider relative" style="background: url(/img/banner-01.png);background-size: cover;">
-    <div class="overlay" style="background: rgba(0,0,0,.3)"></div>
+    <div class="overlay" style="background: rgba(0,0,0,.5)"></div>
     <div class="container">
-        <div class="row fullscreen justify-content-center align-items-center">
-            <div class="col-md-10 col-12">
-                <div class="banner-content text-center">
-                    <div class="logo">
-                        <img src="http://localhost:1313/img/logo_mod.svg" alt="" width="200px" height="200px">
+        <div class="row fullscreen justify-content-left align-items-end">
+            <div class="col-md-4">
+                <div class="">
+                    <div class="logo text-center">
+                        <img src="http://localhost:1313/img/logo_mod.svg" alt="" width="60px" height="60px">
+                        <p class="text-logo"> Servicios de Viajes </p>
+                        <p class="text-white-banner">&#34;La elección es suya, el gusto es nuestro&#34;</p>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <p class="text-white-banner">La elección es suya, el gusto es nuestro</p>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
 <div class="item-slider relative" style="background: url(/img/banner-02.png);background-size: cover;">
-    <div class="overlay" style="background: rgba(0,0,0,.3)"></div>
+    <div class="overlay" style="background: rgba(0,0,0,.5)"></div>
     <div class="container">
-        <div class="row fullscreen justify-content-center align-items-center">
-            <div class="col-md-10 col-12">
-                <div class="banner-content text-center">
-                    <div class="logo">
-                        <img src="http://localhost:1313/img/logo_mod.svg" alt="" width="200px" height="200px">
+        <div class="row fullscreen justify-content-left align-items-end">
+            <div class="col-md-4">
+                <div class="">
+                    <div class="logo text-center">
+                        <img src="http://localhost:1313/img/logo_mod.svg" alt="" width="60px" height="60px">
+                        <p class="text-logo"> Servicios de Viajes </p>
+                        <p class="text-white-banner">&#34;La elección es suya, el gusto es nuestro&#34;</p>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <p class="text-white-banner">La elección es suya, el gusto es nuestro</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <div class="item-slider relative" style="background: url(/img/banner-03.png);background-size: cover;">
-    <div class="overlay" style="background: rgba(0,0,0,.3)"></div>
+    <div class="overlay" style="background: rgba(0,0,0,.5)"></div>
     <div class="container">
-        <div class="row fullscreen justify-content-center align-items-center">
-            <div class="col-md-10 col-12">
-                <div class="banner-content text-center">
-                    <div class="logo">
-                        <img src="http://localhost:1313/img/logo_mod.svg" alt="" width="200px" height="200px">
-                        <br>
-                        <br>
-                        <br>
-                        <p class="text-white-banner">La elección es suya, el gusto es nuestro</p>
-                </div>
+        <div class="row fullscreen justify-content-left align-items-end">
+            <div class="col-md-4">
+                <div class="">
+                    <div class="logo text-center">
+                        <img src="http://localhost:1313/img/logo_mod.svg" alt="" width="60px" height="60px">
+                        <p class="text-logo"> Servicios de Viajes </p>
+                        <p class="text-white-banner">&#34;La elección es suya, el gusto es nuestro&#34;</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -155,7 +152,272 @@
     <main>
         
     
-        
+
+        <script src="http://localhost:1313/js/vendor/form.js"></script>
+<section id="booking" class="contact-area section-gap" >
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="menu-content pb-60 col-lg-8">
+                <div class="title text-center">
+                    <h1 class="mb-10">Haz una reserva</h1>
+                    <div class="row">
+                        <div class="col-md-3"></div>
+                        <select class="col" id="formSelector">
+                            <option value="">--Selecciona un servicio--</option>
+                            
+                                    <option value="Excursiones/Taxi/Mensajerias"> Servicio de Excursiones  </option>
+                            
+                                    <option value="Excursiones/Taxi/Mensajerias"> Servicios de Taxi  </option>
+                            
+                                    <option value="Excursiones/Taxi/Mensajerias"> Servicios de Mensajería  </option>
+                            
+                                    <option value="Vuelos"> Gestión de Boletos de Avión  </option>
+                            
+                                    <option value="Hospedaje"> Gestión de Alojamiento  </option>
+                            
+                                    <option value="RRSS"> Gestión de Redes Sociales  </option>
+                            
+                        </select>
+                        <div class="col-md-3"></div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>	
+        <div class="form-container" id="Excursiones/Taxi/Mensajerias">
+            <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-12 pb-10 col-lg-8 form-background">
+                        <div class="row">
+                            <div class="col-md-6 mt-10">
+                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-6 mt-10">
+                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 mt-10">
+                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-4 mt-10">
+                                <input name="pax" placeholder="Personas" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personas'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-4 mb-20 mt-10">
+                                <label for="flexRadioDefault1">¿Niños?</label>
+                                <input type="radio" value="childs" name="childs" id="flexRadioDefault1">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-20">
+                                <div class="form-check form-check-inline">
+                                    <label  for="checkTaxi">Taxi</label>
+                                    <input  type="radio" name="Servicio" id="checkTaxi" value="taxi">
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label  for="checkExcursion"> Excursion</label>
+                                    <input  type="radio" name="Servicio" id="checkExcursion" value="excursion">
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label  for="checkPack">Mensajería</label>
+                                    <input type="radio" name="Servicio" id="checkPack" value="pack" >
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-20" >
+                                <div class="input-group">
+                                    <span class="input-group-addon" for="date"> Fecha</span>
+                                    <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea class="common-textarea mt-10 form-control" name="address" placeholder="Dirección de recogida" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de recogida'" required=""></textarea>
+                            </div>
+                        </div>
+                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Excursiones/Taxi/Mensajerias!">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_template" value="table">
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <button class="primary-btn mt-20">Enviar...<span class="fa fa-send fa-fw"></span></button>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="form-container" id="RRSS">
+            <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-12 pb-10 col-lg-8 form-background">
+                        <div class="row">
+                            <div class="col-md-6 mt-10">
+                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-6 mt-10">
+                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                            </div>                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-20">
+                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-6">
+                                <select name="Paquete" class="col form-control">
+                                    <option value="">--Selecciona un servicio--</option>
+                                    <option value="Creación de Página Web">Creación de Página Web</option>
+                                    <option value="Gestión de redes sociales (FB &#43; IG &#43; WhatsApp)"> Gestión de redes sociales (FB &#43; IG &#43; WhatsApp)</option>
+                                    <option value="Ambas">Ambas</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
+                            </div>
+                        </div>
+                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Gestión de Redes Sociales!">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_template" value="table">
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <button class="primary-btn mt-10">Enviar...<span class="lnr lnr-arrow-right"></span></button>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="form-container" id="Vuelos">
+            <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-12 pb-10 col-lg-8 form-background">
+                        <div class="row">
+                            <div class="col-md-4 mt-10">
+                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-4 mt-10">
+                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                            </div>
+                            <div class="col-md-4 mt-10">
+                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-20">
+                                <div class="input-group">
+                                    <span class="input-group-addon" for="Date"> Fecha</span>
+                                    <input type="date" name="date" class="commom-input mb-20 form-control" id="Date" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <select name="Oferta" class="col form-control">
+                                    <option value="">--Selecciona una oferta--</option>
+                                    
+                                        <option value="CUN - HAV - CUN"> CUN - HAV - CUN  </option>
+                                    
+                                        <option value="">   </option>
+                                    
+                                        <option value="">   </option>
+                                    
+                                        <option value="">   </option>
+                                    
+                                        <option value="">   </option>
+                                    
+                                        <option value="">   </option>
+                                    
+                                        <option value="">   </option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
+                            </div>
+                        </div>
+                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Boletos de Avión!">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_template" value="table">
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <button class="primary-btn mt-20">Enviar...<span class="lnr lnr-arrow-right"></span></button>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="form-container" id="Hospedaje">
+            <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-12 pb-10 col-lg-8 form-background">
+                        <div class="row">
+                            <div class="col-md-6 mt-10">
+                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-6 mt-10">
+                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 mt-10">
+                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-4 mt-10">
+                                <input name="pax" placeholder="Personas" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personas'" class="common-input mb-20 form-control" required="" type="text">
+                            </div>
+                            <div class="col-md-4 mb-20 mt-10">
+                                <label for="flexRadioDefault1">¿Niños?</label>
+                                <input type="radio" value="childs" name="childs" id="flexRadioDefault1">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-20">
+                                <div class="input-group">
+                                    <span class="input-group-addon" for="arrivalDate"> Fecha de llegada</span>
+                                    <input type="date" name="checkout" class="commom-input mb-20 form-control" id="arrivalDate" />
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-20" >
+                                <div class="input-group">
+                                    <span class="input-group-addon" for="departDate"> Fecha de Salida</span>
+                                    <input type="date" name="checkin" class="commom-input mb-20 form-control" id="departDate" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
+                            </div>
+                        </div>
+                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Gestión de Alojamiento!">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_template" value="table">
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <button class="primary-btn mt-20">Enviar...<span class="lnr lnr-arrow-right"></span></button>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>												
+    </div>	
+</section>
+
     
 
 
@@ -174,41 +436,24 @@
                     
                     
                     
-                    <p>
-                        <span>Sitio diseñado por <a href="https://github.com/xzerep31/" target="_blank">Ing. Pedro Victor Navarrete Alejo</a>.</span>
-                    </p>
                 </div>    
                     
+            </div>					
+            <div class="col-lg-5 col-md-6 col-sm-6">
+                <div class="footer-links align-content-center">
+                    <h6> Enlaces Amigos </h6>
+                    <div class="footer-links d-flex align-items-center">
+                        
+                            
+                                <a href="https://cubacasasrental.com">Cuba Casas Rental</a>
+                            
+                             
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-5  col-md-6 col-sm-6">
+            <div class="col-lg-2  col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h6>Actualizaciones</h6>
-                    <p>Stay update with our latest</p>
-                    <div class="" id="mc_embed_signup">
-
-                            <form action="https://formsubmit.co/reserva@trinicuba.com" method="POST" class="form-inline">
-
-                            <div class="d-flex flex-row">
-
-                                <input class="form-control" name="EMAIL" placeholder="Enter Email" required="" type="email">
-                                <input type="hidden" name="_subject" value="Nuevo contacto!">
-                                <input type="hidden" name="_captcha" value="false">
-                                <input type="hidden" name="_template" value="box">
-                                
-                
-                                <button class="click-btn btn btn-default" type="submit"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
-
-                                
-                            </div>		
-                            <div class="info"></div>
-                            </form>
-                    </div>
-                    </div>
-            </div>						
-            <div class="col-lg-2 col-md-6 col-sm-6 social-widget">
-                <div class="single-footer-widget">
-                    <h6>Follow Us</h6>
-                    <p>Let us be social</p>
+                    <h6>Síguenos</h6>
                     <div class="footer-social d-flex align-items-center">
                         
                         
@@ -220,13 +465,13 @@
                         
                         
                     </div>
-                    <br>
-                    <br>
-                    <div class="footer-links align-content-center">
-                        <h6> Enlaces Amigos </h6>
-                        <a href="https://cubacasasrental.com">Cuba Casas Rental</a>
-                    </div>
-                </div>
+                </div>	
+            </div>
+            <div class="col-md-12 d-flex justify-content-center">
+                <p>
+                    <span>Sitio diseñado por <a href="https://github.com/xzerep31/" target="_blank">Ing. Pedro Victor Navarrete Alejo</a></span>
+                </p>
+            </div>
             </div>							
         </div>
     </div>
@@ -243,6 +488,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
         <script src="http://localhost:1313/js/vendor/jquery-2.2.4.min.js"></script>
         <script src="http://localhost:1313/js/vendor/bootstrap.min.js"></script>
+        <script src="http://localhost:1313/js/vendor/form.js"></script>
         <script src="http://localhost:1313/js/jquery.magnific-popup.min.js"></script>
         <script src="http://localhost:1313/js/owl.carousel.min.js"></script>
         <script src="http://localhost:1313/js/jquery.sticky.js"></script>

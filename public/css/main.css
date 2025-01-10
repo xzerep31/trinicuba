@@ -19,12 +19,12 @@
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #b01afe;
+  background-color: #17798C;
   color: #fff;
 }
 
 ::selection {
-  background-color: #b01afe;
+  background-color: #17798C;
   color: #fff;
 }
 
@@ -584,7 +584,7 @@ td, th {
 .text-white-banner {
   color: #fff ;
   font-family: "Libre Baskerville";
-  font-size: 48pt;
+  font-size: 18pt;
   text-indent: .20em;
   line-height: 1em;
 }
@@ -592,7 +592,7 @@ td, th {
 .text-logo {
   color: red;
   font-family: "Maravale";
-  font-size: 24pt;
+  font-size: 18pt;
 }
 
 .text-black {
@@ -1843,6 +1843,14 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
+.form-container {
+  display: none;
+}
+
+.form-background {
+  background: rgba(218, 234, 244, 0.788);
+}
+
 .form-select .nice-select {
   border: none;
   border-radius: 0px;
@@ -1891,6 +1899,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .form-select .nice-select::after {
   right: 20px;
+}
+
+.label {
+    margin-bottom: 0px;
+    padding-top: 10px;
 }
 
 @media (max-width: 992px) {
@@ -1976,9 +1989,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .single-feature:hover, .video-area .overlay-bg, .single-footer-widget .click-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background-image: -webkit-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background-image: -ms-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
+  background-image: -moz-linear-gradient(0deg, #17798C 0%, #732bde 100%);
+  background-image: -webkit-linear-gradient(0deg, #17798C 0%, #732bde 100%);
+  background-image: -ms-linear-gradient(0deg, #17798C 0%, #732bde 100%);
 }
 
 .p1-gradient-color, .counter-left h2, .footer-social a:hover i, .single-footer-widget .bb-btn {
@@ -2940,4 +2953,13 @@ h6 {
 
 .switch-wrap p {
   margin: 0;
+}
+
+
+/*** Service ***/
+.service-icon {
+  margin: 0 auto 30px auto;
+  width: 65px;
+  height: 65px;
+  transition: .5s;
 }
