@@ -584,15 +584,18 @@ td, th {
 .text-white-banner {
   color: #fff ;
   font-family: "Libre Baskerville";
-  font-size: 18pt;
+  text-shadow: 0 1px 0 red;
+  font-size: 22pt;
   text-indent: .20em;
   line-height: 1em;
 }
 
 .text-logo {
   color: red;
+  text-shadow: 0 1px 0 #fff,
+              3px 8px 15px rgba(0,0,0,0.1);
   font-family: "Maravale";
-  font-size: 18pt;
+  font-size: 22pt;
 }
 
 .text-black {
@@ -2753,10 +2756,7 @@ h6 {
     z-index: 1;
 }
 
-.logo{
-  background: rgba(0, 0, 0, 0.5);
-  border-radius: 10%;
-}
+
 
 .banner-area .logo_h {
   padding-top: 0px;

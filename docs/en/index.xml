@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TriniCuba</title>
-    <link>https://xzerep31.github.io/trinicuba/en/</link>
+    <link>https://trinicuba.com/en/</link>
     <description>Recent content on TriniCuba</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 06 Jan 2025 17:05:18 -0500</lastBuildDate>
-    <atom:link href="https://xzerep31.github.io/trinicuba/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trinicuba.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://xzerep31.github.io/trinicuba/en/contact/</link>
+      <link>https://trinicuba.com/en/contact/</link>
       <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
-      <guid>https://xzerep31.github.io/trinicuba/en/contact/</guid>
+      <guid>https://trinicuba.com/en/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Thanks</title>
-      <link>https://xzerep31.github.io/trinicuba/en/thanks/</link>
+      <link>https://trinicuba.com/en/thanks/</link>
       <pubDate>Mon, 06 Jan 2025 17:02:20 -0500</pubDate>
-      <guid>https://xzerep31.github.io/trinicuba/en/thanks/</guid>
+      <guid>https://trinicuba.com/en/thanks/</guid>
       <description></description>
     </item>
     <item>
       <title>Accomodations</title>
-      <link>https://xzerep31.github.io/trinicuba/en/gallery/</link>
+      <link>https://trinicuba.com/en/gallery/</link>
       <pubDate>Mon, 06 Jan 2025 17:01:44 -0500</pubDate>
-      <guid>https://xzerep31.github.io/trinicuba/en/gallery/</guid>
+      <guid>https://trinicuba.com/en/gallery/</guid>
       <description></description>
     </item>
   </channel>
