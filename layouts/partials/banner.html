@@ -1,51 +1,18 @@
 <div class="item-slider relative" style="background: url({{ "img/banner-01.png" | relURL }});background-size: cover;">
     <div class="overlay" style="background: rgba(0,0,0,.1)"></div>
     <div class="container">
-        <div class="row fullscreen">
-            <div class="row"></div>
-            <div class="row">
-                <div class="align-items-left text-center">
-                    <img src="{{ "img/logo_mod.svg" | relURL }}" alt="" width="150px" height="150px">
-                    <p class="text-logo"> {{ i18n "agency" }} </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class=" text-center">
-                    <p class="text-white-banner">{{ i18n "slogan" }}</p>
-                </div>
-            </div>
-        </div>
+        {{ partial "slogan" . }}
     </div>
 </div>
 <div class="item-slider relative" style="background: url({{ "img/banner-02.png" | relURL }});background-size: cover;">
-    <div class="overlay" style="background: rgba(0,0,0,.5)"></div>
+    <div class="overlay" style="background: rgba(0,0,0,.1)"></div>
     <div class="container">
-        <div class="row fullscreen justify-content-center align-items-center">
-            <div class="col-md-4">
-                <div class="">
-                    <div class="logo text-center">
-                        <img src="{{ "img/logo_mod.svg" | relURL }}" alt="" width="100px" height="100px">
-                        <p class="text-logo"> {{ i18n "agency" }} </p>
-                        <p class="text-white-banner">{{ i18n "slogan" }}</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {{ partial "slogan" . }}
     </div>
 </div>
 <div class="item-slider relative" style="background: url({{ "img/banner-03.png" | relURL }});background-size: cover;">
     <div class="overlay" style="background: rgba(0,0,0,.1)"></div>
     <div class="container">
-        <div class="row fullscreen justify-content-center align-items-center">
-            <div class="col-md-4">
-                <div class="">
-                    <div class="logo text-center">
-                        <img src="{{ "img/logo_mod.svg" | relURL }}" alt="" width="100px" height="100px">
-                        <p class="text-logo"> {{ i18n "agency" }} </p>
-                        <p class="text-white-banner">{{ i18n "slogan" }}</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {{ partial "slogan" . }}
     </div>
 </div>

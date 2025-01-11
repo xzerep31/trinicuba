@@ -16,45 +16,38 @@
       <description></description>
     </item>
     <item>
-      <title>Mad Hav Mad</title>
-      <link>http://localhost:1313/es/offers/mad-hav-mad/</link>
-      <pubDate>Fri, 10 Jan 2025 12:10:48 -0500</pubDate>
-      <guid>http://localhost:1313/es/offers/mad-hav-mad/</guid>
+      <title>MID - HAV - MID</title>
+      <link>http://localhost:1313/es/offers/hav-mid/</link>
+      <pubDate>Fri, 10 Jan 2025 12:07:15 -0500</pubDate>
+      <guid>http://localhost:1313/es/offers/hav-mid/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mia Hav Mia</title>
-      <link>http://localhost:1313/es/offers/mia-hav-mia/</link>
-      <pubDate>Fri, 10 Jan 2025 12:09:09 -0500</pubDate>
-      <guid>http://localhost:1313/es/offers/mia-hav-mia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mex Hav Mex</title>
-      <link>http://localhost:1313/es/offers/mex-hav-mex/</link>
-      <pubDate>Fri, 10 Jan 2025 12:08:27 -0500</pubDate>
-      <guid>http://localhost:1313/es/offers/mex-hav-mex/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hav Sdq Geo</title>
+      <title>HAV - SDQ - GEO</title>
       <link>http://localhost:1313/es/offers/hav-sdq-geo/</link>
       <pubDate>Fri, 10 Jan 2025 12:08:05 -0500</pubDate>
       <guid>http://localhost:1313/es/offers/hav-sdq-geo/</guid>
       <description></description>
     </item>
     <item>
-      <title>Geo Sdq Hav</title>
-      <link>http://localhost:1313/es/offers/geo-sdq-hav/</link>
-      <pubDate>Fri, 10 Jan 2025 12:07:52 -0500</pubDate>
-      <guid>http://localhost:1313/es/offers/geo-sdq-hav/</guid>
+      <title>MAD - HAV - MAD</title>
+      <link>http://localhost:1313/es/offers/mad-hav-mad/</link>
+      <pubDate>Fri, 10 Jan 2025 12:10:48 -0500</pubDate>
+      <guid>http://localhost:1313/es/offers/mad-hav-mad/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hav Mid</title>
-      <link>http://localhost:1313/es/offers/hav-mid/</link>
-      <pubDate>Fri, 10 Jan 2025 12:07:15 -0500</pubDate>
-      <guid>http://localhost:1313/es/offers/hav-mid/</guid>
+      <title>MEX - HAV - MEX</title>
+      <link>http://localhost:1313/es/offers/mex-hav-mex/</link>
+      <pubDate>Fri, 10 Jan 2025 12:08:27 -0500</pubDate>
+      <guid>http://localhost:1313/es/offers/mex-hav-mex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIA - HAV - MIA</title>
+      <link>http://localhost:1313/es/offers/mia-hav-mia/</link>
+      <pubDate>Fri, 10 Jan 2025 12:09:09 -0500</pubDate>
+      <guid>http://localhost:1313/es/offers/mia-hav-mia/</guid>
       <description></description>
     </item>
   </channel>

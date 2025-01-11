@@ -23,6 +23,9 @@
                 href="http://localhost:1313/es/services/excursions/"
                 />
   </url><url>
+    <loc>http://localhost:1313/es/offers/geo-sdq-hav/</loc>
+    <lastmod>2025-01-10T12:07:52-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/es/services/taxi/</loc>
     <lastmod>2025-01-10T09:35:03-05:00</lastmod>
     <xhtml:link
@@ -40,6 +43,9 @@
                 hreflang="es"
                 href="http://localhost:1313/es/services/taxi/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/es/offers/hav-mid/</loc>
+    <lastmod>2025-01-10T12:07:15-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/services/packs/</loc>
     <lastmod>2025-01-10T09:34:57-05:00</lastmod>
@@ -59,6 +65,9 @@
                 href="http://localhost:1313/es/services/packs/"
                 />
   </url><url>
+    <loc>http://localhost:1313/es/offers/hav-sdq-geo/</loc>
+    <lastmod>2025-01-10T12:08:05-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/es/services/flights/</loc>
     <lastmod>2025-01-10T09:34:47-05:00</lastmod>
     <xhtml:link
@@ -76,6 +85,9 @@
                 hreflang="es"
                 href="http://localhost:1313/es/services/flights/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/es/offers/mad-hav-mad/</loc>
+    <lastmod>2025-01-10T12:10:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/services/accomodations/</loc>
     <lastmod>2025-01-10T09:34:31-05:00</lastmod>
@@ -95,6 +107,9 @@
                 href="http://localhost:1313/es/services/accomodations/"
                 />
   </url><url>
+    <loc>http://localhost:1313/es/offers/mex-hav-mex/</loc>
+    <lastmod>2025-01-10T12:08:27-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/es/services/social/</loc>
     <lastmod>2025-01-10T09:34:17-05:00</lastmod>
     <xhtml:link
@@ -113,8 +128,8 @@
                 href="http://localhost:1313/es/services/social/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/offers/mad-hav-mad/</loc>
-    <lastmod>2025-01-10T12:10:48-05:00</lastmod>
+    <loc>http://localhost:1313/es/offers/mia-hav-mia/</loc>
+    <lastmod>2025-01-10T12:09:09-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/</loc>
     <lastmod>2025-01-10T12:10:48-05:00</lastmod>
@@ -133,21 +148,6 @@
                 hreflang="es"
                 href="http://localhost:1313/es/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/offers/mia-hav-mia/</loc>
-    <lastmod>2025-01-10T12:09:09-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/es/offers/mex-hav-mex/</loc>
-    <lastmod>2025-01-10T12:08:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/es/offers/hav-sdq-geo/</loc>
-    <lastmod>2025-01-10T12:08:05-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/es/offers/geo-sdq-hav/</loc>
-    <lastmod>2025-01-10T12:07:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/es/offers/hav-mid/</loc>
-    <lastmod>2025-01-10T12:07:15-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/accomod/</loc>
     <lastmod>2025-01-10T09:30:58-05:00</lastmod>

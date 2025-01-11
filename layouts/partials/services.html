@@ -19,7 +19,7 @@
                         <h4> {{ i18n .Params.name }}</h4>                      
                     </div>
                     <p>
-                        {{ i18n .Params.description }}<a href="{{ .Params.address | relLangURL }}"> {{ i18n "readmore" }}</a>
+                        <a href="{{ .Params.address | relLangURL }}"> {{ i18n .Params.description }} {{ i18n "readmore" }}</a>
                     </p>							
                 </div>							
             </div>
