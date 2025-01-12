@@ -1,22 +1,40 @@
-{{ if isset .Site.Data "accomod" }}
-    {{ if gt (len .Site.Data.accomod) 0 }}           
-        <div id="hostales" class="gallery-main">
-            <div class="section">
-                <div class="gal-container clearfix columns ">
-                    {{ range sort .Site.Data.accomod "weight"}}
-                    <div class="column is-3 gal-item">
-                        <div class=" position-relative box">
-                            <a href="{{ .address }}">
-                                <img src="{{ .screenshot }}" alt="" />
-                            </a>
-                            <div class="col-md-12 description">
-                                <h4>{{ .name }}</h4>
-                            </div>
-                        </div>
+<div class="container" id="hostales">
+    <div class="row mt-20">
+        {{ range (where .Site.RegularPages "Type" "accomod") }}
+    <div class="column is-4">
+        <div class="room-item shadow rounded overflow-hidden">
+            <div class="position-relative">
+                <img class="img-fluid" src="{{ .Params.screenshot }}" alt="" width="">
+            </div>
+            <div class="p-4 mt-2">
+                <div class="d-flex justify-content-between mb-3">
+                    <h5 class="mb-0">{{ .Params.name}}</h5>
+                    <div class="ps-2">
+                        <small class="fa fa-star text-primary"></small>
+                        <small class="fa fa-star text-primary"></small>
+                        <small class="fa fa-star text-primary"></small>
+                        <small class="fa fa-star text-primary"></small>
+                        <small class="fa fa-star text-primary"></small>
                     </div>
+                </div>
+                <div class="d-flex mb-3">
+                    {{ if isset .Params "rooms" }}
+                        <small class="border-end me-3 pe-3"><i class="fa fa-bed text-primary me-2"></i>{{ .Params.bed }}</small>
                     {{ end }}
+                    {{ if isset .Params "bath" }}
+                        <small class="border-end me-3 pe-3"><i class="fa fa-bath text-primary me-2"></i>{{ .Params.bath }}</small>
+                    {{ end }}
+                    {{ if eq .Params.Wifi "on" }}
+                        <small><i class="fa fa-wifi text-primary me-2"></i>Wifi</small>
+                    {{ else }}
+                    {{ end }}
+                </div>
+                <div class="d-flex mb-3">
+                    <a href="{{ .Params.address }}">Visita su página</a>
                 </div>
             </div>
         </div>
-{{ end }}
-{{ end }}
+    </div>
+    {{ end }}
+    </div>    
+</div>
