@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on TriniCuba</title>
-    <link>http://localhost:1313/es/services/</link>
+    <link>http://localhost:1313/trinicuba/es/services/</link>
     <description>Recent content in Services on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 10 Jan 2025 09:35:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/es/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/trinicuba/es/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excursions</title>
-      <link>http://localhost:1313/es/services/excursions/</link>
+      <link>http://localhost:1313/trinicuba/es/services/excursions/</link>
       <pubDate>Fri, 10 Jan 2025 09:34:37 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/excursions/</guid>
+      <guid>http://localhost:1313/trinicuba/es/services/excursions/</guid>
       <description></description>
     </item>
     <item>
       <title>Taxi</title>
-      <link>http://localhost:1313/es/services/taxi/</link>
+      <link>http://localhost:1313/trinicuba/es/services/taxi/</link>
       <pubDate>Fri, 10 Jan 2025 09:35:03 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/taxi/</guid>
+      <guid>http://localhost:1313/trinicuba/es/services/taxi/</guid>
       <description></description>
     </item>
     <item>
       <title>Packs</title>
-      <link>http://localhost:1313/es/services/packs/</link>
+      <link>http://localhost:1313/trinicuba/es/services/packs/</link>
       <pubDate>Fri, 10 Jan 2025 09:34:57 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/packs/</guid>
+      <guid>http://localhost:1313/trinicuba/es/services/packs/</guid>
       <description></description>
     </item>
     <item>
       <title>Flights</title>
-      <link>http://localhost:1313/es/services/flights/</link>
+      <link>http://localhost:1313/trinicuba/es/services/flights/</link>
       <pubDate>Fri, 10 Jan 2025 09:34:47 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/flights/</guid>
+      <guid>http://localhost:1313/trinicuba/es/services/flights/</guid>
       <description></description>
     </item>
     <item>
       <title>Accomodations</title>
-      <link>http://localhost:1313/es/services/accomodations/</link>
+      <link>http://localhost:1313/trinicuba/es/services/accomodations/</link>
       <pubDate>Fri, 10 Jan 2025 09:34:31 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/accomodations/</guid>
+      <guid>http://localhost:1313/trinicuba/es/services/accomodations/</guid>
       <description></description>
     </item>
     <item>
       <title>Social</title>
-      <link>http://localhost:1313/es/services/social/</link>
+      <link>http://localhost:1313/trinicuba/es/services/social/</link>
       <pubDate>Fri, 10 Jan 2025 09:34:17 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/social/</guid>
+      <guid>http://localhost:1313/trinicuba/es/services/social/</guid>
       <description></description>
     </item>
   </channel>

@@ -19,7 +19,15 @@
                             <a href="{{ .URL | relLangURL }}" data-scroll-nav="{{ ".weight" }}">{{ i18n .Name }}</a>
                         </li>
                     {{ end }}
-                    {{ end }}   
+                    {{ end }}
+                    <li class="dropdown">
+                        <span class=" {{ .Language.Params.flag }}"></span>
+                        <div class="dropdown-menu">
+                            {{ range .Translations }}
+                                <a class="dropdown-item" href="{{ .Permalink }}" hreflang="{{ .Language.Lang }} "><span class=" {{ .Language.Params.flag }}"></span></a>
+                            {{ end }}
+                        </div>  
+                    </li>
                 </ul>
               </div>						
         </div>

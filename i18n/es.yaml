@@ -16,6 +16,9 @@
 - id: "Accomodation"
   translation: "Hostales"
 
+- id: "Testimonials"
+  translation: "Comentarios"
+
 - id: "Contact"
   translation: "Contáctenos"
 
@@ -153,4 +156,10 @@
 
 - id: "readmore"
   translation: "Leer más ..."
+
+- id: "thanks"
+  translation: "¡Gracias por contactarnos!"
+
+- id: "thanksDesc"
+  translation: "Su correo se ha enviado de forma satisfactoria. Agradecemos que nos haya contactado. A vuelta de correo le responderemos."
 

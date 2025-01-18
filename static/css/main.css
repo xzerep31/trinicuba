@@ -2121,8 +2121,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .dropdown-item {
-  font-size: 14px;
-  width: auto !important;
+  font-size: 12px;
   text-align: left;
 }
 
@@ -2157,7 +2156,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .dropdown-menu a {
-  padding: 5px 15px;
+  padding: 15px 15px;
 }
 
 @media (max-width: 767px) {

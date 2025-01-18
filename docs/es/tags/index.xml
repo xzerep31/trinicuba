@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TriniCuba</title>
-    <link>https://trinicuba.com/es/tags/</link>
+    <link>https://xzerep31.github.io/trinicuba/es/tags/</link>
     <description>Recent content in Tags on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://trinicuba.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xzerep31.github.io/trinicuba/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
