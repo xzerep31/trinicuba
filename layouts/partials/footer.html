@@ -1,40 +1,49 @@
-<footer class="footer-area section-gap ">
-    <div class=" flex footer-content">
-        <div class="footer-text">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="single-footer-widget">
-                        <h6>{{ i18n "About Us" }}</h6>
-                        <p>
-                            {{ i18n "AboutUsDesc" }}
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-footer-widget footer-links">
-                        <h6> {{ i18n "Other Links"}} </h6>
+<footer class="footer-area section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-md-6 col-sm-6">
+                <div class="single-footer-widget">
+                    <h6>{{ i18n "About Us" }}</h6>
+                    <p>
+                        {{ i18n "AboutUsDesc" }}
+                    </p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    <!--<p class="footer-text">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>-->
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                </div>    
+                    
+            </div>					
+            <div class="col-lg-5 col-md-6 col-sm-6">
+                <div class="footer-links align-content-center">
+                    <h6> {{ i18n "Other Links"}} </h6>
+                    <div class="footer-links d-flex align-items-center">
                         {{ with .Site.Params.footer_links }}
                             {{ range sort . "weight" }}
                                 <a href="{{ .url  }}">{{ .name }}</a>
                             {{ end }}
-                        {{ end }} 
+                            {{ end }} 
                     </div>
-                </div>    
-                <div class="col-md-4">
-                    <div class="single-footer-widget footer-social" id="contact">
-                        <h6>{{ i18n "followus" }}</h6>
+                </div>
+            </div>
+            <div class="col-lg-2  col-md-6 col-sm-6">
+                <div class="single-footer-widget" id="contact">
+                    <h6>{{ i18n "followus" }}</h6>
+                    <div class="footer-social d-flex align-items-center">
                         {{ with .Site.Params.social }}
-                            {{ range sort . "weight" }}
-                                <a href="{{ .url }}"><i class="{{ .icon }}"></i></a>
-                            {{ end }}
+                        {{ range sort . "weight" }}
+                            <a href="{{ .url }}"><i class="{{ .icon }}"></i></a>
+                        {{ end }}
                         {{ end }}
                     </div>
                 </div>	
             </div>
+            <div class="col-md-12 d-flex justify-content-center">
+                <p>
+                    <span>{{ i18n "Designed by" }} <a href="{{ .Site.Params.website_author }}" target="_blank">{{ .Site.Params.author }}</a></span>
+                </p>
             </div>
-    </div>
-    <div class="copy-right-text">
-            <span>{{ i18n "Designed by" }} <a href="{{ .Site.Params.website_author }}" target="_blank">{{ .Site.Params.author }}</a></span>
+            </div>							
+        </div>
     </div>
     <div class="wabtn" id="wabutton">
         <style> [wa-tooltip] { position: relative; cursor: default;  &:hover { &::before { content: attr(wa-tooltip); font-size: 16px; text-align: center; position: absolute; display: block; right: calc(0% - 100px); left: null; padding: 0px 5px; min-width: 200px; max-width: 200px; bottom: calc(100% + 40px); transform: translate(-50%); animation: fade-in 500ms ease; background: #00E785; border-radius: 4px; color: #ffffff; z-index: 1; } }  button-text { display: flex; align-items: center; justify-content: center; } }  @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.1); } 100% { transform: scale(1); } }  [wa-tooltip] {  }  @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }</style>

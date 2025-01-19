@@ -64,11 +64,7 @@ canonifyUrls = true
             "css/animate.min.css",
             "css/owl.carousel.css",
             "css/main.css",
-            "css/flag-icons.min.css",
-            "css/banner.css",
-            "css/navbar.css",
-            "css/footer.css", 
-            "css/booking.css"
+            "css/flag-icons.min.css"
            ]
 
     js = [
