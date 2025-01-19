@@ -1,0 +1,121 @@
+.default-banner {
+    color: #fff;
+    padding: .1rem 1rem 0;
+}
+
+.content {
+    background: rgba(0, 0, 0, .5);
+}
+
+.slogan {
+    padding-top: 2.4rem;
+    font-family: "Libre Baskerville", sans-serif;
+    font-size: 1.8rem;
+    text-indent: .2rem;
+    line-height: 1.1em;
+}
+
+.line-1 {
+    margin-left: -.8em; 
+    text-shadow: 0 1px 0 red,
+                0 1px 0 red,
+                0 1px 0 red,
+                3px 8px 15px rgba(0,0,0,0.1);
+}
+
+.line-2 {
+    margin-left: 1em; 
+    text-shadow: 0 1px 0 red,
+                0 1px 0 red,
+                0 1px 0 red,
+                3px 8px 15px rgba(0,0,0,0.1);
+}
+
+.banner-text {
+    text-align: center;
+    color: #fff;
+}
+
+.banner-logo {
+    position: relative;
+    display: grid;
+    padding-top: 3rem;
+}
+
+.banner-logo img {
+    height: 12rem;
+    width: 12rem;
+}
+
+.text-logo {
+    margin-left: 2.8em;
+    color: red;
+    text-shadow: 0 1px 0 #fff,
+                    0 1px 0 #fff, 
+                    0 1px 0 #fff,
+                3px 8px 15px rgba(0,0,0,0.1);
+    font-family: "Maravale";
+    font-size: 2rem;
+}
+
+@media screen and (min-width: 320px) {
+    .text-logo {
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (min-width: 375px) {
+    .text-logo {
+        margin-left: 4rem;
+    }
+}
+
+@media screen and (min-width: 425px) {
+    .text-logo {
+        margin-left: 6rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .slogan {
+        padding-top: 6rem;
+        text-align: center;
+    }
+
+    .text-logo {
+        margin-left: 7rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .banner-text {
+        text-align: left;
+    }
+
+    .slogan {
+        padding: 6rem;
+        text-align: center;
+    }
+
+    .text-logo {
+        margin-left: 9rem;
+    }
+
+    .line-1 {
+        margin-left: -2em;
+    }
+
+    .line-2 {
+        margin-left: 1.4em;
+    }
+}

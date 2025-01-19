@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on TriniCuba</title>
+    <link>http://localhost:1313/en/services/</link>
+    <description>Recent content in Services on TriniCuba</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jan 2025 09:37:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social</title>
+      <link>http://localhost:1313/en/services/social/</link>
+      <pubDate>Fri, 10 Jan 2025 09:37:51 -0500</pubDate>
+      <guid>http://localhost:1313/en/services/social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accomodations</title>
+      <link>http://localhost:1313/en/services/accomodations/</link>
+      <pubDate>Fri, 10 Jan 2025 09:37:29 -0500</pubDate>
+      <guid>http://localhost:1313/en/services/accomodations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excursions</title>
+      <link>http://localhost:1313/en/services/excursions/</link>
+      <pubDate>Fri, 10 Jan 2025 09:36:54 -0500</pubDate>
+      <guid>http://localhost:1313/en/services/excursions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flights</title>
+      <link>http://localhost:1313/en/services/flights/</link>
+      <pubDate>Fri, 10 Jan 2025 09:36:37 -0500</pubDate>
+      <guid>http://localhost:1313/en/services/flights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>http://localhost:1313/en/services/packs/</link>
+      <pubDate>Fri, 10 Jan 2025 09:36:27 -0500</pubDate>
+      <guid>http://localhost:1313/en/services/packs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taxi</title>
+      <link>http://localhost:1313/en/services/taxi/</link>
+      <pubDate>Fri, 10 Jan 2025 09:35:13 -0500</pubDate>
+      <guid>http://localhost:1313/en/services/taxi/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

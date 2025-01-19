@@ -40,8 +40,11 @@
 - id: Notice
   translation: "¡Tenemos canal de Whatsapp! ¡Únete!"
 
-- id: slogan
-  translation: '"La elección es suya, el gusto es nuestro"'
+- id: slogan_line1
+  translation: '"La elección es suya,'
+
+- id: slogan_line2
+  translation: 'el gusto es nuestro."'
 
 - id: agency
   translation: "Servicios de Viajes" 

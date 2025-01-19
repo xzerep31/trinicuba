@@ -1,5 +1,5 @@
-# baseURL = 'https://trinicuba.com/'
-baseURL = 'https://xzerep31.github.io/trinicuba'
+baseURL = 'https://trinicuba.com/'
+# baseURL = 'https://xzerep31.github.io/trinicuba'
 languageCode = 'en-us'
 title = 'TriniCuba'
 
@@ -64,7 +64,11 @@ canonifyUrls = true
             "css/animate.min.css",
             "css/owl.carousel.css",
             "css/main.css",
-            "css/flag-icons.min.css"
+            "css/flag-icons.min.css",
+            "css/banner.css",
+            "css/navbar.css",
+            "css/footer.css", 
+            "css/booking.css"
            ]
 
     js = [

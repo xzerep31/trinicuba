@@ -1,0 +1,25 @@
+.contact-area {
+
+}
+
+.selector {
+    height: 50%;
+    width: 70%;
+    justify-content: center;
+}
+
+.booking-text {
+    text-align: center;
+}
+
+.selector h1 {
+    font-size: .8rem;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 1024px) {
+    .selector {
+        justify-content: flex-start;
+    }
+}
+
