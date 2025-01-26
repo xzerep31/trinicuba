@@ -51,6 +51,13 @@
       <description></description>
     </item>
     <item>
+      <title>Booking</title>
+      <link>http://localhost:1313/fr/booking/</link>
+      <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
+      <guid>http://localhost:1313/fr/booking/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>http://localhost:1313/fr/contact/</link>
       <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
@@ -62,6 +69,13 @@
       <link>http://localhost:1313/fr/thanks/</link>
       <pubDate>Mon, 06 Jan 2025 17:02:20 -0500</pubDate>
       <guid>http://localhost:1313/fr/thanks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accomodation</title>
+      <link>http://localhost:1313/fr/accomodations/</link>
+      <pubDate>Mon, 06 Jan 2025 17:01:44 -0500</pubDate>
+      <guid>http://localhost:1313/fr/accomodations/</guid>
       <description></description>
     </item>
     <item>

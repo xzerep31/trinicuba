@@ -1,11 +1,7 @@
 <section class="test padding jumbotron" data-paroller-factor="0.5" data-paroller-factor-xs="0.2" 
         data-paroller-factor-sm="-0.2" id="testimonials">
     <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" data-wow-delay="0.1s">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title text-center text-light text-uppercase">{{ i18n "opinionUs" }}</h6>
-        </div>
         <div class="col-md-12 d-none d-lg-block">
-            <p> Esta sección va a ser moderada por el webmaster.</p>
             <div class="wow fadeInUp" data-wow-delay="0.2s">
                 <div id="graphcomment"></div>
                 <script type="text/javascript">
@@ -30,15 +26,13 @@
                     __semio__gc_graphlogin(__semio__params)
                 }
 
-
                 (function() {
                     var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
                     gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
                     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
                 })();
-                
-
                 </script>
+                <div id="graphcomment-widget"></div>
             </div>
         </div>
     </div>

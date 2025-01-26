@@ -142,6 +142,13 @@
       <description></description>
     </item>
     <item>
+      <title>Booking</title>
+      <link>http://localhost:1313/es/booking/</link>
+      <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
+      <guid>http://localhost:1313/es/booking/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>http://localhost:1313/es/contact/</link>
       <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
@@ -153,6 +160,13 @@
       <link>http://localhost:1313/es/thanks/</link>
       <pubDate>Mon, 06 Jan 2025 17:02:20 -0500</pubDate>
       <guid>http://localhost:1313/es/thanks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accomodation</title>
+      <link>http://localhost:1313/es/accomodations/</link>
+      <pubDate>Mon, 06 Jan 2025 17:01:44 -0500</pubDate>
+      <guid>http://localhost:1313/es/accomodations/</guid>
       <description></description>
     </item>
     <item>

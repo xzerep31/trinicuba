@@ -1,0 +1,121 @@
+/* Section Card Accomodations */
+
+.single-card {
+    background-color: #f9f9ff;
+    padding: 5px 3px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.single-card:hover {
+    cursor: pointer;
+    color: #fff;
+}
+
+.single-card:hover a, .single-card:hover .title .lnr {
+    color: #fff;
+}
+
+.single-card .title .lnr {
+    color: #222;
+    font-weight: 400;
+    margin-right: 12px;
+    font-size: 20px;
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 0 8em;
+    margin: 0 8em;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+.single-card img {
+    width: 12rem;
+    height: auto;
+}
+
+.single-card h5 {
+    font-size: .8em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.single-card h4 {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.single-card h1 {
+    font-size: 2.1em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.single-card a {
+    font-size: .5em;
+    color: #222;
+}
+
+.single-card p {
+    margin: .3rem 1rem;
+}
+
+.rating {
+    color: gold;
+}
+
+@media screen and (min-width: 1024px) {
+    .single-card {
+        background-color: #f9f9ff;
+        padding: 15px 30px;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        -o-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    
+    .card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 0 12rem;
+        margin: 0 12rem;
+        cursor: pointer;
+        transition: transform 0.2s;
+    }
+
+    .single-card h5 {
+        font-size: 2.1em;
+        font-weight: bold;
+    }
+
+    .single-card h4 {
+        font-size: 2.3em;
+        font-weight: bold;
+    }
+
+    .single-card h1 {
+        font-size: 2.9em;
+        font-weight: bold;
+    }
+
+    .single-card img {
+        width: 18rem;
+        height: auto;
+    }
+
+    .single-card p {
+        font-size: 12px;
+        margin: 3rem 2.1rem;
+    }
+
+}
+
+  /* End Section Card Accomodations */

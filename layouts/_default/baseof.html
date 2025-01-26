@@ -26,7 +26,7 @@
         <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end -}}
     
-    <title>{{ .Site.Title }}{{ if not .IsHome }}{{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+    <title>{{ .Site.Title }}{{ if not .IsHome }}{{ with .Title }} | {{ i18n . }}{{ end }}{{ end }}</title>
     
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ "img/favicon.png" | relURL }}">

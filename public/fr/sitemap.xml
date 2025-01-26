@@ -195,6 +195,24 @@
                 href="http://localhost:1313/fr/services/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/booking/</loc>
+    <lastmod>2025-01-06T17:05:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/booking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/booking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/booking/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/contact/</loc>
     <lastmod>2025-01-06T17:05:18-05:00</lastmod>
     <xhtml:link
@@ -229,6 +247,24 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/thanks/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/accomodations/</loc>
+    <lastmod>2025-01-06T17:01:44-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/accomodations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/accomodations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/accomodations/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/gallery/</loc>
