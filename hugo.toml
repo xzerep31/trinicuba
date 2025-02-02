@@ -1,5 +1,5 @@
-baseURL = 'https://trinicuba.com/'
-# baseURL = 'https://xzerep31.github.io/trinicuba'
+# baseURL = 'https://trinicuba.com/'
+baseURL = 'https://xzerep31.github.io/trinicuba/'
 languageCode = 'en-us'
 title = 'TriniCuba'
 
@@ -86,6 +86,13 @@ canonifyUrls = true
     
     author = "Ing. Pedro Victor Navarrete Alejo"
     website_author = "https://github.com/xzerep31/"
+
+    bannerImgs = [
+        "img/banner-01.png",
+        "img/banner-02.png",
+        "img/banner-03.png",
+    ]
+
 
 [languages]
     [languages.es]

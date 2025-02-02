@@ -2,357 +2,357 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/excursions/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/excursions/</loc>
     <lastmod>2025-01-10T09:47:13-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/"
+                href="http://localhost:1313/trinicuba/en/excursions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/"
+                href="http://localhost:1313/trinicuba/fr/excursions/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/</loc>
     <lastmod>2025-01-10T09:47:13-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="http://localhost:1313/trinicuba/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://localhost:1313/trinicuba/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="http://localhost:1313/trinicuba/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/social/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/social/</loc>
     <lastmod>2025-01-10T09:37:57-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/social/"
+                href="http://localhost:1313/trinicuba/es/services/social/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/social/"
+                href="http://localhost:1313/trinicuba/en/services/social/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/social/"
+                href="http://localhost:1313/trinicuba/fr/services/social/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/accomodations/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/accomodations/</loc>
     <lastmod>2025-01-10T09:37:34-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/accomodations/"
+                href="http://localhost:1313/trinicuba/es/services/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/accomodations/"
+                href="http://localhost:1313/trinicuba/en/services/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/accomodations/"
+                href="http://localhost:1313/trinicuba/fr/services/accomodations/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/excursions/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/excursions/</loc>
     <lastmod>2025-01-10T09:37:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/excursions/"
+                href="http://localhost:1313/trinicuba/es/services/excursions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/excursions/"
+                href="http://localhost:1313/trinicuba/en/services/excursions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/excursions/"
+                href="http://localhost:1313/trinicuba/fr/services/excursions/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/flights/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/flights/</loc>
     <lastmod>2025-01-10T09:36:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/flights/"
+                href="http://localhost:1313/trinicuba/es/services/flights/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/flights/"
+                href="http://localhost:1313/trinicuba/en/services/flights/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/flights/"
+                href="http://localhost:1313/trinicuba/fr/services/flights/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/packs/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/packs/</loc>
     <lastmod>2025-01-10T09:35:29-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/packs/"
+                href="http://localhost:1313/trinicuba/es/services/packs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/packs/"
+                href="http://localhost:1313/trinicuba/en/services/packs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/packs/"
+                href="http://localhost:1313/trinicuba/fr/services/packs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/taxi/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/taxi/</loc>
     <lastmod>2025-01-10T09:35:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/taxi/"
+                href="http://localhost:1313/trinicuba/es/services/taxi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/taxi/"
+                href="http://localhost:1313/trinicuba/en/services/taxi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/taxi/"
+                href="http://localhost:1313/trinicuba/fr/services/taxi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/accomod/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/accomod/</loc>
     <lastmod>2025-01-10T09:31:40-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/accomod/"
+                href="http://localhost:1313/trinicuba/es/accomod/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/accomod/"
+                href="http://localhost:1313/trinicuba/en/accomod/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/accomod/"
+                href="http://localhost:1313/trinicuba/fr/accomod/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/offers/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/offers/</loc>
     <lastmod>2025-01-10T09:31:34-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/offers/"
+                href="http://localhost:1313/trinicuba/es/offers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/offers/"
+                href="http://localhost:1313/trinicuba/en/offers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/offers/"
+                href="http://localhost:1313/trinicuba/fr/offers/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/services/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/services/</loc>
     <lastmod>2025-01-10T09:31:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/"
+                href="http://localhost:1313/trinicuba/es/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/"
+                href="http://localhost:1313/trinicuba/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/"
+                href="http://localhost:1313/trinicuba/fr/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/booking/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/booking/</loc>
     <lastmod>2025-01-06T17:05:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/booking/"
+                href="http://localhost:1313/trinicuba/es/booking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/booking/"
+                href="http://localhost:1313/trinicuba/en/booking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/booking/"
+                href="http://localhost:1313/trinicuba/fr/booking/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/contact/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/contact/</loc>
     <lastmod>2025-01-06T17:05:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/contact/"
+                href="http://localhost:1313/trinicuba/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="http://localhost:1313/trinicuba/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/contact/"
+                href="http://localhost:1313/trinicuba/fr/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/thanks/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/thanks/</loc>
     <lastmod>2025-01-06T17:02:20-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/thanks/"
+                href="http://localhost:1313/trinicuba/es/thanks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/thanks/"
+                href="http://localhost:1313/trinicuba/en/thanks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/thanks/"
+                href="http://localhost:1313/trinicuba/fr/thanks/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/accomodations/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/accomodations/</loc>
     <lastmod>2025-01-06T17:01:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/accomodations/"
+                href="http://localhost:1313/trinicuba/es/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/accomodations/"
+                href="http://localhost:1313/trinicuba/en/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/accomodations/"
+                href="http://localhost:1313/trinicuba/fr/accomodations/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/gallery/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/gallery/</loc>
     <lastmod>2025-01-06T17:01:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/gallery/"
+                href="http://localhost:1313/trinicuba/es/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/gallery/"
+                href="http://localhost:1313/trinicuba/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/gallery/"
+                href="http://localhost:1313/trinicuba/fr/gallery/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/about/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/about/</loc>
     <lastmod>2025-01-06T17:01:24-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/about/"
+                href="http://localhost:1313/trinicuba/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="http://localhost:1313/trinicuba/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/about/"
+                href="http://localhost:1313/trinicuba/fr/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/packages/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/packages/</loc>
     <lastmod>2025-01-06T17:00:48-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/packages/"
+                href="http://localhost:1313/trinicuba/es/packages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/packages/"
+                href="http://localhost:1313/trinicuba/en/packages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/packages/"
+                href="http://localhost:1313/trinicuba/fr/packages/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="http://localhost:1313/trinicuba/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/trinicuba/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="http://localhost:1313/trinicuba/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>http://localhost:1313/trinicuba/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="http://localhost:1313/trinicuba/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/trinicuba/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="http://localhost:1313/trinicuba/fr/tags/"
                 />
   </url>
 </urlset>
