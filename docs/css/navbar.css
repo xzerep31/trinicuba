@@ -1,0 +1,23 @@
+.navbar-nav {
+    margin-top: 10px;
+}
+
+.navbar-nav a {
+    padding: 0;
+}
+
+.navbar-nav li {
+    padding: 15px 0;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.navbar-nav a {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #fff;
+    padding: 20px;
+}

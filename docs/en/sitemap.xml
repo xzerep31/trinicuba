@@ -38,6 +38,24 @@
                 href="https://xzerep31.github.io/trinicuba/en/booking/"
                 />
   </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/en/contact/</loc>
+    <lastmod>2025-01-06T17:05:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://xzerep31.github.io/trinicuba/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://xzerep31.github.io/trinicuba/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xzerep31.github.io/trinicuba/en/contact/"
+                />
+  </url><url>
     <loc>https://xzerep31.github.io/trinicuba/en/thanks/</loc>
     <lastmod>2025-01-06T17:02:20-05:00</lastmod>
     <xhtml:link
@@ -72,6 +90,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xzerep31.github.io/trinicuba/en/accomodations/"
+                />
+  </url><url>
+    <loc>https://xzerep31.github.io/trinicuba/en/gallery/</loc>
+    <lastmod>2025-01-06T17:01:44-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://xzerep31.github.io/trinicuba/es/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://xzerep31.github.io/trinicuba/fr/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xzerep31.github.io/trinicuba/en/gallery/"
                 />
   </url><url>
     <loc>https://xzerep31.github.io/trinicuba/en/categories/</loc>

@@ -1,5 +1,5 @@
 {{ range .Site.Params.bannerImgs -}}
-    <div class="item-slider relative" style="background: url('{{ hugo.baseURL | relLangURL }}');background-size: cover;">
+    <div class="item-slider relative" style="background: url('{{ . | relURL }}');background-size: cover;">
         <div class="overlay" style="background: rgba(0,0,0,.1)"></div>
         <div class="grid-container content">
             {{ partial "slogan" . }}
