@@ -1,14 +1,12 @@
-<div class="container" id="vuelos">
-    <div class="row mt-20">
+<div class="section-gap" id="vuelos">
+    <div class="row">
         {{ range (where .Site.RegularPages "Type" "offers") }}
-        <div class="col-lg-4 col-md-6 d-flex flex-row">
-            <div class="single-feature mb-30">
-                <div class="mb-10 text-center">
-                    <img src="{{ .Params.img }}" alt="" width="230px" height="130px" >
-                </div>
-                <div class="title text-center pb-20">
-                    <h4> {{ .Params.oferta }}</h4>                      
-                </div>							
+        <div class="single-card">
+            <div class="mb-10 text-center">
+                <a href="{{ .Params.address | relLangURL }}"><img src="{{ .Params.img }}" alt="" width="230px" height="130px" ></a>
+            </div>
+            <div class="title text-center pb-20">
+                <h4> {{ .Params.oferta }}</h4>                      
             </div>							
         </div>
         {{ end }}        

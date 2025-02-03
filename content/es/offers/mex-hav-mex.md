@@ -4,4 +4,5 @@ title: 'MEX - HAV - MEX'
 weight: 6
 oferta: 'MEX - HAV - MEX'
 img: '/img/ofertas/Mexico.png'
+address: '/offers/mex-hav-mex/' 
 ---

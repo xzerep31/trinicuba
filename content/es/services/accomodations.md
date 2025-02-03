@@ -1,6 +1,6 @@
 ---
 date: '2025-01-10T09:34:31-05:00'
-title: 'Accomodations'
+title: 'Accomodation'
 weight: 5
 group: "Hospedaje"
 name: "manage accomodation"

@@ -4,4 +4,5 @@ title: 'MIA - HAV - MIA'
 weight: 7
 oferta: 'MIA - HAV - MIA'
 img: '/img/ofertas/Miami.png'
+address: '/offers/mia-hav-mia/' 
 ---

@@ -4,4 +4,5 @@ title: 'HAV - SDQ - GEO'
 weight: 4
 oferta: 'HAV - SDQ - GEO'
 img: '/img/ofertas/Guyana.png'
+address: '/offers/hav-sdq-geo/' 
 ---

@@ -4,4 +4,5 @@ title: 'MAD - HAV - MAD'
 weight: 5
 oferta: 'MAD - HAV - MAD'
 img: '/img/ofertas/España.png'
+address: '/offers/mad-hav-mad/' 
 ---

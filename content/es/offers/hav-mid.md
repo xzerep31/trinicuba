@@ -4,4 +4,5 @@ title: 'MID - HAV - MID'
 weight: 3
 oferta: 'MID - HAV - MID'
 img: '/img/ofertas/Merida.png'
+address: '/offers/hav-mid/' 
 ---

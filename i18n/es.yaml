@@ -16,6 +16,21 @@
 - id: "Accomodation"
   translation: "Hostales"
 
+- id: "Flights"
+  translation: "Vuelos"
+
+- id: "Excursions"
+  translation: "Excursiones"
+
+- id: Taxi
+  translation: "Taxi"
+
+- id: "Packages"
+  translation: "Mensajería"
+
+- id: "Social"
+  translation: "Redes Sociales"
+
 - id: "Testimonials"
   translation: "Comentarios"
 
