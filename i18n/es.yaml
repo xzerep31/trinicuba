@@ -181,3 +181,24 @@
 - id: "thanksDesc"
   translation: "Su correo se ha enviado de forma satisfactoria. Agradecemos que nos haya contactado. A vuelta de correo le responderemos."
 
+- id: "OfferCancun"
+  translation: "Oferta Cancún"
+
+- id: "OfferMerida"
+  translation: "Oferta Mérida"
+
+- id: "OfferMexico"
+  translation: "Oferta México"
+
+- id: "OfferMiami"
+  translation: "Oferta Miami"
+
+- id: "OfferGuyana"
+  translation: "Oferta Guyana"
+
+- id: "OfferSpain"
+  translation: "Oferta España"
+
+
+
+

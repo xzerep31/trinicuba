@@ -72,6 +72,8 @@
     color: gold;
 }
 
+
+
 @media screen and (min-width: 1024px) {
     .single-card {
         background-color: #f9f9ff;
@@ -115,7 +117,6 @@
         font-size: 12px;
         margin: 3rem 2.1rem;
     }
-
 }
 
   /* End Section Card Accomodations */
