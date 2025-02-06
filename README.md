@@ -11,9 +11,11 @@ Somos una agencia lista para cumplir tus deseos y contamos con un paraiso por de
 + Hospedaje
 + Redes Sociales
 
-Así como elaboramos páginas web para la promoción de su negocio.
+**Así como elaboramos páginas web para la promoción de su negocio.**
 
-Contáctenos
+----------------
+
+### Contáctenos
 
 - WhatsApp: [+5352711795](https://wa.me/+5352711795) 
 - Correo electrónico: [trinicuba@gmail.com](mailto:trinicuba@gmail.com)
