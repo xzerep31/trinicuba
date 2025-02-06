@@ -17,7 +17,7 @@ Somos una agencia lista para cumplir tus deseos y contamos con un paraiso por de
 
 ### Contáctenos
 
-- WhatsApp: [+5352711795](https://wa.me/+5353548853) 
+- WhatsApp: [+5353548853](https://wa.me/+5353548853) 
 - Correo electrónico: [trinicuba@gmail.com](mailto:trinicuba@gmail.com)
 - Sitio Web: <https://trinicuba.com>
 - Facebook:  <https://www.facebook.com/ViajeconTriniCuba>
