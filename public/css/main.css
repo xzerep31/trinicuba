@@ -2196,6 +2196,11 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
 }
 
+.info-thumb img {
+  width: 21rem;
+  height: 10rem;
+}
+
 @media (max-width: 800px) {
   .info-area .info-content {
     text-align: center;
