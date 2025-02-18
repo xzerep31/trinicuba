@@ -3,10 +3,10 @@
         {{ range (where .Site.RegularPages "Type" "accomod")  }}
             <div class="single-card">
                 <div class="mb-10 text-center">
-                    <img src="{{ .Params.screenshot }}" alt="{{ .Params.name }}">
+                    <a href="{{ .Params.address }}"><img src="{{ .Params.screenshot }}" alt="{{ .Params.name }}"></a>
                 </div>
                 <div class="title text-center pb-20">
-                    <a href="{{ .Params.address }}"><h5>{{ .Params.name }}</h5></a>
+                    <h5>{{ .Params.name }}</h5>
                     <div class="ps-2">
                     {{ range seq .Params.stars }}
                         <small class="rating fa fa-star"></small>
