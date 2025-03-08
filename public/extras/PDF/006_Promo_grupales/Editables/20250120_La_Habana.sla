@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="11" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="1" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="0" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.6" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Archivo" filename="/home/pedro/Documents/Trinicuba/Documentos_Promociones/006_Promo_grupales/20250120_La_Habana.ps" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="1" Articles="1" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="1,7-11" RotateDeg="0" PresentMode="0" RecalcPic="1" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="16" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Bodoni Moda 9pt Black"/>
+            <Subset Name="Gabriola Regular"/>
+            <Subset Name="Libre Baskerville Italic"/>
+            <Subset Name="Maravale Italic"/>
+            <Subset Name="Z003 Medium Italic"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="10" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="TriniCuba_first_page" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="TriniCuba_content_no_footer_right_page" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="TriniCuba_content_footer_right_page" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="TriniCuba_content_footer_left_page" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="TriniCuba_content_no_footer_left_page" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="Normal_no_footer" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="712.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="901.890763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal_no_footer" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="49.8646 554.962 " HorizontalGuides="31.9492 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="901.890763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="46.1544 547.027 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1783.78052755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal_no_footer" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="43.6404 547.53 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="1783.78052755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="564.341 " HorizontalGuides="58.6623 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2665.67029133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal_no_footer" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="45.1861 549.076 " HorizontalGuides="559.94 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="2665.67029133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="564.341 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3547.56005511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal_no_footer" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="42.0948 545.984 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="3547.56005511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="545.172 42.4442 " HorizontalGuides="479.055 679.56 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="4429.44981889764" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal_no_footer" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="40.5491 544.439 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="4429.44981889764" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="100.50099735783" YPOS="20.5010035501475" OwnPage="2" ItemID="1767979475" PTYPE="6" WIDTH="595.276" HEIGHT="849.394" FRTYPE="0" CLIPEDIT="1" GRTYP="6" PWIDTH="1" PCOLOR="Cyan" SHADE="70" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" copath="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" OnMasterPage="TriniCuba_content_no_footer_right_page" gXpos="29435970.2017761" gYpos="70003821.1939269" gWidth="0" gHeight="0" GRSTARTX="-390.664969638086" GRSTARTY="645.484340743685" GRENDX="579.114641316302" GRENDY="353.264026687334" GRFOCALX="-390.664969638086" GRFOCALY="645.484340743685" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Blue" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Cyan" SHADE="62" TRANS="1"/>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="100.50099735783" YPOS="20.5010035501475" OwnPage="5" ItemID="1767971763" PTYPE="6" WIDTH="595.276" HEIGHT="849.394" FRTYPE="0" CLIPEDIT="1" GRTYP="6" PWIDTH="1" PCOLOR="Cyan" SHADE="70" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" copath="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" OnMasterPage="TriniCuba_content_no_footer_left_page" gXpos="29435970.2017761" gYpos="117627729.477337" gWidth="0" gHeight="0" GRSTARTX="-390.664969638086" GRSTARTY="645.484340743685" GRENDX="579.114641316302" GRENDY="353.264026687334" GRFOCALX="-390.664969638086" GRFOCALY="645.484340743685" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Blue" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Cyan" SHADE="62" TRANS="1"/>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="100.50099735783" YPOS="20.5010035501475" OwnPage="3" ItemID="1767995587" PTYPE="6" WIDTH="595.276" HEIGHT="849.394" FRTYPE="0" CLIPEDIT="1" GRTYP="6" PWIDTH="1" PCOLOR="Cyan" SHADE="70" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" copath="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" OnMasterPage="TriniCuba_content_footer_right_page" gXpos="34387472.5639775" gYpos="87222722.3592649" gWidth="0" gHeight="0" GRSTARTX="-390.664969638086" GRSTARTY="645.484340743685" GRENDX="579.114641316302" GRENDY="353.264026687334" GRFOCALX="-390.664969638086" GRFOCALY="645.484340743685" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Blue" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Cyan" SHADE="62" TRANS="1"/>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="100.50099735783" YPOS="20.5010035501475" OwnPage="4" ItemID="1768071891" PTYPE="6" WIDTH="595.276" HEIGHT="849.394" FRTYPE="0" CLIPEDIT="1" GRTYP="6" PWIDTH="1" PCOLOR="Cyan" SHADE="70" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" copath="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" OnMasterPage="TriniCuba_content_footer_left_page" gXpos="29435970.2017761" gYpos="70003821.1939269" gWidth="0" gHeight="0" GRSTARTX="-390.664969638086" GRSTARTY="645.484340743685" GRENDX="579.114641316302" GRENDY="353.264026687334" GRFOCALX="-390.664969638086" GRFOCALY="645.484340743685" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Blue" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Cyan" SHADE="62" TRANS="1"/>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="100.50099735783" YPOS="20.5010035501475" OwnPage="1" ItemID="1768090419" PTYPE="6" WIDTH="595.276" HEIGHT="849.394" FRTYPE="0" CLIPEDIT="1" GRTYP="6" PWIDTH="1" PCOLOR="Cyan" SHADE="70" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" copath="M0 0 L595.276 0 L595.276 849.394 L0 849.394 L0 0 Z" OnMasterPage="TriniCuba_first_page" gXpos="34751815.8080755" gYpos="92603215.9655527" gWidth="0" gHeight="0" GRSTARTX="-390.664969638086" GRSTARTY="645.484340743685" GRENDX="579.114641316302" GRENDY="353.264026687334" GRFOCALX="-390.664969638086" GRFOCALY="645.484340743685" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Blue" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Cyan" SHADE="62" TRANS="1"/>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="357.07974015748" YPOS="734.036464897802" OwnPage="1" ItemID="1768037171" PTYPE="4" WIDTH="143.446362830132" HEIGHT="75.2003886324994" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L143.446 0 L143.446 75.2004 L0 75.2004 L0 0 Z" copath="M0 0 L143.446 0 L143.446 75.2004 L0 75.2004 L0 0 Z" OnMasterPage="TriniCuba_first_page" gXpos="34752072.3868182" gYpos="92603929.501014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="48" FCOLOR="Black" CH="Viaja"/>
+                <trail ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="333.247515452541" YPOS="789.98868528609" OwnPage="1" ItemID="1768139731" PTYPE="4" WIDTH="122.41923730872" HEIGHT="74.9099525091856" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L122.419 0 L122.419 74.91 L0 74.91 L0 0 Z" copath="M0 0 L122.419 0 L122.419 74.91 L0 74.91 L0 0 Z" OnMasterPage="TriniCuba_first_page" gXpos="34752048.5545936" gYpos="92603985.4532344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="40" CH="con"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="410.134846453823" YPOS="808.560055118111" OwnPage="1" ItemID="1768080979" PTYPE="4" WIDTH="240.33072047531" HEIGHT="90.9400048579063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.331 0 L240.331 90.94 L0 90.94 L0 0 Z" copath="M0 0 L240.331 0 L240.331 90.94 L0 90.94 L0 0 Z" OnMasterPage="TriniCuba_first_page" gXpos="34752125.4419245" gYpos="92604004.0246043" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="28" FONT="Maravale Italic"/>
+                <ITEXT FONTSIZE="56" FCOLOR="Red" CH="Trini"/>
+                <ITEXT FONTSIZE="56" FCOLOR="Blue" CH="Cuba"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="589.662082258336" YPOS="23.7535332488224" OwnPage="2" ItemID="1768109683" PTYPE="2" WIDTH="82.5694689227666" HEIGHT="78.1371754125949" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.497406439293775" LOCALSCY="0.497406439293775" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Trabajos/logo-166x128.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L82.5695 0 L82.5695 78.1372 L0 78.1372 L0 0 Z" copath="M0 0 L82.5695 0 L82.5695 78.1372 L0 78.1372 L0 0 Z" OnMasterPage="TriniCuba_content_no_footer_right_page" gXpos="4718185.00066489" gYpos="37569611.1551193" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="520.522" YPOS="806.86990124517" OwnPage="3" ItemID="1768128419" PTYPE="6" WIDTH="174.254590551181" HEIGHT="27.823100042937" RADRECT="2.83464566929134" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cyan" PCOLOR2="Black" PLINEART="1" path="M0 2.83465 C0 1.26911 1.26911 0 2.83465 0 L171.42 0 C172.985 0 174.255 1.26911 174.255 2.83465 L174.255 24.9885 C174.255 26.554 172.985 27.8231 171.42 27.8231 L2.83465 27.8231 C1.26911 27.8231 0 26.554 0 24.9885 L0 2.83465 Z" copath="M0 2.83465 C0 1.26911 1.26911 0 2.83465 0 L171.42 0 C172.985 0 174.255 1.26911 174.255 2.83465 L174.255 24.9885 C174.255 26.554 172.985 27.8231 171.42 27.8231 L2.83465 27.8231 C1.26911 27.8231 0 26.554 0 24.9885 L0 2.83465 Z" OnMasterPage="TriniCuba_content_footer_right_page" gXpos="20936363.0416886" gYpos="79731582.0510144" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="554.083168725175" YPOS="780.039" OwnPage="3" ItemID="1768118787" PTYPE="4" WIDTH="61.5797696443784" HEIGHT="31.4648297037873" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L61.5798 0 L61.5798 31.4648 L0 31.4648 L0 0 Z" copath="M0 0 L61.5798 0 L61.5798 31.4648 L0 31.4648 L0 0 Z" OnMasterPage="TriniCuba_content_footer_right_page" gXpos="30900731.4374858" gYpos="130630913.960234" gWidth="61.5797696443784" gHeight="31.4648297037873" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="20" FCOLOR="White" CH="Viaja"/>
+                <trail ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="543.852287936509" YPOS="803.450155277861" OwnPage="3" ItemID="1768151443" PTYPE="4" WIDTH="52.5531414366174" HEIGHT="31.3433537290408" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L52.5531 0 L52.5531 31.3434 L0 31.3434 L0 0 Z" copath="M0 0 L52.5531 0 L52.5531 31.3434 L0 31.3434 L0 0 Z" OnMasterPage="TriniCuba_content_footer_right_page" gXpos="30900721.206605" gYpos="130630937.371389" gWidth="52.5531414366174" gHeight="31.3433537290408" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="20" CH="con"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="576.85907296694" YPOS="811.220664112771" OwnPage="3" ItemID="1768202051" PTYPE="4" WIDTH="103.17092703306" HEIGHT="38.0504892090883" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.171 0 L103.171 38.0505 L0 38.0505 L0 0 Z" copath="M0 0 L103.171 0 L103.171 38.0505 L0 38.0505 L0 0 Z" OnMasterPage="TriniCuba_content_footer_right_page" gXpos="30900754.21339" gYpos="130630945.141898" gWidth="103.17092703306" gHeight="38.0504892090883" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="28" FONT="Maravale Italic"/>
+                <ITEXT FONTSIZE="25" FCOLOR="Red" CH="Trini"/>
+                <ITEXT FONTSIZE="25" FCOLOR="Blue" CH="Cuba"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="130.232880788666" YPOS="780.039" OwnPage="4" ItemID="1768172659" PTYPE="4" WIDTH="61.5797696443784" HEIGHT="31.4648297037873" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L61.5798 0 L61.5798 31.4648 L0 31.4648 L0 0 Z" copath="M0 0 L61.5798 0 L61.5798 31.4648 L0 31.4648 L0 0 Z" OnMasterPage="TriniCuba_content_footer_left_page" gXpos="2869953.85492777" gYpos="5928393.01537765" gWidth="61.5797696443784" gHeight="31.4648297037873" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="20" FCOLOR="White" CH="Viaja"/>
+                <trail ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="120.002" YPOS="803.450155277861" OwnPage="4" ItemID="1768166675" PTYPE="4" WIDTH="52.5531414366174" HEIGHT="31.3433537290408" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L52.5531 0 L52.5531 31.3434 L0 31.3434 L0 0 Z" copath="M0 0 L52.5531 0 L52.5531 31.3434 L0 31.3434 L0 0 Z" OnMasterPage="TriniCuba_content_footer_left_page" gXpos="2869943.62404697" gYpos="5928416.42653293" gWidth="52.5531414366174" gHeight="31.3433537290408" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="20" CH="con"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="153.008785030431" YPOS="811.220664112771" OwnPage="4" ItemID="1768244435" PTYPE="4" WIDTH="103.17092703306" HEIGHT="38.0504892090883" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.171 0 L103.171 38.0505 L0 38.0505 L0 0 Z" copath="M0 0 L103.171 0 L103.171 38.0505 L0 38.0505 L0 0 Z" OnMasterPage="TriniCuba_content_footer_left_page" gXpos="2869976.630832" gYpos="5928424.19704176" gWidth="103.17092703306" gHeight="38.0504892090883" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="28" FONT="Maravale Italic"/>
+                <ITEXT FONTSIZE="25" FCOLOR="Red" CH="Trini"/>
+                <ITEXT FONTSIZE="25" FCOLOR="Blue" CH="Cuba"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="117.436531077233" YPOS="21.8678245874051" OwnPage="5" ItemID="1768192211" PTYPE="2" WIDTH="82.5694689227666" HEIGHT="78.1371754125949" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.497406439293775" LOCALSCY="0.497406439293775" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Trabajos/logo-166x128.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" TransValue="0.7" path="M0 0 L82.5695 0 L82.5695 78.1372 L0 78.1372 L0 0 Z" copath="M0 0 L82.5695 0 L82.5695 78.1372 L0 78.1372 L0 0 Z" OnMasterPage="TriniCuba_content_no_footer_left_page" gXpos="4529642.82235784" gYpos="216763771.159007" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="406.68187037423" YPOS="740.037" OwnPage="0" ItemID="1805942931" PTYPE="4" WIDTH="143.446362830132" HEIGHT="75.2003886324994" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L143.446 0 L143.446 75.2004 L0 75.2004 L0 0 Z" copath="M0 0 L143.446 0 L143.446 75.2004 L0 75.2004 L0 0 Z" OnMasterPage="Normal" gXpos="46838991.8787527" gYpos="146056293.548734" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="48" FCOLOR="Black" CH="Viaja"/>
+                <trail ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="382.849645669291" YPOS="795.989220388288" OwnPage="0" ItemID="1805978051" PTYPE="4" WIDTH="122.41923730872" HEIGHT="74.9099525091856" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L122.419 0 L122.419 74.91 L0 74.91 L0 0 Z" copath="M0 0 L122.419 0 L122.419 74.91 L0 74.91 L0 0 Z" OnMasterPage="Normal" gXpos="46838968.0465281" gYpos="146056349.500954" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="40" CH="con"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="459.736976670573" YPOS="814.560590220309" OwnPage="0" ItemID="1806078691" PTYPE="4" WIDTH="240.33072047531" HEIGHT="90.9400048579063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.331 0 L240.331 90.94 L0 90.94 L0 0 Z" copath="M0 0 L240.331 0 L240.331 90.94 L0 90.94 L0 0 Z" OnMasterPage="Normal" gXpos="46839044.933859" gYpos="146056368.072324" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="28" FONT="Maravale Italic"/>
+                <ITEXT FONTSIZE="56" FCOLOR="Red" CH="Trini"/>
+                <ITEXT FONTSIZE="56" FCOLOR="Blue" CH="Cuba"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="117.436531077233" YPOS="20.001" OwnPage="6" ItemID="1807484419" PTYPE="2" WIDTH="82.5694689227666" HEIGHT="78.1371754125949" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.497406439293775" LOCALSCY="0.497406439293775" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Trabajos/logo-166x128.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L82.5695 0 L82.5695 78.1372 L0 78.1372 L0 0 Z" copath="M0 0 L82.5695 0 L82.5695 78.1372 L0 78.1372 L0 0 Z" OnMasterPage="Normal_no_footer" gXpos="4529642.82235784" gYpos="244056267.937812" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="764.844208410119" YPOS="141.268835650863" OwnPage="0" ItemID="1768278339" PTYPE="4" WIDTH="502.432382141062" HEIGHT="695.48299547663" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L502.432 0 L502.432 695.483 L0 695.483 L0 0 Z" copath="M0 0 L502.432 0 L502.432 695.483 L0 695.483 L0 0 Z" gXpos="764.844208410119" gYpos="141.268835650863" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="33" FONT="Gabriola Regular" FONTSIZE="28"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="24" FCOLOR="Black" CH="La capital de Cuba se ubica en La Habana, territorio fundamental para el desarrollo del comercio y las      comunicaciones, dentro y fuera de la isla. La Habana es también una ciudad vistosa y abundante de historia y tradiciones."/>
+                <ITEXT FCOLOR="Black" CH="   "/>
+                <para ALIGN="3" LINESP="33" KeepLinesStart="0" KeepLinesEnd="0" KeepTogether="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="24" FCOLOR="Black" CH="San Cristóbal de La Habana fue la quinta villa fundada, hace ya 510 años. Su centro Histórico fue declarado por la Unesco Patrimonio Cultural de la Humanidad desde los años 80 y más reciente, La Habana mereció el título de Ciudad Maravilla del Mundo. "/>
+                <para ALIGN="3" LINESP="33" KeepLinesStart="0" KeepLinesEnd="0" KeepTogether="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="24" FCOLOR="Black" CH="Esta ciudad enamora y no solo por la hermosa vista que ofrecen los ocho kilómetros del Malecón. También por su "/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="24" FCOLOR="Black" LANGUAGE="es_LA" CH="h"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="24" FCOLOR="Black" CH="istoria, sus tradiciones y su mezcla natural de añejo y modernidad. "/>
+                <trail ALIGN="3" LINESP="33" OpticalMargins="0" KeepLinesStart="0" KeepLinesEnd="0" KeepTogether="0">
+                    <Tabs Type="0" Pos="266.633899613277" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="860.874982786212" YPOS="65.2498168794399" OwnPage="0" ItemID="1768313427" PTYPE="4" WIDTH="308.122011859313" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L308.122 0 L308.122 100 L0 100 L0 0 Z" copath="M0 0 L308.122 0 L308.122 100 L0 100 L0 0 Z" gXpos="860.874982786212" gYpos="65.2498168794399" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="46" FEATURES="inherit" FCOLOR="Black" CH="La Habana"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="146.115437171133" YPOS="2701.63582799743" OwnPage="5" ItemID="1768392451" PTYPE="4" WIDTH="503.521778674446" HEIGHT="688.908848114726" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L503.522 0 L503.522 688.909 L0 688.909 L0 0 Z" copath="M0 0 L503.522 0 L503.522 688.909 L0 688.909 L0 0 Z" gXpos="146.115437171133" gYpos="2701.63582799743" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" LANGUAGE="es" CH="Visita "/>
+                <para ALIGN="1" LINESP="31" ParagraphEffectCharStyle="Default Character Style"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" LANGUAGE="es" CH="Museo Ernest Hemingway"/>
+                <para ALIGN="1" LINESP="31" ParagraphEffectCharStyle="Default Character Style"/>
+                <ITEXT FONTSIZE="18" FCOLOR="Black" LANGUAGE="es" CH="      "/>
+                <para ALIGN="1" LINESP="31" ParagraphEffectCharStyle="Default Character Style"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="* Recogida en el hostal (casa particu"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="la"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="r"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=")"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="."/>
+                <para LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="* Visita al Museo Hemingway-Finca Vigía, ubicado en el poblado de San Francisco de P"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="au"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="l"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="a"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="."/>
+                <para LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="* Recorrido por la instalación con guía especializ"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="ad"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="o"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="."/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=" "/>
+                <para LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=" * Se permite el uso de cámara fotográfica y de video"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="."/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=" "/>
+                <para LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=" * Continuamos viaje hasta Cojímar, pueblo de pescadores donde Hemingway se refugió e inspiró, resultando su novela El Viejo y el Mar, galardonada con el premio Pulitzer (1"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="95"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="3"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=")"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="."/>
+                <para LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="* Regreso al hostal (casa particu"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="la"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="r"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH=")"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="."/>
+                <para LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" LANGUAGE="es" CH="* Nota: Existe una variante de esta excursión que incluye almuerzo en restaurant."/>
+                <trail LINESP="31" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="541.626581265012" YPOS="2798.85383225635" OwnPage="5" ItemID="1768860723" PTYPE="2" WIDTH="113.650009286169" HEIGHT="160.172884279077" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.217540723487881" LOCALSCY="0.217540723487881" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/70426601-Daiquiris-El-Floridita-a-bar-in-Old-Havana-Habana-Vieja-popularized-by-Ernest-Hemingway-Havana-Vieja-District.jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L113.65 0 L113.65 160.173 L0 160.173 L0 0 Z" copath="M0 0 L113.65 0 L113.65 160.173 L0 160.173 L0 0 Z" gXpos="541.626581265012" gYpos="2798.85383225635" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="128.243554843875" YPOS="2980.87128621952" OwnPage="5" ItemID="1768851603" PTYPE="2" WIDTH="160.319615692554" HEIGHT="113.856845476381" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.177347111333927" LOCALSCY="0.177347111333927" LOCALX="-297.63364724149" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/06-1140.jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="-6.33826771653543" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L160.32 0 L160.32 113.857 L0 113.857 L0 0 Z" copath="M0 0 L160.32 0 L160.32 113.857 L0 113.857 L0 0 Z" gXpos="128.243554843875" gYpos="2980.87128621952" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="-28.3961171776503" YPOS="3262.16057480314" OwnPage="5" ItemID="1768899491" PTYPE="2" WIDTH="491.621757625189" HEIGHT="282.444354330709" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.817891580807467" LOCALSCY="0.817891580807467" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/TerrazaBig.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L491.622 0 L491.622 282.444 L0 282.444 L0 0 Z" copath="M0 0 L491.622 0 L491.622 282.444 L0 282.444 L0 0 Z" gXpos="-28.3961171776503" gYpos="3262.16057480314" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="454.561254042604" YPOS="3261.15551360142" OwnPage="5" ItemID="1768992259" PTYPE="2" WIDTH="240.715336508577" HEIGHT="283.449415532426" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.34728508099102" LOCALSCY="0.34728508099102" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Conoce _La Finca Vigía_, la casa de Ernest Hemingway en Cuba 🇨🇺.jpeg" IRENDER="0" EMBEDDED="0" path="M0 0 L240.715 0 L240.715 283.449 L0 283.449 L0 0 Z" copath="M0 0 L240.715 0 L240.715 283.449 L0 283.449 L0 0 Z" gXpos="454.561254042604" gYpos="3261.15551360142" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1012.016" YPOS="140.007" OwnPage="0" ItemID="1769303955" PTYPE="2" WIDTH="255.260590551181" HEIGHT="223.937007874016" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.396694214876033" LOCALSCY="0.396694214876033" LOCALX="49.2408864829386" LOCALY="-16.1263266076118" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Gardner_Tours_The_Best_of_Cuba_Tour_Cuba_The_Capitol_Building_in_Havana_Cuba.webp" IRENDER="0" EMBEDDED="0" COMPRESSIONQUALITY="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5.00031496062992" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L255.261 0 L255.261 223.937 L0 223.937 L0 0 Z" copath="M0 0 L255.261 0 L255.261 223.937 L0 223.937 L0 0 Z" gXpos="1012.016" gYpos="140.007" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="752.001" YPOS="528.926618491644" OwnPage="0" ItemID="1769230451" PTYPE="2" WIDTH="154.119096593366" HEIGHT="191.109381508356" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.225364836684382" LOCALSCY="0.225364836684382" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/WhatsApp Image 2025-01-25 at 21.15.20.jpeg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="-6.33826771653543" SOFTSHADOWYOFFSET="2.16566929133858" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5.00031496062992" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L154.119 0 L154.119 191.109 L0 191.109 L0 0 Z" copath="M0 0 L154.119 0 L154.119 191.109 L0 191.109 L0 0 Z" gXpos="752.001" gYpos="528.926618491644" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.835330708661" YPOS="4498.42619685041" OwnPage="9" ItemID="1769304579" PTYPE="4" WIDTH="503.937637795276" HEIGHT="325.133615701995" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L503.938 0 L503.938 325.134 L0 325.134 L0 0 Z" copath="M0 0 L503.938 0 L503.938 325.134 L0 325.134 L0 0 Z" gXpos="142.835330708661" gYpos="4498.42619685041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="Ceremonia del Cañonazo"/>
+                <para ALIGN="1" LINESP="29"/>
+                <para ALIGN="1" LINESP="29"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Recogida en el hostal (casa particular)."/>
+                <para ALIGN="3" LINESP="31" ParagraphEffectOffset="2.83464566929134" ParagraphEffectIndent="1" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Visita a la Fortaleza de San Carlos de la Cabaña, para disfrutar de la ceremonia del cañonazo de las 9. Tradición que desde 1986 se recrea a modo de fantasía militar. Y que dejó de cumplirse únicamente durante la Segunda Guerra Mundial."/>
+                <para ALIGN="3" LINESP="31" ParagraphEffectOffset="2.83464566929134" ParagraphEffectIndent="1" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Tiempo libre para el disfrute de la instalación."/>
+                <para ALIGN="3" LINESP="31" ParagraphEffectOffset="2.83464566929134" ParagraphEffectIndent="1" DROP="0" DROPLIN="2" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="Regreso al hostal (casa particular)."/>
+                <trail ALIGN="3" LINESP="31" ParagraphEffectOffset="2.83464566929134" ParagraphEffectIndent="1" DROP="0" DROPLIN="2" Bullet="1" BulletStr="*" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="503.812921432388" YPOS="4557.17194713597" OwnPage="9" ItemID="1769396531" PTYPE="2" WIDTH="168.188078567612" HEIGHT="203.275675675676" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.295127065841352" LOCALSCY="0.295127065841352" LOCALX="28.5187583517833" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Habana/1688500194247.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L168.188 0 L168.188 203.276 L0 203.276 L0 0 Z" copath="M0 0 L168.188 0 L168.188 203.276 L0 203.276 L0 0 Z" gXpos="503.812921432388" gYpos="4557.17194713597" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.001" YPOS="4847.93013385828" OwnPage="9" ItemID="1769350547" PTYPE="2" WIDTH="594.20125984252" HEIGHT="423.496062992126" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.588188976377953" LOCALSCY="0.588188976377953" LOCALX="-21.4673610291222" LOCALY="1.42811244979944" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Habana/1690244204532.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" path="M0 0 L594.201 0 L594.201 423.496 L0 423.496 L0 0 Z" copath="M0 0 L594.201 0 L594.201 423.496 L0 423.496 L0 0 Z" gXpos="100.001" gYpos="4847.93013385828" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.837933070866" YPOS="3576.22147244095" OwnPage="7" ItemID="1769373987" PTYPE="4" WIDTH="504.649133858268" HEIGHT="786.769440944867" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L504.649 0 L504.649 786.769 L0 786.769 L0 0 Z" copath="M0 0 L504.649 0 L504.649 786.769 L0 786.769 L0 0 Z" gXpos="142.837933070866" gYpos="3576.22147244095" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="26" FCOLOR="Black" CH="  "/>
+                <para ALIGN="1" LINESP="31"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="Cabaret Tropicana"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <para ALIGN="1" LINESP="31"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Un verdadero paraíso bajo las estrellas. Reconocido mundialmente como uno de los cabarets más prestigioso de Cuba y el mundo. Cubanía, colores, música y profesionalismo, hacen de su noche una experiencia sin igual"/>
+                <ITEXT CH="."/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="*" Numeration="0"/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Por diferentes precios se puede acceder al espectáculo, con cena incluida o no. Y en posiciones preferenciales o económicas."/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Incluye transporte de ida y vuelta."/>
+                <ITEXT FCOLOR="Black" CH=" "/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="*" Numeration="0"/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="*" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Recogida y regreso en el hostal (casa particular)."/>
+                <para ALIGN="3" LINESP="25"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="64.6375905511811" YPOS="3642.14573228345" OwnPage="7" ItemID="1769748723" PTYPE="2" WIDTH="629.566299212599" HEIGHT="308.08" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.559688473520249" LOCALSCY="0.559688473520249" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/560-01-1140.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L629.566 0 L629.566 308.08 L0 308.08 L0 0 Z" copath="M0 0 L629.566 0 L629.566 308.08 L0 308.08 L0 0 Z" gXpos="64.6375905511811" gYpos="3642.14573228345" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ImageEffect Code="5" Param="7 1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="403.189134790854" YPOS="4155.12173228346" OwnPage="7" ItemID="1769745923" PTYPE="2" WIDTH="240.341424264265" HEIGHT="171.84" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.423474399353927" LOCALSCY="0.423474399353927" LOCALX="29.4704946014213" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/entrada-a-tropicana.jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L240.341 0 L240.341 171.84 L0 171.84 L0 0 Z" copath="M0 0 L240.341 0 L240.341 171.84 L0 171.84 L0 0 Z" gXpos="403.189134790854" gYpos="4155.12173228346" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="745.074228346456" YPOS="3590.96162992125" OwnPage="8" ItemID="1769777907" PTYPE="4" WIDTH="505.477952755906" HEIGHT="416.621425196863" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L505.478 0 L505.478 416.621 L0 416.621 L0 0 Z" copath="M0 0 L505.478 0 L505.478 416.621 L0 416.621 L0 0 Z" gXpos="745.074228346456" gYpos="3590.96162992125" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="Cabaret Parisién"/>
+                <para ALIGN="1" LINESP="24"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Ubicado en el Hotel Nacional de Cuba, ofrece un cubanísimo espectáculo que recorre la historia, cultura y tradiciones nacionales; acompañado de música, bailes y coloridos paisajes."/>
+                <ITEXT FCOLOR="Black" CH="           "/>
+                <para ALIGN="3" LINESP="28"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Se requiere vestimenta formal para acceder la local. Donde puede disfrutar de una rica cena, antes del espectáculo, y de tiempo para bailar, al finalizar el show."/>
+                <ITEXT FCOLOR="Black" CH=" "/>
+                <para ALIGN="3" LINESP="28"/>
+                <para ALIGN="3" LINESP="28"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Incluye transporte de ida y vuelta."/>
+                <ITEXT FCOLOR="Black" CH="              "/>
+                <para ALIGN="3" LINESP="28"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="White" CH="* Recogida y regreso en el hostal (casa particular).                                         "/>
+                <trail ALIGN="3" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1020.02796081411" YPOS="3734.12223622046" OwnPage="8" ItemID="1770275203" PTYPE="2" WIDTH="217.668330524473" HEIGHT="178.35378242009" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.373650627926304" LOCALSCY="0.373650627926304" LOCALX="32.5450681897543" LOCALY="31.5026062634262" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/cabaret-parisien-entrada.jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L217.668 0 L217.668 178.354 L0 178.354 L0 0 Z" copath="M0 0 L217.668 0 L217.668 178.354 L0 178.354 L0 0 Z" gXpos="1020.02796081411" gYpos="3734.12223622046" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="743.497062992126" YPOS="4030.98562992125" OwnPage="8" ItemID="1770368227" PTYPE="2" WIDTH="220.013" HEIGHT="200.009999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.515489690721647" LOCALSCY="0.515489690721647" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Cabaret_Parisien_05-416x388.webp" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L220.013 0 L220.013 200.01 L0 200.01 L0 0 Z" copath="M0 0 L220.013 0 L220.013 200.01 L0 200.01 L0 0 Z" gXpos="743.497062992126" gYpos="4030.98562992125" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="869.48257480315" YPOS="2739.27959055118" OwnPage="6" ItemID="1770307443" PTYPE="4" WIDTH="290.735433070866" HEIGHT="120.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L290.735 0 L290.735 120.006 L0 120.006 L0 0 Z" copath="M0 0 L290.735 0 L290.735 120.006 L0 120.006 L0 0 Z" gXpos="869.48257480315" gYpos="2739.27959055118" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="53"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="La Habana Nocturna"/>
+                <trail ALIGN="1" LINESP="58"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="987.005542362986" YPOS="4030.01674803149" OwnPage="8" ItemID="1774121235" PTYPE="2" WIDTH="259.353166298431" HEIGHT="200.01" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.425169125079395" LOCALSCY="0.437658643326039" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/332__640_457.webp" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L259.353 0 L259.353 200.01 L0 200.01 L0 0 Z" copath="M0 0 L259.353 0 L259.353 200.01 L0 200.01 L0 0 Z" gXpos="987.005542362986" gYpos="4030.01674803149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="149.8656" YPOS="945.867141732285" OwnPage="1" ItemID="1774115955" PTYPE="4" WIDTH="495.433700787402" HEIGHT="767.551181102362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L495.434 0 L495.434 767.551 L0 767.551 L0 0 Z" copath="M0 0 L495.434 0 L495.434 767.551 L0 767.551 L0 0 Z" gXpos="149.8656" gYpos="945.867141732285" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="City Tour "/>
+                <para ALIGN="1" LINESP="34"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="Centro Histórico de la Ciudad"/>
+                <para ALIGN="1" LINESP="34"/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Recogida en el hostal (casa particular). "/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="5.66929133858268" ParagraphEffectIndent="1" DROP="0" DROPLIN="2" Bullet="0" BulletStr="≻" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita a las áreas exteriores del Parque Morro Cabaña. Sitio histórico conformado por dos de las más emblemáticas fortalezas militares construidas por los españoles. "/>
+                <para ALIGN="3" LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="  * Oportunidad invaluable para observar la ciudad desde un privilegiado mirador."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita a La Habana colonial, declarada por la UNESCO Patrimonio Cultural de la Humanidad. "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Puede recorrer caminando algunos de los principales puntos de interés:"/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Plaza de Armas, Plaza San Francisco de Asís, Plaza Vieja (Primera plaza comercial de la ciudad), Plaza de la Catedral."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Templete (sitio que marca el lugar donde se fundó la Ciudad y donde se conserva la tradición de dar vueltas a la ceiba en cada aniversario de la ciudad)."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Museos."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Calles: Obispo, Mercaderes, Oficio, Obrapía."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Habitación de Hemingway en el Hotel Ambos Mundos, La Bodeguita del Medio, El Floridita."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Tiempo libre para comprar suvenires."/>
+                <ITEXT FCOLOR="Black" CH=" "/>
+                <trail ALIGN="3" LINESP="25"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="738.111236220473" YPOS="941.890763779528" OwnPage="2" ItemID="1774066515" PTYPE="4" WIDTH="495.433700787402" HEIGHT="685.704893700786" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L495.434 0 L495.434 685.705 L0 685.705 L0 0 Z" copath="M0 0 L495.434 0 L495.434 685.705 L0 685.705 L0 0 Z" gXpos="738.111236220473" gYpos="941.890763779528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="City Tour "/>
+                <para ALIGN="1" LINESP="34"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="Centro Histórico de la Ciudad"/>
+                <para ALIGN="1" LINESP="34"/>
+                <para ALIGN="1" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FEATURES="inherit" FCOLOR="Black" CH="&gt; El recorrido caminado culmina en El Capitolio, actual sede del Parlamento Cubano. Sitio que posee un brillante que marca el kilómetro cero de las carreteras del país."/>
+                <para ALIGN="3" LINESP="25"/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FEATURES="inherit" FCOLOR="Black" CH="&gt; Desde este punto el recorrido continúa sobre ruedas, rumbo a la Universidad de La Habana, Monumento Nacional desde 1978. Mientras disfruta de una vista panorámica de la ciudad moderna."/>
+                <para ALIGN="3" LINESP="25"/>
+                <para ALIGN="3" LINESP="25"/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FEATURES="inherit" FCOLOR="Black" CH="&gt; Última parada en la Plaza de la Revolución, uno de los sitios más emblemáticos de la ciudad. Con tiempo libre para tomar fotografías. "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FEATURES="inherit" FCOLOR="Black" CH="&gt; Regreso al hostal (casa particular)."/>
+                <trail ALIGN="3" LINESP="25"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="952.454933070866" YPOS="1141.90276377953" OwnPage="2" ItemID="1770780579" PTYPE="2" WIDTH="302.849657480315" HEIGHT="240.012" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.323" LOCALSCY="0.323" LOCALX="56.1595180370644" LOCALY="32.7000504484126" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/1033-01-1140.jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L302.85 0 L302.85 240.012 L0 240.012 L0 0 Z" copath="M0 0 L302.85 0 L302.85 240.012 L0 240.012 L0 0 Z" gXpos="952.454933070866" gYpos="1141.90276377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="154.334708661417" YPOS="1825.07486614174" OwnPage="3" ItemID="1770770947" PTYPE="4" WIDTH="498.424251968504" HEIGHT="741.886763779534" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L498.424 0 L498.424 741.887 L0 741.887 L0 0 Z" copath="M0 0 L498.424 0 L498.424 741.887 L0 741.887 L0 0 Z" gXpos="154.334708661417" gYpos="1825.07486614174" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="City Tour "/>
+                <para ALIGN="1" LINESP="33"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="Habana Moderna"/>
+                <para ALIGN="1" LINESP="33"/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Recogida en el hostal (casa particular). "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita a la Maqueta de La Habana. Con 22 m de largo por 10 m de ancho y un peso de 6 toneladas; es una de las más grandes de su tipo en el mundo."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita al Parque de los Jagüeyes en la Calle 5ta. y 24, actual Parque Emiliano Zapata."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita a la Iglesia de Santa Rita de Casia, construida en 1943. "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita al Parque Metropolitano de La Habana, pulmón verde de la ciudad y hospedero de ejemplares de la flora autóctona. "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="&gt; Visita panorámica de la Necrópolis de Colón, museo de Arte Funerario reconocido mundialmente, declarado Monumento Nacional. "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="  * Paradas en La tumba de la Milagrosa, la Galería Tobías (primer panteón del cementerio) y el Panteón de Los Condes de la Mortera."/>
+                <para ALIGN="3" LINESP="25"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="732.15848031496" YPOS="1827.90951181102" OwnPage="4" ItemID="1779134403" PTYPE="4" WIDTH="515.275590551181" HEIGHT="741.886763779534" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 741.887 L0 741.887 L0 0 Z" copath="M0 0 L515.276 0 L515.276 741.887 L0 741.887 L0 0 Z" gXpos="732.15848031496" gYpos="1827.90951181102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="City Tour "/>
+                <para ALIGN="1" LINESP="33"/>
+                <ITEXT FONT="Bodoni Moda 9pt Black" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" CH="Habana Moderna"/>
+                <para ALIGN="1" LINESP="33"/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Siguiente parada: Fábrica de ron Bocoy, inaugurada en 1946 y fabricante de la marca Legendario. "/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Recorrido panorámico por la localidad del Vedado para admirar los diferentes estilos arquitectónicos que coexisten en la urbe, como el Art Deco, el Modernismo, el Eclecticismo, el Gótico y el Barroco. Los cuales se muestran en edificaciones como la del Museo de Artes Decorativas, la de la UNEAC y la del ICA. Entre otras que se observan a lo largo de las avenidas Paseo y de los Presidentes."/>
+                <para ALIGN="3" LINESP="25"/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Visita a un restaurante de la zona para disfrutar de un coctel."/>
+                <para ALIGN="3" LINESP="25"/>
+                <ITEXT FONT="Gabriola Regular" FONTSIZE="26" FCOLOR="Black" CH="* Regreso al hostal (casa particular)."/>
+                <trail ALIGN="3" LINESP="25"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="480.02" YPOS="1913.89976377953" OwnPage="3" ItemID="1778828083" PTYPE="2" WIDTH="175.256590551181" HEIGHT="200.01" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.3505" LOCALSCY="0.3505" LOCALX="24.3169798277286" LOCALY="-66.8246711671749" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/06-1140 (1).jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L175.257 0 L175.257 200.01 L0 200.01 L0 0 Z" copath="M0 0 L175.257 0 L175.257 200.01 L0 200.01 L0 0 Z" gXpos="480.02" gYpos="1913.89976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="160.004" YPOS="2093.90876377953" OwnPage="3" ItemID="1778790291" PTYPE="2" WIDTH="160.008" HEIGHT="160.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.1757900390625" LOCALSCY="0.1757900390625" LOCALX="-190.774259124395" LOCALY="59.5786357663657" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/1.jpg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L160.008 0 L160.008 160.008 L0 160.008 L0 0 Z" copath="M0 0 L160.008 0 L160.008 160.008 L0 160.008 L0 0 Z" gXpos="160.004" gYpos="2093.90876377954" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="400.016" YPOS="2273.91776377953" OwnPage="3" ItemID="1779953987" PTYPE="2" WIDTH="260.013" HEIGHT="140.007" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.210536842105263" LOCALSCY="0.210536842105263" LOCALX="94.9999999999999" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/05-1140.webp" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L260.013 0 L260.013 140.007 L0 140.007 L0 0 Z" copath="M0 0 L260.013 0 L260.013 140.007 L0 140.007 L0 0 Z" gXpos="400.016" gYpos="2273.91776377954" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1035.29359055118" YPOS="1983.79052755906" OwnPage="4" ItemID="1779948963" PTYPE="2" WIDTH="215.258590551181" HEIGHT="260.013" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.4522" LOCALSCY="0.4522" LOCALX="32.9848872640515" LOCALY="-14.4589320596192" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Habana/1688484970455.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5.00031496062992" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L215.259 0 L215.259 260.013 L0 260.013 L0 0 Z" copath="M0 0 L215.259 0 L215.259 260.013 L0 260.013 L0 0 Z" gXpos="1035.29359055118" gYpos="1983.79052755907" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="715.277590551181" YPOS="2263.80452755906" OwnPage="4" ItemID="1780483395" PTYPE="2" WIDTH="260.013" HEIGHT="280.014" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.303702819956616" LOCALSCY="0.303702819956616" LOCALX="59.5382975170105" LOCALY="11.586879304139" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Communist Architecture.jpeg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L260.013 0 L260.013 280.014 L0 280.014 L0 0 Z" copath="M0 0 L260.013 0 L260.013 280.014 L0 280.014 L0 0 Z" gXpos="715.277590551181" gYpos="2263.80452755906" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="737.827771653543" YPOS="4882.82814960631" OwnPage="10" ItemID="1780507043" PTYPE="4" WIDTH="515.275590551181" HEIGHT="220.010999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="2" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 220.011 L0 220.011 L0 0 Z" copath="M0 0 L515.276 0 L515.276 220.011 L0 220.011 L0 0 Z" gXpos="737.827771653543" gYpos="4882.82814960631" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Z003 Medium Italic" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None" CH="Contáctanos:"/>
+                <para ALIGN="0" LINESP="34"/>
+                <ITEXT FONT="Z003 Medium Italic" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="    Teléfono: +5352711795 "/>
+                <para ALIGN="0" LINESP="34"/>
+                <ITEXT FONT="Z003 Medium Italic" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="    Correo electrónico: trinicuba@gmail.com"/>
+                <para ALIGN="0" LINESP="34"/>
+                <ITEXT FONT="Z003 Medium Italic" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="    Sitio Web: https://trinicuba.com"/>
+                <para ALIGN="0" LINESP="34"/>
+                <ITEXT FONT="Z003 Medium Italic" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="    Facebook: https://www.facebook.com/ViajeconTriniCuba"/>
+                <para ALIGN="0" LINESP="34"/>
+                <ITEXT FONT="Z003 Medium Italic" FONTSIZE="24" FEATURES="inherit" FCOLOR="Black" CH="    Instagram: https://instagram.com/servicios_trinicuba"/>
+                <trail ALIGN="0" LINESP="34"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="921.117362204724" YPOS="4482.19872440947" OwnPage="10" ItemID="1780515763" PTYPE="2" WIDTH="200.01" HEIGHT="200.01" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.662284768211921" LOCALSCY="0.662284768211921" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/logos/RGB/Versión Principal/PNG/TriniCuba/logo.png" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L200.01 0 L200.01 200.01 L0 200.01 L0 0 Z" copath="M0 0 L200.01 0 L200.01 200.01 L0 200.01 L0 0 Z" gXpos="921.117362204724" gYpos="4482.19872440947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="525.691291338583" YPOS="1320.68641732283" OwnPage="1" ItemID="1780542995" PTYPE="2" WIDTH="115.253590551181" HEIGHT="160.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.1379" LOCALSCY="0.1379" LOCALX="101.437986076958" LOCALY="-351.310147145314" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Habana/1690410443825.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L115.254 0 L115.254 160.008 L0 160.008 L0 0 Z" copath="M0 0 L115.254 0 L115.254 160.008 L0 160.008 L0 0 Z" gXpos="525.691291338583" gYpos="1320.68641732283" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="460.019" YPOS="1209.18435433071" OwnPage="1" ItemID="1780505939" PTYPE="2" WIDTH="183.760527559055" HEIGHT="100.005" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.275495867768595" LOCALSCY="0.275495867768595" LOCALX="86.3689019486031" LOCALY="1.88750562471787" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/824055.webp" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5" SOFTSHADOWYOFFSET="5.00031496062992" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L183.761 0 L183.761 100.005 L0 100.005 L0 0 Z" copath="M0 0 L183.761 0 L183.761 100.005 L0 100.005 L0 0 Z" gXpos="460.019" gYpos="1209.18435433071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="420.017" YPOS="1492.033" OwnPage="1" ItemID="1780594547" PTYPE="2" WIDTH="220.011" HEIGHT="160.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.324470482199189" LOCALSCY="0.324470482199189" LOCALX="73.2007913385827" LOCALY="0.122307086614173" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/WhatsApp Image 2025-01-25 at 21.15.21 (1).jpeg" IRENDER="0" EMBEDDED="0" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L220.011 0 L220.011 160.008 L0 160.008 L0 0 Z" copath="M0 0 L220.011 0 L220.011 160.008 L0 160.008 L0 0 Z" gXpos="420.017" gYpos="1492.033" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="735.276590551181" YPOS="1401.91576377953" OwnPage="2" ItemID="1785979363" PTYPE="2" WIDTH="175.256590551181" HEIGHT="200.01" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.267393048128342" LOCALSCY="0.267393048128342" LOCALX="103.95602044339" LOCALY="2.39348032598322" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Habana/1690379859662.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L175.257 0 L175.257 200.01 L0 200.01 L0 0 Z" copath="M0 0 L175.257 0 L175.257 200.01 L0 200.01 L0 0 Z" gXpos="735.276590551181" gYpos="1401.91576377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="803.502062992126" YPOS="2859.28559055117" OwnPage="6" ItemID="1780684675" PTYPE="2" WIDTH="420.021" HEIGHT="520.026" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.388908333333333" LOCALSCY="0.388908333333333" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../Pictures/TriniCuba/Habana/1707410878363.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" HASSOFTSHADOW="1" SOFTSHADOWXOFFSET="5.00031496062992" SOFTSHADOWYOFFSET="5" SOFTSHADOWCOLOR="Black" SOFTSHADOWBLURRADIUS="5" SOFTSHADOWSHADE="100" SOFTSHADOWBLENDMODE="0" SOFTSHADOWOPACITY="0" SOFTSHADOWERASE="0" SOFTSHADOWOBJTRANS="0" path="M0 0 L420.021 0 L420.021 520.026 L0 520.026 L0 0 Z" copath="M0 0 L420.021 0 L420.021 520.026 L0 520.026 L0 0 Z" gXpos="803.502062992126" gYpos="2859.28559055117" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="741.106362204724" YPOS="4742.21172440947" OwnPage="10" ItemID="1780708803" PTYPE="4" WIDTH="515.275590551181" HEIGHT="120.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="2" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 120.006 L0 120.006 L0 0 Z" copath="M0 0 L515.276 0 L515.276 120.006 L0 120.006 L0 0 Z" gXpos="741.106362204724" gYpos="4742.21172440947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Libre Baskerville Italic" FONTSIZE="27" FEATURES="inherit" FCOLOR="Black" CH="&quot;TriniCuba les brinda el secreto para unas vacaciones felices.&quot;"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="43"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

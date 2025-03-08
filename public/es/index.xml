@@ -6,7 +6,7 @@
     <description>Recent content on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 17 Feb 2025 21:38:19 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:43:56 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Casacolonialguaurabo</title>
@@ -69,7 +69,7 @@
       <link>http://localhost:1313/es/offers/hav-sdq-geo/</link>
       <pubDate>Fri, 10 Jan 2025 12:08:05 -0500</pubDate>
       <guid>http://localhost:1313/es/offers/hav-sdq-geo/</guid>
-      <description>&lt;h5 id=&#34;disponibilidad-vuelo-a-guyana---_skyhigh_&#34;&gt;Disponibilidad vuelo a Guyana - &lt;em&gt;Skyhigh&lt;/em&gt;&lt;/h5&gt;&#xA;&lt;p&gt;Disponibilidad más cercana:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 FEB( últimas plazas)&lt;/li&gt;&#xA;&lt;li&gt;8 FEB&lt;/li&gt;&#xA;&lt;li&gt;22 FEB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tarifa neta&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clase Economy&lt;/strong&gt; ( F) desde &lt;strong&gt;1480USD&lt;/strong&gt; adultos y niños// &lt;strong&gt;500USD&lt;/strong&gt; infantes.&lt;/p&gt;&#xA;&lt;p&gt;Retornos garantizados.&lt;/p&gt;&#xA;&lt;p&gt;Incluyen 1 equipaje de mano de 7kg y 1 pieza de 32kg de equipaje en bodega.&lt;/p&gt;&#xA;&lt;p&gt;✅Importante: Todos los boletos deben estar pagados a las 48 Hrs de emitida la reserva.&lt;/p&gt;&#xA;&lt;p&gt;Ante cualquier duda o falla del sistema nos pueden contactar por esta vía para soporte.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;disponibilidad-vuelo-a-guyana---skyhigh&#34;&gt;Disponibilidad vuelo a Guyana - &lt;em&gt;Skyhigh&lt;/em&gt;&lt;/h5&gt;&#xA;&lt;p&gt;Disponibilidad más cercana:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 FEB( últimas plazas)&lt;/li&gt;&#xA;&lt;li&gt;8 FEB&lt;/li&gt;&#xA;&lt;li&gt;22 FEB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tarifa neta&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clase Economy&lt;/strong&gt; ( F) desde &lt;strong&gt;1480USD&lt;/strong&gt; adultos y niños// &lt;strong&gt;500USD&lt;/strong&gt; infantes.&lt;/p&gt;&#xA;&lt;p&gt;Retornos garantizados.&lt;/p&gt;&#xA;&lt;p&gt;Incluyen 1 equipaje de mano de 7kg y 1 pieza de 32kg de equipaje en bodega.&lt;/p&gt;&#xA;&lt;p&gt;✅Importante: Todos los boletos deben estar pagados a las 48 Hrs de emitida la reserva.&lt;/p&gt;&#xA;&lt;p&gt;Ante cualquier duda o falla del sistema nos pueden contactar por esta vía para soporte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flights</title>
@@ -128,6 +128,41 @@
       <description></description>
     </item>
     <item>
+      <title>Playa_ancon</title>
+      <link>http://localhost:1313/es/excursions/trinidad/playa_ancon/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:56 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/playa_ancon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trinidad_artesanal</title>
+      <link>http://localhost:1313/es/excursions/trinidad/trinidad_artesanal/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:39 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/trinidad_artesanal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trinidad</title>
+      <link>http://localhost:1313/es/excursions/trinidad/trinidad/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:31 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/trinidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salto_caburni</title>
+      <link>http://localhost:1313/es/excursions/trinidad/salto_caburni/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:20 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/salto_caburni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valle_ingenios</title>
+      <link>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:04 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Habana_nocturna</title>
       <link>http://localhost:1313/es/excursions/la_habana/habana_nocturna/</link>
       <pubDate>Mon, 17 Feb 2025 21:38:19 -0500</pubDate>
@@ -160,7 +195,7 @@
       <link>http://localhost:1313/es/excursions/la_habana/fusterland/</link>
       <pubDate>Mon, 17 Feb 2025 21:37:00 -0500</pubDate>
       <guid>http://localhost:1313/es/excursions/la_habana/fusterland/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;tour-fusterlandia-no1&#34;&gt;Tour Fusterlandia No.1&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Fusterlandia es un proyecto del artista, pintor y escultor José Rodríguez Fuster (1946), que recuerda al encanto de la obra de Gaudí. Está ubicado en Jaimanitas, poblado pesquero situado al oeste de La Habana, a 18km del centro de la ciudad.&#xA;Fusterlandia es un espacio artístico a base de esculturas, mosaicos y citas de Alejo Carpentier y Ernest Hemingway; que agrupa la fachada de 80 viviendas. Este proyecto que comenzó en la década de los 90, ha progresado hasta la actualidad, promoviendo la magia de vivir dentro del arte.&#xA;Itinerario:&#xA;*Recogida en el hostal (casa particular).&#xA;*Recorrido en auto por el Malecón habanero, desde Paseo del Prado y Malecón, rumbo a la barriada de Jaimanitas (aproximadamente 18km).&#xA;*Recorrido por Quinta Avenida, zona residencial de la ciudad.&#xA;*Recorrido panorámico por la barriada pesquera de Jaimanitas.&#xA;*Visita guiada a la “Tierra de Fuster”.&#xA;*Tiempo libre para curiosear por el lugar y comprar souvenir.&#xA;*Regreso al hostal (casa particular).&#xA;Nota: Existe una variante de esta excursión que incluye almuerzo en restaurant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hemingway</title>

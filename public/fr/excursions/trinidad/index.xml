@@ -6,7 +6,42 @@
     <description>Recent content in Trinidad on TriniCuba</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:45:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/excursions/trinidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trinidad_artesanal</title>
+      <link>http://localhost:1313/fr/excursions/trinidad/trinidad_artesanal/</link>
+      <pubDate>Mon, 17 Feb 2025 21:45:15 -0500</pubDate>
+      <guid>http://localhost:1313/fr/excursions/trinidad/trinidad_artesanal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trinidad</title>
+      <link>http://localhost:1313/fr/excursions/trinidad/trinidad/</link>
+      <pubDate>Mon, 17 Feb 2025 21:45:09 -0500</pubDate>
+      <guid>http://localhost:1313/fr/excursions/trinidad/trinidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salto_caburni</title>
+      <link>http://localhost:1313/fr/excursions/trinidad/salto_caburni/</link>
+      <pubDate>Mon, 17 Feb 2025 21:45:01 -0500</pubDate>
+      <guid>http://localhost:1313/fr/excursions/trinidad/salto_caburni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valle_ingenios</title>
+      <link>http://localhost:1313/fr/excursions/trinidad/valle_ingenios/</link>
+      <pubDate>Mon, 17 Feb 2025 21:44:49 -0500</pubDate>
+      <guid>http://localhost:1313/fr/excursions/trinidad/valle_ingenios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Playa_ancon</title>
+      <link>http://localhost:1313/fr/excursions/trinidad/playa_ancon/</link>
+      <pubDate>Mon, 17 Feb 2025 21:44:13 -0500</pubDate>
+      <guid>http://localhost:1313/fr/excursions/trinidad/playa_ancon/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
