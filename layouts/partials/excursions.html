@@ -3,7 +3,8 @@
         {{ range (where .Site.RegularPages "Type" "excursions")  }}
             <div class="single-card">
                 <div class="mb-10 text-center">
-                    <a href="{{ .Params.address }}"><img src="{{ .Params.img }}" alt="{{ .Params.denomination }}"></a>
+                    <a href="{{ .Params.address }}"> <img src="{{ .Params.img }}" alt="{{ .Params.denomination }}">
+                    </a>
                 </div>
                 <div class="title text-center pb-20">
                     <h5>{{ .Params.denomination }}</h5>

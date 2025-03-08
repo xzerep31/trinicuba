@@ -3,7 +3,7 @@ date: '2025-02-17T21:37:00-05:00'
 title: 'Fusterland'
 denomination: 'City Tour Fusterlandia'
 img: '/img/excursions/Habana_Fusterland.png'
-address: '/excursions/la_habana/fusterland/'
+address: '/es/excursions/la_habana/fusterland/'
 id: 'fusterlandia'
 parent: '/services/excursions/'
 ---
