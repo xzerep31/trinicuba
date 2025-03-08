@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La_habana on TriniCuba</title>
-    <link>http://localhost:1313/en/excursions/la_habana/</link>
+    <link>http://localhost:1313/trinicuba/en/excursions/la_habana/</link>
     <description>Recent content in La_habana on TriniCuba</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Feb 2025 21:41:19 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/excursions/la_habana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/trinicuba/en/excursions/la_habana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Habana_moderna</title>
-      <link>http://localhost:1313/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</link>
       <pubDate>Mon, 17 Feb 2025 21:41:19 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</guid>
       <description></description>
     </item>
     <item>
       <title>Yoruba</title>
-      <link>http://localhost:1313/en/excursions/la_habana/yoruba/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/yoruba/</link>
       <pubDate>Mon, 17 Feb 2025 21:40:21 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/yoruba/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/yoruba/</guid>
       <description></description>
     </item>
     <item>
       <title>Fusterland</title>
-      <link>http://localhost:1313/en/excursions/la_habana/fusterland/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/fusterland/</link>
       <pubDate>Mon, 17 Feb 2025 21:40:11 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/fusterland/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/fusterland/</guid>
       <description></description>
     </item>
     <item>
       <title>Hemingway</title>
-      <link>http://localhost:1313/en/excursions/la_habana/hemingway/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway/</link>
       <pubDate>Mon, 17 Feb 2025 21:40:04 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/hemingway/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_moderna</title>
-      <link>http://localhost:1313/en/excursions/la_habana/habana_moderna/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_moderna/</link>
       <pubDate>Mon, 17 Feb 2025 21:39:54 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/habana_moderna/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_moderna/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_historica</title>
-      <link>http://localhost:1313/en/excursions/la_habana/habana_historica/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_historica/</link>
       <pubDate>Mon, 17 Feb 2025 21:39:44 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/habana_historica/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_historica/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_nocturna</title>
-      <link>http://localhost:1313/en/excursions/la_habana/habana_nocturna/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_nocturna/</link>
       <pubDate>Mon, 17 Feb 2025 21:39:21 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/habana_nocturna/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_nocturna/</guid>
       <description></description>
     </item>
   </channel>

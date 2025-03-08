@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TriniCuba</title>
-    <link>http://localhost:1313/en/</link>
+    <link>http://localhost:1313/trinicuba/en/</link>
     <description>Recent content on TriniCuba</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Feb 2025 21:46:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/trinicuba/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playa_ancon</title>
-      <link>http://localhost:1313/en/excursions/trinidad/playa_ancon/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/trinidad/playa_ancon/</link>
       <pubDate>Mon, 17 Feb 2025 21:46:07 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/trinidad/playa_ancon/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/trinidad/playa_ancon/</guid>
       <description></description>
     </item>
     <item>
       <title>Valle_ingenios</title>
-      <link>http://localhost:1313/en/excursions/trinidad/valle_ingenios/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/trinidad/valle_ingenios/</link>
       <pubDate>Mon, 17 Feb 2025 21:45:58 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/trinidad/valle_ingenios/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/trinidad/valle_ingenios/</guid>
       <description></description>
     </item>
     <item>
       <title>Salto_caburni</title>
-      <link>http://localhost:1313/en/excursions/trinidad/salto_caburni/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/trinidad/salto_caburni/</link>
       <pubDate>Mon, 17 Feb 2025 21:45:45 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/trinidad/salto_caburni/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/trinidad/salto_caburni/</guid>
       <description></description>
     </item>
     <item>
       <title>Trinidad</title>
-      <link>http://localhost:1313/en/excursions/trinidad/trinidad/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad/</link>
       <pubDate>Mon, 17 Feb 2025 21:45:35 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/trinidad/trinidad/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Trinidad_artesanal</title>
-      <link>http://localhost:1313/en/excursions/trinidad/trinidad_artesanal/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad_artesanal/</link>
       <pubDate>Mon, 17 Feb 2025 21:45:27 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/trinidad/trinidad_artesanal/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad_artesanal/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_moderna</title>
-      <link>http://localhost:1313/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</link>
       <pubDate>Mon, 17 Feb 2025 21:41:19 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</guid>
       <description></description>
     </item>
     <item>
       <title>Yoruba</title>
-      <link>http://localhost:1313/en/excursions/la_habana/yoruba/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/yoruba/</link>
       <pubDate>Mon, 17 Feb 2025 21:40:21 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/yoruba/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/yoruba/</guid>
       <description></description>
     </item>
     <item>
       <title>Fusterland</title>
-      <link>http://localhost:1313/en/excursions/la_habana/fusterland/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/fusterland/</link>
       <pubDate>Mon, 17 Feb 2025 21:40:11 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/fusterland/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/fusterland/</guid>
       <description></description>
     </item>
     <item>
       <title>Hemingway</title>
-      <link>http://localhost:1313/en/excursions/la_habana/hemingway/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway/</link>
       <pubDate>Mon, 17 Feb 2025 21:40:04 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/hemingway/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_moderna</title>
-      <link>http://localhost:1313/en/excursions/la_habana/habana_moderna/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_moderna/</link>
       <pubDate>Mon, 17 Feb 2025 21:39:54 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/habana_moderna/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_moderna/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_historica</title>
-      <link>http://localhost:1313/en/excursions/la_habana/habana_historica/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_historica/</link>
       <pubDate>Mon, 17 Feb 2025 21:39:44 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/habana_historica/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_historica/</guid>
       <description></description>
     </item>
     <item>
       <title>Habana_nocturna</title>
-      <link>http://localhost:1313/en/excursions/la_habana/habana_nocturna/</link>
+      <link>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_nocturna/</link>
       <pubDate>Mon, 17 Feb 2025 21:39:21 -0500</pubDate>
-      <guid>http://localhost:1313/en/excursions/la_habana/habana_nocturna/</guid>
+      <guid>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_nocturna/</guid>
       <description></description>
     </item>
     <item>
       <title>Social</title>
-      <link>http://localhost:1313/en/services/social/</link>
+      <link>http://localhost:1313/trinicuba/en/services/social/</link>
       <pubDate>Fri, 10 Jan 2025 09:37:51 -0500</pubDate>
-      <guid>http://localhost:1313/en/services/social/</guid>
+      <guid>http://localhost:1313/trinicuba/en/services/social/</guid>
       <description></description>
     </item>
     <item>
       <title>Accomodations</title>
-      <link>http://localhost:1313/en/services/accomodations/</link>
+      <link>http://localhost:1313/trinicuba/en/services/accomodations/</link>
       <pubDate>Fri, 10 Jan 2025 09:37:29 -0500</pubDate>
-      <guid>http://localhost:1313/en/services/accomodations/</guid>
+      <guid>http://localhost:1313/trinicuba/en/services/accomodations/</guid>
       <description></description>
     </item>
     <item>
       <title>Excursions</title>
-      <link>http://localhost:1313/en/services/excursions/</link>
+      <link>http://localhost:1313/trinicuba/en/services/excursions/</link>
       <pubDate>Fri, 10 Jan 2025 09:36:54 -0500</pubDate>
-      <guid>http://localhost:1313/en/services/excursions/</guid>
+      <guid>http://localhost:1313/trinicuba/en/services/excursions/</guid>
       <description></description>
     </item>
     <item>
       <title>Flights</title>
-      <link>http://localhost:1313/en/services/flights/</link>
+      <link>http://localhost:1313/trinicuba/en/services/flights/</link>
       <pubDate>Fri, 10 Jan 2025 09:36:37 -0500</pubDate>
-      <guid>http://localhost:1313/en/services/flights/</guid>
+      <guid>http://localhost:1313/trinicuba/en/services/flights/</guid>
       <description></description>
     </item>
     <item>
       <title>Packs</title>
-      <link>http://localhost:1313/en/services/packs/</link>
+      <link>http://localhost:1313/trinicuba/en/services/packs/</link>
       <pubDate>Fri, 10 Jan 2025 09:36:27 -0500</pubDate>
-      <guid>http://localhost:1313/en/services/packs/</guid>
+      <guid>http://localhost:1313/trinicuba/en/services/packs/</guid>
       <description></description>
     </item>
     <item>
       <title>Taxi</title>
-      <link>http://localhost:1313/en/services/taxi/</link>
+      <link>http://localhost:1313/trinicuba/en/services/taxi/</link>
       <pubDate>Fri, 10 Jan 2025 09:35:13 -0500</pubDate>
-      <guid>http://localhost:1313/en/services/taxi/</guid>
+      <guid>http://localhost:1313/trinicuba/en/services/taxi/</guid>
       <description></description>
     </item>
     <item>
       <title>Booking</title>
-      <link>http://localhost:1313/en/booking/</link>
+      <link>http://localhost:1313/trinicuba/en/booking/</link>
       <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
-      <guid>http://localhost:1313/en/booking/</guid>
+      <guid>http://localhost:1313/trinicuba/en/booking/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>http://localhost:1313/trinicuba/en/contact/</link>
       <pubDate>Mon, 06 Jan 2025 17:05:18 -0500</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>http://localhost:1313/trinicuba/en/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Thanks</title>
-      <link>http://localhost:1313/en/thanks/</link>
+      <link>http://localhost:1313/trinicuba/en/thanks/</link>
       <pubDate>Mon, 06 Jan 2025 17:02:20 -0500</pubDate>
-      <guid>http://localhost:1313/en/thanks/</guid>
+      <guid>http://localhost:1313/trinicuba/en/thanks/</guid>
       <description></description>
     </item>
     <item>
       <title>Accomodation</title>
-      <link>http://localhost:1313/en/accomodations/</link>
+      <link>http://localhost:1313/trinicuba/en/accomodations/</link>
       <pubDate>Mon, 06 Jan 2025 17:01:44 -0500</pubDate>
-      <guid>http://localhost:1313/en/accomodations/</guid>
+      <guid>http://localhost:1313/trinicuba/en/accomodations/</guid>
       <description></description>
     </item>
     <item>
       <title>Accomodations</title>
-      <link>http://localhost:1313/en/gallery/</link>
+      <link>http://localhost:1313/trinicuba/en/gallery/</link>
       <pubDate>Mon, 06 Jan 2025 17:01:44 -0500</pubDate>
-      <guid>http://localhost:1313/en/gallery/</guid>
+      <guid>http://localhost:1313/trinicuba/en/gallery/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>http://localhost:1313/trinicuba/en/about/</link>
       <pubDate>Mon, 06 Jan 2025 17:01:02 -0500</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
+      <guid>http://localhost:1313/trinicuba/en/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Packages</title>
-      <link>http://localhost:1313/en/packages/</link>
+      <link>http://localhost:1313/trinicuba/en/packages/</link>
       <pubDate>Mon, 06 Jan 2025 17:00:31 -0500</pubDate>
-      <guid>http://localhost:1313/en/packages/</guid>
+      <guid>http://localhost:1313/trinicuba/en/packages/</guid>
       <description></description>
     </item>
   </channel>
