@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frs on TriniCuba</title>
-    <link>http://localhost:1313/trinicuba/es/fr/</link>
+    <link>http://localhost:1313/es/fr/</link>
     <description>Recent content in Frs on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 08 Mar 2025 17:46:43 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/trinicuba/es/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hemingway_2</title>
-      <link>http://localhost:1313/trinicuba/es/fr/excursions/la_habana/hemingway_2/</link>
+      <link>http://localhost:1313/es/fr/excursions/la_habana/hemingway_2/</link>
       <pubDate>Sat, 08 Mar 2025 17:46:43 -0500</pubDate>
-      <guid>http://localhost:1313/trinicuba/es/fr/excursions/la_habana/hemingway_2/</guid>
+      <guid>http://localhost:1313/es/fr/excursions/la_habana/hemingway_2/</guid>
       <description></description>
     </item>
     <item>
       <title>Hemingway_3</title>
-      <link>http://localhost:1313/trinicuba/es/fr/excursions/la_habana/hemingway_3/</link>
+      <link>http://localhost:1313/es/fr/excursions/la_habana/hemingway_3/</link>
       <pubDate>Sat, 08 Mar 2025 17:46:17 -0500</pubDate>
-      <guid>http://localhost:1313/trinicuba/es/fr/excursions/la_habana/hemingway_3/</guid>
+      <guid>http://localhost:1313/es/fr/excursions/la_habana/hemingway_3/</guid>
       <description></description>
     </item>
   </channel>

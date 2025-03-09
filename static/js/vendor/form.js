@@ -6,3 +6,4 @@ document.getElementById('formSelector').addEventListener('change', function() {
         document.getElementById(selectedForm).style.display = 'block'; // Show selected form
     }
 });
+

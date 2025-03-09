@@ -199,6 +199,27 @@
 - id: "OfferSpain"
   translation: "Oferta España"
 
+- id: "cityTourHavFusterland"
+  translation: "City Tour Fusterland"
 
+- id: "cityTourHavHistorica"
+  translation: "City Tour Habana Historica"
 
+- id: "cityTourHavModerna"
+  translation: "City Tour Habana Moderna"
+
+- id: "cityTourHavNocturna"
+  translation: "City Tour Habana Nocturna"
+
+- id: "cityTourHavHemingway1"
+  translation: "City Tour Hemingway No. 1"
+
+- id: "cityTourHavHemingway2"
+  translation: "City Tour Hemingway No. 2"
+
+- id: "cityTourHavHemingway3"
+  translation: "City Tour Hemingway No. 3"
+
+- id: "cityTourHavYoruba"
+  translation: "City Tour Huellas Africanas"
 
