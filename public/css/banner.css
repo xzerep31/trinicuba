@@ -46,7 +46,7 @@
 }
 
 .line-1 {
-    margin-left: 1px;       
+    margin-left: 5px;
 }
 
 .line-2 {
@@ -67,7 +67,6 @@
 
     .default-banner h1 {
         padding-top: 90px;
-        
         padding-bottom: 10px;
         font-size: 24pt;
     }
