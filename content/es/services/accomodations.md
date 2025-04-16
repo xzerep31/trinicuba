@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10T09:34:31-05:00'
 title: 'Accomodation'
-weight: 5
+weight: 3
 group: "Hospedaje"
 name: "manage accomodation"
 id: "hostales"

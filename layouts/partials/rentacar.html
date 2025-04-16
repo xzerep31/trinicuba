@@ -1,0 +1,19 @@
+<div class="section-gap" id="rentacar">
+    <div class="row">
+        {{ range (where .Site.RegularPages "Type" "rentacar")  }}
+            <div class="single-card">
+                <div class="mb-10 text-center">
+                    <a href="{{ .Params.address }}"><img src="{{ .Params.screenshot }}" alt="{{ .Params.name }}"></a>
+                </div>
+                <div class="title text-center pb-20">
+                    <h5>{{ .Params.name }}</h5>
+                    <div class="ps-2">
+                    {{ range seq .Params.stars }}
+                        <small class="rating fa fa-star"></small>
+                    {{ end }}
+                    </div>                     
+                </div>						
+            </div>							
+        {{ end }}																					
+    </div> 
+</div>

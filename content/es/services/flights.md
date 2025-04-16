@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10T09:34:47-05:00'
 title: 'Flights'
-weight: 4
+weight: 2
 group: "Vuelos"
 name: "flight tickets manager"
 id: "vuelos"

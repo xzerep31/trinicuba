@@ -6,27 +6,13 @@
     <description>Recent content in Services on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Jan 2025 09:35:03 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 00:24:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/es/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Excursions</title>
-      <link>http://localhost:1313/es/services/excursions/</link>
-      <pubDate>Fri, 10 Jan 2025 09:34:37 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/excursions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Taxi</title>
-      <link>http://localhost:1313/es/services/taxi/</link>
-      <pubDate>Fri, 10 Jan 2025 09:35:03 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/taxi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Packages</title>
-      <link>http://localhost:1313/es/services/packs/</link>
-      <pubDate>Fri, 10 Jan 2025 09:34:57 -0500</pubDate>
-      <guid>http://localhost:1313/es/services/packs/</guid>
+      <title>tourpacks</title>
+      <link>http://localhost:1313/es/services/tourpacks/</link>
+      <pubDate>Wed, 16 Apr 2025 00:23:36 -0400</pubDate>
+      <guid>http://localhost:1313/es/services/tourpacks/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +27,34 @@
       <link>http://localhost:1313/es/services/accomodations/</link>
       <pubDate>Fri, 10 Jan 2025 09:34:31 -0500</pubDate>
       <guid>http://localhost:1313/es/services/accomodations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taxi</title>
+      <link>http://localhost:1313/es/services/taxi/</link>
+      <pubDate>Fri, 10 Jan 2025 09:35:03 -0500</pubDate>
+      <guid>http://localhost:1313/es/services/taxi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rentacar</title>
+      <link>http://localhost:1313/es/services/rentacar/</link>
+      <pubDate>Wed, 16 Apr 2025 00:24:00 -0400</pubDate>
+      <guid>http://localhost:1313/es/services/rentacar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excursions</title>
+      <link>http://localhost:1313/es/services/excursions/</link>
+      <pubDate>Fri, 10 Jan 2025 09:34:37 -0500</pubDate>
+      <guid>http://localhost:1313/es/services/excursions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packages</title>
+      <link>http://localhost:1313/es/services/packs/</link>
+      <pubDate>Fri, 10 Jan 2025 09:34:57 -0500</pubDate>
+      <guid>http://localhost:1313/es/services/packs/</guid>
       <description></description>
     </item>
     <item>

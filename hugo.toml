@@ -158,9 +158,9 @@ canonifyUrls = true
     weight = 4
     url = "#portfolio"
 [[menu.main]]
-    name = "Accomodation"
+    name = "Testimonials"
     weight = 5
-    url = "/accomodations/"
+    url = "#testimonials"
 [[menu.main]]
     name = "Contact"
     weight = 6

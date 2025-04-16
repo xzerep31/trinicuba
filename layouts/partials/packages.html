@@ -1,6 +1,25 @@
-<section class="video-area pt-40 pb-40">
-    <div class="overlay overlay-bg"></div>
+<section class="section-gap" id="packages">
     <div class="container">
-        <p class="text-center"> Esta sección se piensa para ser una especie de blog donde publicaríamos con frecuencia semanal entradas como algún reel, un comentario hecho en los grupos de whatsapp, alguna promo por una fecha marcada o alguna vivencia en una excursión. </p>
+        <div class="row d-flex justify-content-center">
+            <div class="menu-content pb-40 col-lg-8">
+                <div class="title text-center">
+                    <h1 class="mb-10">{{ .Params.subtitle }}</h1>
+                </div>
+            </div>
+        </div>					
+        <div class="single-info row mt-40">
+            <div class="col-lg-6 col-md-12 mt-120 text-center no-padding info-left">
+                <div class="single-card">
+                    <img src= "{{ .Params.screenshot | relURL }}" alt="" >
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 no-padding info-rigth">
+                <div class="info-content">
+                    <p>
+                        {{ .Content }}
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 </section>

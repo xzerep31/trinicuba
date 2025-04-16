@@ -10,6 +10,9 @@
 - id: "Services"
   translation: "Servicios"
 
+- id: "OurServices"
+  translation: "Nuestros Servicios"
+
 - id: "Gallery"
   translation: "Galería"
 
@@ -54,6 +57,9 @@
 
 - id: Notice
   translation: "¡Contáctanos a través de WhatsApp!"
+
+- id: slogan_home
+  translation: '"El secreto para unas vacaciones feliz."'
 
 - id: slogan_line1
   translation: '"La elección es suya,'
@@ -109,6 +115,12 @@
 - id: pack
   translation: "Mensajería"
 
+- id: tourpacks
+  translation: "Paquetes Turísticos"
+
+- id: rentacar
+  translation: "Renta de Autos"
+
 - id: contactmsg
   translation: "Comentarios"
 
@@ -146,7 +158,7 @@
   translation: "Servicios de Taxi"
 
 - id: "social manager"
-  translation: "Gestión de Redes Sociales"
+  translation: "Asesoría Digital"
 
 - id: "excursions services"
   translation: "Servicio de Excursiones"
@@ -171,6 +183,12 @@
 
 - id: "packDesc"
   translation: "Brindamos la facilidad de transportación de bultos por un precio módico ..."
+
+- id: "tourpacksDesc"
+  translation: "Ofrecemos el servicio de paquetes turísticos donde podrá disfrutar de varios servicios por un único precio..."
+
+- id: "rentacarDesc"
+  translation: "Le ofrecemos una variedad de vehículos que podrá adquirir para su espancia en Cuba, ofreciéndole la libertad de movilidad que ud. necesite..."
 
 - id: "readmore"
   translation: "Leer más ..."
@@ -222,4 +240,5 @@
 
 - id: "cityTourHavYoruba"
   translation: "City Tour Huellas Africanas"
+
 
