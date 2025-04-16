@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viñales on TriniCuba</title>
+    <link>http://localhost:1313/es/excursions/vi%C3%B1ales/</link>
+    <description>Recent content in Viñales on TriniCuba</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Apr 2025 17:32:49 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/excursions/vi%C3%B1ales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viñales</title>
+      <link>http://localhost:1313/es/excursions/vi%C3%B1ales/vi%C3%B1ales/</link>
+      <pubDate>Wed, 16 Apr 2025 17:32:49 -0400</pubDate>
+      <guid>http://localhost:1313/es/excursions/vi%C3%B1ales/vi%C3%B1ales/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
