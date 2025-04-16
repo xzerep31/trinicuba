@@ -1,3 +1,22 @@
 <div class="section-gap" id="trinidad">
-    
+    <div class="text-left">
+        <a class="" href="{{ .Params.parent | relLangURL }}"><i class="fa fa-arrow-left"></i></a>
+    </div>
+    <div class="row">
+        <div class="offers-post">
+            <div class="mb-10 text-center">
+                <img src="{{ .Params.img | relURL }} " alt="{{ .Params.denomination }}" width="300">
+            </div>
+                <div class="offers-detail">
+                    <p>
+                        {{ .Content }}
+                    </p>
+                </div>
+                Para más detalles <a href="{{ .Params.document | relURL }}">aquí</a>                
+            </div>
+        </div>
+    </div>
+    <div class="text-right">
+        <a class="" href="{{ .Params.parent | relLangURL }}"><i class="fa fa-arrow-left"></i></a>
+    </div>
 </div>

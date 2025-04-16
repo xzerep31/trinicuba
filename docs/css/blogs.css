@@ -1,0 +1,45 @@
+.offers {
+    justify-content: center;
+}
+
+.offers-post {
+    border: #222;
+    padding: 0 1.8em;
+    margin: 0 1.8em;
+}
+
+.offers-post img {
+    width: 22em;
+    height: auto;
+}
+
+.offers-h4 {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.offers-detail {
+    font-size: .8rem;
+    text-align: left;
+}
+
+@media screen and (min-width: 1024px) {
+    .offers {
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+    }
+
+    .offers-post img {
+        width: 62em;
+    }
+    
+    .offers-detail {
+        font-size: 1.2rem;
+        line-height: 1.6em;
+    }
+
+    .offers-post h4 {
+        font-size: 1.9em;
+    }
+}

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viñales on TriniCuba</title>
-    <link>http://localhost:1313/es/excursions/vi%C3%B1ales/</link>
+    <link>http://localhost:1313/trinicuba/es/excursions/vi%C3%B1ales/</link>
     <description>Recent content in Viñales on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Wed, 16 Apr 2025 17:32:49 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/es/excursions/vi%C3%B1ales/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/trinicuba/es/excursions/vi%C3%B1ales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Viñales</title>
-      <link>http://localhost:1313/es/excursions/vi%C3%B1ales/vi%C3%B1ales/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/vi%C3%B1ales/vi%C3%B1ales/</link>
       <pubDate>Wed, 16 Apr 2025 17:32:49 -0400</pubDate>
-      <guid>http://localhost:1313/es/excursions/vi%C3%B1ales/vi%C3%B1ales/</guid>
-      <description></description>
+      <guid>http://localhost:1313/trinicuba/es/excursions/vi%C3%B1ales/vi%C3%B1ales/</guid>
+      <description>&lt;h3 id=&#34;excursión-a-viñales-desde-la-habana&#34;&gt;Excursión a Viñales desde La Habana&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Recogida en el hostal (casa particular).&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Paseo por el Valle de Viñales, declarado por la UNESCO Patrimonio Mundial. Paisaje distinguido por los exclusivos mogotes que caracterizan su geografía.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Visita a la Casa del Veguero, donde además de disfrutar de un estimulante coctel, conocerá sobre el sistema de cultivo del tabaco.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Visita a plantaciones de tabaco.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Visita al Mirador de Los Jazmines, lugar desde donde se disfruta una hermosa vista panorámica del Valle de Viñales. Ideal para fotografiar.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Visita a la Cueva del Indio, incluye paseo en bote por el río que corre en su interior.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Almuerzo en un restaurante particular de la zona.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Visita al Mural de la Prehistoria. En 120 m de longitud, muestra el proceso de evolución de la vida en la Sierra de los Órganos. Es una de las más grandes pinturas a cielo abierto, en el mundo.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Regreso al hostal (casa particular).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

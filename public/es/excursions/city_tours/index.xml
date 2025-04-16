@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>City_tours on TriniCuba</title>
-    <link>http://localhost:1313/es/excursions/city_tours/</link>
+    <link>http://localhost:1313/trinicuba/es/excursions/city_tours/</link>
     <description>Recent content in City_tours on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Apr 2025 17:44:51 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/es/excursions/city_tours/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 17:45:22 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/trinicuba/es/excursions/city_tours/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baile</title>
-      <link>http://localhost:1313/es/excursions/city_tours/baile/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/city_tours/baile/</link>
       <pubDate>Wed, 16 Apr 2025 17:44:51 -0400</pubDate>
-      <guid>http://localhost:1313/es/excursions/city_tours/baile/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/city_tours/baile/</guid>
+      <description>&lt;h3 id=&#34;baile-y-disfrute-como-cubano&#34;&gt;Baile y disfrute como cubano&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Cuando la clave cubana suene, solo déjate llevar y deja que TriniCuba haga el resto.&lt;/p&gt;&#xA;&lt;h5 id=&#34;qué-incluye&#34;&gt;¿Qué incluye?🤔:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Recogida en el aeropuerto.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Hospedaje en casa particular (Habana y Trinidad) por 7 noches)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Desayuno, almuerzo y cena.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Clases de baile: 3h diarias durante 5 días, con bailarín acompañante personal.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Servicio de guía.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Disfrute de hasta 4 excursiones (city tour, playa, senderismo y saltos de agua)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Descubra</title>
+      <link>http://localhost:1313/trinicuba/es/excursions/city_tours/descubra/</link>
+      <pubDate>Wed, 16 Apr 2025 17:44:58 -0400</pubDate>
+      <guid>http://localhost:1313/trinicuba/es/excursions/city_tours/descubra/</guid>
+      <description>&lt;h3 id=&#34;descubre-la-naturaleza-cubana&#34;&gt;Descubre la naturaleza cubana&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Si lo que desea es disfrutar de la naturaleza TriniCuba le acompaña a un viaje lleno de colores, sabores y frescor.&lt;/p&gt;&#xA;&lt;p&gt;Descubre la naturaleza cubana con la agencia TriniCuba, que le garantiza el disfrute, confort y seguridad durante su estancia en la isla (por 7 días / 6 noches).&lt;/p&gt;&#xA;&lt;h5 id=&#34;además-incluye-&#34;&gt;Además incluye 😎:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Recogida en el aeropuerto y traslado hasta el lugar de hospedaje.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👉🏻 Alojamiento en casas particulares en La Habana y Trinidad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tradiciones</title>
+      <link>http://localhost:1313/trinicuba/es/excursions/city_tours/tradiciones/</link>
+      <pubDate>Wed, 16 Apr 2025 17:45:22 -0400</pubDate>
+      <guid>http://localhost:1313/trinicuba/es/excursions/city_tours/tradiciones/</guid>
       <description></description>
     </item>
   </channel>
