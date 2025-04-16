@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/es/rentacar/automaticos/kia/</loc>
+    <lastmod>2025-04-16T01:11:21-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/es/taxi/w004926/</loc>
     <lastmod>2025-04-16T00:53:05-04:00</lastmod>
   </url><url>
@@ -31,6 +34,9 @@
   </url><url>
     <loc>http://localhost:1313/es/offers/hav-cun/</loc>
     <lastmod>2025-01-10T11:59:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/es/rentacar/automaticos/byd/</loc>
+    <lastmod>2025-04-16T01:11:31-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/taxi/w004927/</loc>
     <lastmod>2025-04-16T00:58:28-04:00</lastmod>
@@ -176,6 +182,9 @@
     <loc>http://localhost:1313/es/offers/mad-hav-mad/</loc>
     <lastmod>2025-01-10T12:10:48-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/es/taxi/p172012/</loc>
+    <lastmod>2025-04-16T01:02:57-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/es/excursions/la_habana/hemingway_2/</loc>
     <lastmod>2025-03-08T17:45:40-05:00</lastmod>
   </url><url>
@@ -203,6 +212,9 @@
                 href="http://localhost:1313/es/services/excursions/"
                 />
   </url><url>
+    <loc>http://localhost:1313/es/taxi/b180244/</loc>
+    <lastmod>2025-04-16T01:03:12-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/es/excursions/la_habana/hemingway_3/</loc>
     <lastmod>2025-03-08T17:45:50-05:00</lastmod>
   </url><url>
@@ -226,6 +238,9 @@
                 hreflang="es"
                 href="http://localhost:1313/es/services/packs/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/es/taxi/b133460/</loc>
+    <lastmod>2025-04-16T01:03:28-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/excursions/la_habana/yoruba/</loc>
     <lastmod>2025-02-17T21:37:22-05:00</lastmod>
@@ -263,11 +278,11 @@
                 href="http://localhost:1313/es/services/social/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/taxi/b133460/</loc>
-    <lastmod>2025-04-16T01:03:28-04:00</lastmod>
+    <loc>http://localhost:1313/es/rentacar/</loc>
+    <lastmod>2025-04-16T01:11:31-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/</loc>
-    <lastmod>2025-04-16T01:03:28-04:00</lastmod>
+    <lastmod>2025-04-16T01:11:31-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -284,11 +299,11 @@
                 href="http://localhost:1313/es/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/taxi/b180244/</loc>
-    <lastmod>2025-04-16T01:03:12-04:00</lastmod>
+    <loc>http://localhost:1313/es/rentacar/manuales/</loc>
+    <lastmod>2025-04-16T01:10:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/taxi/p172012/</loc>
-    <lastmod>2025-04-16T01:02:57-04:00</lastmod>
+    <loc>http://localhost:1313/es/rentacar/automaticos/</loc>
+    <lastmod>2025-04-16T01:10:30-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/taxi/</loc>
     <lastmod>2025-04-16T00:52:26-04:00</lastmod>
