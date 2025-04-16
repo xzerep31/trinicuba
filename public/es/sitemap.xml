@@ -242,6 +242,24 @@
     <loc>http://localhost:1313/es/taxi/b133460/</loc>
     <lastmod>2025-04-16T01:03:28-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/es/excursions/trinidad/salto_caburni/</loc>
+    <lastmod>2025-02-17T21:43:20-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/excursions/trinidad/salto_caburni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/excursions/trinidad/salto_caburni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/excursions/trinidad/salto_caburni/"
+                />
+  </url><url>
     <loc>http://localhost:1313/es/excursions/la_habana/yoruba/</loc>
     <lastmod>2025-02-17T21:37:22-05:00</lastmod>
     <xhtml:link
@@ -360,24 +378,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/es/excursions/trinidad/trinidad/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/es/excursions/trinidad/salto_caburni/</loc>
-    <lastmod>2025-02-17T21:43:20-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/salto_caburni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/salto_caburni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/salto_caburni/"
                 />
   </url><url>
     <loc>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</loc>

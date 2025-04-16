@@ -94,6 +94,16 @@ canonifyUrls = true
         "img/banner-03.png",
     ]
 
+    galleryImgs = [
+        "img/portfolio/portfolio-01.jpg",
+        "img/portfolio/portfolio-02.jpg",
+        "img/portfolio/portfolio-03.jpg",
+        "img/portfolio/portfolio-04.jpg",
+        "img/portfolio/portfolio-05.jpg",
+        "img/portfolio/portfolio-06.jpg",
+        "img/portfolio/portfolio-07.jpg"
+    ]
+
 
 [languages]
     [languages.es]

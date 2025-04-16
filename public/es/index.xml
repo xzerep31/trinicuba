@@ -268,10 +268,10 @@
       <description></description>
     </item>
     <item>
-      <title>Playa_ancon</title>
-      <link>http://localhost:1313/es/excursions/trinidad/playa_ancon/</link>
-      <pubDate>Mon, 17 Feb 2025 21:43:56 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/playa_ancon/</guid>
+      <title>Salto_caburni</title>
+      <link>http://localhost:1313/es/excursions/trinidad/salto_caburni/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:20 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/salto_caburni/</guid>
       <description></description>
     </item>
     <item>
@@ -289,17 +289,17 @@
       <description></description>
     </item>
     <item>
-      <title>Salto_caburni</title>
-      <link>http://localhost:1313/es/excursions/trinidad/salto_caburni/</link>
-      <pubDate>Mon, 17 Feb 2025 21:43:20 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/salto_caburni/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Valle_ingenios</title>
       <link>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</link>
       <pubDate>Mon, 17 Feb 2025 21:43:04 -0500</pubDate>
       <guid>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Playa_ancon</title>
+      <link>http://localhost:1313/es/excursions/trinidad/playa_ancon/</link>
+      <pubDate>Mon, 17 Feb 2025 21:43:56 -0500</pubDate>
+      <guid>http://localhost:1313/es/excursions/trinidad/playa_ancon/</guid>
       <description></description>
     </item>
     <item>
