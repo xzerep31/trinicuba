@@ -10,13 +10,14 @@
                 <div class="offers-detail">
                     <p>
                         {{ .Content }}
+                        Para más detalles consulte todos los detalles sobre esta oferta en formato <a href="{{ .Params.document | relURL }}">PDF</a>.
                     </p>
-                </div>
-                Para más detalles <a href="{{ .Params.document | relURL }}">aquí</a>                
+                </div>                
             </div>
         </div>
     </div>
     <div class="" id="Excursiones/Taxi/Mensajerias">
+        <h3 class="text-center">{{ i18n "bookNow" }}</h3>
         <form action="{{ .Site.Params.formsubmit_action }}" method="post" class="contact-form">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-12 pb-10 col-lg-8 form-background">
@@ -42,12 +43,10 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-6 mb-20">
-                            <div class="col-md-12 mt-10">
-                                <input disabled name="excursionname" placeholder="{{ .Params.denomination }}"  class="common-input mb-20 form-control" id="excursionname" type="text">
-                            </div>
+                        <div class="col-md-12 mb-20">
+                            <input disabled name="excursionname" placeholder="{{ .Params.denomination }}"  class="common-input mb-20 form-control" id="excursionname" type="text">
                         </div>
-                        <div class="col-md-6 mb-20" >
+                        <div class="col-md-12 mb-20" >
                             <div class="input-group">
                                 <span class="input-group-addon" for="date"> {{ i18n "date" }}</span>
                                 <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />

@@ -4,8 +4,19 @@
 
 .offers-post {
     border: #222;
-    padding: 0 1.8em;
+    padding: 1.8em 1.8em;
     margin: 0 1.8em;
+    background-color: rgb(73, 71, 71);
+    border-radius: 1%;
+}
+
+.offers-post p {
+    line-height: 1em;
+}
+
+.offers-post a {
+    font-weight: bold;
+    color: #fff
 }
 
 .offers-post img {
@@ -13,14 +24,23 @@
     height: auto;
 }
 
-.offers-h4 {
+.offers-post h3 {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.offers-post h5 {
     font-size: 1.3em;
     font-weight: bold;
+    color: #fff;
     margin-bottom: 20px;
 }
 
 .offers-detail {
     font-size: .8rem;
+    color: #fff;
     text-align: left;
 }
 
@@ -39,7 +59,11 @@
         line-height: 1.6em;
     }
 
-    .offers-post h4 {
+    .offers-post h3 {
+        font-size: 2.3em;
+    }
+
+    .offers-post h5 {
         font-size: 1.9em;
     }
 }

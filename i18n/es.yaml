@@ -130,10 +130,13 @@
 - id: followus
   translation: "Síguenos"
 
-- id: "book a service"
+- id: "bookAservice"
   translation: "Haz una reserva"
 
-- id: "select a service"
+- id: "bookNow"
+  translation: "Reserva ahora"
+
+- id: "selectAservice"
   translation: "Selecciona un servicio"
 
 - id: "select an offer"
