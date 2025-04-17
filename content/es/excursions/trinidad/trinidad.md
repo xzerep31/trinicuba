@@ -1,6 +1,6 @@
 ---
 date: '2025-02-17T21:43:31-05:00'
-title: 'Trinidad'
+title: 'excursionTrinidad'
 weight: 11
 denomination: 'Excursión a Trinidad'
 img: '/img/excursions/Trinidad.png'

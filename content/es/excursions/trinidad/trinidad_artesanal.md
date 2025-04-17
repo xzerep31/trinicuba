@@ -1,6 +1,6 @@
 ---
 date: '2025-02-17T21:43:39-05:00'
-title: 'Trinidad_artesanal'
+title: 'cityTourArtesanalTri'
 weight: 10
 denomination: 'City Tour Trinidad Artesanal'
 img: '/img/excursions/Trinidad_Artesanal.png'
@@ -10,25 +10,21 @@ parent: '/services/excursions/'
 document: '/extras/PDF/Artesanal.rar'
 ---
 
-### City tour artesanal: Clases 
-#### Máx. 4 pax
----
-Descubrir la Villa de la Santísima Trinidad desde sus tradiciones artesanales es un lujo que “City tour artesanal” proporciona. Conocer la historia local desde la belleza de la arcilla y los tejidos, enriqueciendo la experiencia con clases prácticas de dos de las tradiciones más populares de esta Ciudad Artesanal del Mundo (2018), será sin dudas una vivencia sin igual. 
+### City Tour "Trinidad Artesanal"
 
-### Itinerario:
-- --> Acompañamiento de guía.
-- --> Recogida en el hostal (9 a.m.).
-- --> Visita a un taller de alfarería perteneciente a la familia Santander, linaje de tradición alfarera desde tiempos fundacionales. (Estancia aproximada de una hora a hora y media).
-- --> Conocerá la historia de la tradición artesanal de esta familia desde tiempos fundacionales.
-- --> Recibirá clase práctica sobre alfarería (de ser posible, hacer la vasija de la canchánchara).
-- --> Podrá adquirir (si desea comprar) un hermoso recuerdo.
-- --> Segunda parte del recorrido temático: Casco histórico de la ciudad (empleará aproximadamente entre una hora u hora y media).
-- --> Visita a La Canchánchara para degustar del coctel insignia (en vasija de barro como la clase de alfarería).
-- --> Visita a algunos puntos donde se exhiban (puede ser casa particular) o comercialicen prendas textiles demostrativas de la artesanía local.
-- --> Conocerá la historia de la tradición artesanal que involucra a mujeres y hombres desde tiempos fundacionales.
-- --> Recibirá clase práctica sobre randa: técnica de bordado que se realiza a partir del deshilado de la tela. (De ser posible, hacer el punto la trinitaria)
-- --> Podrá adquirir (si desea comprar) un hermoso recuerdo.
-- --> Almuerzo en restaurante (a la carta).
-- --> Última parada: La candonga: zona comercial de artesanos. (Tiempo libre.)
+Trinidad integra desde 2018 la lista de ciudades artesanales del mundo. Y “City tour artesanal” brinda la posibilidad de descubrir la historia de la villa, desde dos de sus principales tradiciones artesanales.
 
-**TriniCuba le brinda el secreto para unas vacaciones feliz.**
+##### El tour incluye 😎:
+
+- 👉🏻 Conocer la historia de la alfarería.
+- 👉🏻 Visita a taller de alfarería. 
+- 👉🏻 Clase práctica de alfarería. 
+- 👉🏻 Recorrido por el casco histórico.
+- 👉🏻 Conocer la historia de la tradición del tejido.
+- 👉🏻 Intercambio con  artesana especializada en randa.
+- 👉🏻 Clase práctica de randa.
+- 👉🏻 Visita a La Canchánchara.
+- 👉🏻 Almuerzo en restaurante.
+- 👉🏻 Visita a la candonga.
+
+**TriniCuba le ofrece el secreto para unas vacaciones feliz.**

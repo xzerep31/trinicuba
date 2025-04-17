@@ -1,6 +1,6 @@
 ---
 date: '2025-04-16T17:44:58-04:00'
-title: 'Descubra'
+title: 'cityTourDescubra'
 weight: 18
 denomination: 'Descubra la naturaleza cubana'
 img: '/img/excursions/Naturaleza.png'

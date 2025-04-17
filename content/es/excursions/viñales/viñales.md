@@ -1,6 +1,6 @@
 ---
 date: '2025-04-16T17:32:49-04:00'
-title: 'Viñales'
+title: 'excursionVinales'
 weight: 14
 denomination: 'Excursión a Viñales'
 img: '/img/excursions/Viñales.png'

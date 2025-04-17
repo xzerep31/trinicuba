@@ -1,6 +1,6 @@
 ---
 date: '2025-02-17T21:43:20-05:00'
-title: 'Salto_caburni'
+title: 'excursionCaburniTri'
 weight: 9
 denomination: 'Excursión a "Salto del Caburní"'
 img: '/img/excursions/Trinidad_Caburni.png'

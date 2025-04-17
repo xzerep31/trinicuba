@@ -1,6 +1,6 @@
 ---
 date: '2025-04-16T17:44:51-04:00'
-title: 'Baile'
+title: 'cityTourBaile'
 weight: 17
 denomination: 'Baile y Disfrute como Cubano'
 img: '/img/excursions/Baile.png'

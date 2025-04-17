@@ -241,4 +241,32 @@
 - id: "cityTourHavYoruba"
   translation: "City Tour Huellas Africanas"
 
+- id: "cityTourPlayaAnconTri"
+  translation: "City Tour Playa Ancón"
+
+- id: "excursionCaburniTri"
+  translation: "Excursión Salto El Caburní"
+
+- id: "cityTourArtesanalTri"
+  translation: "City Tour Trinidad Artesanal"
+
+- id: "excursionTrinidad"
+  translation: "Excursión a Trinidad"
+
+- id: "excursionValleTri"
+  translation: "Excursión al Valle de los Ingenios"
+
+- id: "excursionVinales"
+  translation: "Excursion al Valle de Viñales"
+
+- id: "cityTourBaile"
+  translation: "City Tour Baile y Disfrute como cubano"
+
+- id: "cityTourDescubra"
+  translation: "City Tour Descubra la Naturaleza cubana"
+
+- id: "cityTourTradiciones"
+  translation: "City Tour Viva las tradiciones de Cuba"
+
+
 

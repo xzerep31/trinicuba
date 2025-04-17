@@ -1,6 +1,6 @@
 ---
 date: '2025-04-16T17:45:22-04:00'
-title: 'Tradiciones'
+title: 'cityTourTradiciones'
 weight: 19
 denomination: 'Viva las tradiciones de Cuba'
 img: '/img/excursions/Tradiciones.png'
