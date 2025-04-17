@@ -11,11 +11,68 @@
                     <p>
                         {{ .Content }}
                     </p>
-                </div>                
-                <a href="{{ .Params.book | relLangURL }}?select=formSelector&valor=Excursiones/Taxi/Mensajerias">Reserva Ahora!</a>
-                <p>Para más detalles, acceda <a href="{{ .Params.document | relURL }}">aquí</a></p>
+                </div>
+                Para más detalles <a href="{{ .Params.document | relURL }}">aquí</a>                
             </div>
         </div>
+    </div>
+    <div class="" id="Excursiones/Taxi/Mensajerias">
+        <form action="{{ .Site.Params.formsubmit_action }}" method="post" class="contact-form">
+            <div class="row d-flex justify-content-center">
+                <div class="col-md-12 pb-10 col-lg-8 form-background">
+                    <div class="row">
+                        <div class="col-md-6 mt-10">
+                            <input name="name" placeholder="{{ i18n "contactname" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactname" }}'" class="common-input mb-20 form-control" required="" type="text">
+                        </div>
+                        <div class="col-md-6 mt-10">
+                            <input name="email" placeholder="{{ i18n "contactmail" }}" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactmail" }}'" class="common-input mb-20 form-control" required="" type="email">
+                            <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 mt-10">
+                            <input name="whatsapp" placeholder="{{ i18n "contactcel" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactcel" }}'" class="common-input mb-20 form-control" required="" type="text">
+                        </div>
+                        <div class="col-md-4 mt-10">
+                            <input name="pax" placeholder="{{ i18n "contactpax" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactpax" }}'" class="common-input mb-20 form-control" required="" type="text">
+                        </div>
+                        <div class="col-md-4 mb-20 mt-10">
+                            <label for="flexRadioDefault1">{{ i18n "contactchilds" }}</label>
+                            <input type="radio" value="childs" name="childs" id="flexRadioDefault1">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-20">
+                            <div class="col-md-12 mt-10">
+                                <input disabled name="excursionname" placeholder="{{ .Params.denomination }}"  class="common-input mb-20 form-control" id="excursionname" type="text">
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-20" >
+                            <div class="input-group">
+                                <span class="input-group-addon" for="date"> {{ i18n "date" }}</span>
+                                <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <textarea class="common-textarea mt-10 form-control" name="address" placeholder="{{ i18n "address" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "address" }}'" required=""></textarea>
+                        </div>
+                    </div>
+                    <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para la excursión {{ .Params.denomination }}!">
+                    <input type="hidden" name="_captcha" value="false">
+                    <input type="hidden" name="_template" value="table">
+                    <input type="hidden" name="_next" value="{{ .Site.BaseURL }}/{{ .Language.Lang }}/thanks">
+                    <div class="row">
+                        <div class="col-md-4"></div>
+                        <div class="col-md-4">
+                            <button class="primary-btn mt-20">{{ i18n "contactsend" }}<span class="fa fa-send fa-fw"></span></button>
+                        </div>
+                        <div class="col-md-4"></div>
+                    </div>
+                </div>
+            </div>
+        </form>
     </div>
     <div class="text-right">
         <a class="" href="{{ .Params.parent | relLangURL }}"><i class="fa fa-arrow-left"></i></a>
