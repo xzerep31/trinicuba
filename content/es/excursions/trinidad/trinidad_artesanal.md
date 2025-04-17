@@ -11,6 +11,7 @@ document: '/extras/PDF/Artesanal.rar'
 ---
 
 ### City Tour "Trinidad Artesanal"
+---
 
 Trinidad integra desde 2018 la lista de ciudades artesanales del mundo. Y “City tour artesanal” brinda la posibilidad de descubrir la historia de la villa, desde dos de sus principales tradiciones artesanales.
 
