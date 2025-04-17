@@ -59,7 +59,7 @@
                             <textarea class="common-textarea mt-10 form-control" name="message" placeholder="{{ i18n "contactmsg" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactmsg" }}'" required=""></textarea>
                         </div>
                     </div>
-                    <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para la oferta de boletos {{ .Params.offerta }} !">
+                    <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para la oferta de boletos {{ .Params.oferta }} !">
                     <input type="hidden" name="_captcha" value="false">
                     <input type="hidden" name="_template" value="table">
                     <input type="hidden" name="_next" value="{{ .Site.BaseURL }}/{{ .Language.Lang }}/thanks">
