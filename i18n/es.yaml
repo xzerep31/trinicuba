@@ -151,7 +151,10 @@
 - id: "selectAservice"
   translation: "Selecciona un servicio"
 
-- id: "select an offer"
+- id: "selectAnExcursion"
+  translation: "Selecciona una Excursión"
+
+- id: "selectAnOffer"
   translation: "Selecciona una oferta"
 
 - id: "creation a webpage"

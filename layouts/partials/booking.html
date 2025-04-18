@@ -22,69 +22,84 @@
         </div>	
         <div class="form-container" id="Excursiones/Taxi/Mensajerias">
             <form action="{{ .Site.Params.formsubmit_action }}" method="post" class="contact-form">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-12 pb-10 col-lg-8 form-background">
-                        <div class="row">
-                            <div class="col-md-6 mt-10">
-                                <input name="name" placeholder="{{ i18n "contactname" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactname" }}'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-6 mt-10">
-                                <input name="email" placeholder="{{ i18n "contactmail" }}" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactmail" }}'" class="common-input mb-20 form-control" required="" type="email">
-                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-4 mt-10">
-                                <input name="whatsapp" placeholder="{{ i18n "contactcel" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactcel" }}'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-4 mt-10">
-                                <input name="pax" placeholder="{{ i18n "contactpax" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactpax" }}'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-4 mb-20 mt-10">
-                                <label for="flexRadioDefault1">{{ i18n "contactchilds" }}</label>
-                                <input type="radio" value="childs" name="childs" id="flexRadioDefault1">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mb-20">
-                                <div class="form-check form-check-inline">
-                                    <label  for="checkTaxi">{{ i18n "taxi" }}</label>
-                                    <input  type="radio" name="Servicio" id="checkTaxi" value="taxi">
-                                </div>
-                                <div class="form-check form-check-inline">
-                                    <label  for="checkExcursion"> {{ i18n "excursion" }}</label>
-                                    <input  type="radio" name="Servicio" id="checkExcursion" value="excursion">
-                                </div>
-                                <div class="form-check form-check-inline">
-                                    <label  for="checkPack">{{ i18n "pack" }}</label>
-                                    <input type="radio" name="Servicio" id="checkPack" value="pack" >
-                                </div>
-                            </div>
-                            <div class="col-md-6 mb-20" >
-                                <div class="input-group">
-                                    <span class="input-group-addon" for="date"> {{ i18n "date" }}</span>
-                                    <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <textarea class="common-textarea mt-10 form-control" name="address" placeholder="{{ i18n "address" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "address" }}'" required=""></textarea>
-                            </div>
-                        </div>
-                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Excursiones/Taxi/Mensajerias!">
-                        <input type="hidden" name="_captcha" value="false">
-                        <input type="hidden" name="_template" value="table">
-                        <input type="hidden" name="_next" value="{{ .Site.BaseURL }}/{{ .Language.Lang }}/thanks">
-                        <div class="row">
-                            <div class="col-md-4"></div>
-                            <div class="col-md-4">
-                                <button class="primary-btn mt-20">{{ i18n "contactsend" }}<span class="fa fa-send fa-fw"></span></button>
-                            </div>
-                            <div class="col-md-4"></div>
-                        </div>
-                    </div>
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="name">{{ i18n "contactname" }}</span>
+                    <input name="name" placeholder="{{ i18n "contactname" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactname" }}'" class="common-input mb-20 form-control" required="" type="text" id="name">    
                 </div>
+                
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="email">{{ i18n "contactmail" }}</span>
+                    <input name="email" placeholder="{{ i18n "contactmail" }}" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactmail" }}'" class="common-input mb-20 form-control" required="" type="email" id="email">
+                    <input type="hidden" name="_cc" value="pelly31@nauta.cu">    
+                </div>
+    
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="cel">{{ i18n "contactcel" }}</span>
+                    <input name="whatsapp" placeholder="{{ i18n "contactcel" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactcel" }}'" class="common-input mb-20 form-control" required="" type="text" id="cel">    
+                </div>
+                
+                <div class="input-group mb-10">
+                    <label for="service">{{ i18n "Service" }}</label>
+                    <select id="service" name="service" required>
+                        <option value="--">Seleccione un Servicio</option>
+                        <option value="Excursión">Excursión</option>
+                        <option value="Taxi">Taxi</option>
+                        <option value="Mensajería">Mensajería</option>
+                    </select>    
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="pax"> {{ i18n "contactpax" }}</span>
+                    <input name="pax" placeholder="{{ i18n "contactpax" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "contactpax" }}'" class="common-input mb-20 form-control" required="" type="text" id="pax">
+                </div>
+
+                <div class="input-group mb-10" id="childs">
+                    <label for="children">{{ i18n "contactchilds" }}</label>
+                    <select id="children" name="children" required>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>    
+                </div>
+    
+                <div class="input-group hidden mb-10" id="cantchilds">
+                    <span class="input-group-addon" for="cantchilds">{{ i18n "cantchilds" }}</span>
+                    <input name="cantchilds" placeholder="{{ i18n "cantchilds" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "cantchilds" }}'" class="common-input mb-20 form-control" type="text">
+                </div>
+    
+                <div class="input-group mb-10 hidden" id="Excursion">
+                    <label for="excursionname"> {{ i18n "excursionname" }}</label>
+                    <select name="Excursion" class="col form-control" id="excursioname">
+                        <option value="">--{{ i18n "selectAnExcursion" }}--</option>
+                        {{ range (where .Site.RegularPages "Type" "excursions")}}
+                            <option value="{{ .Params.denomination }}"> {{ .Params.denomination }}  </option>
+                        {{ end }}
+                    </select>
+                </div>
+
+                <div class="input-group mb-10 hidden" id="Taxi">
+                    <label for="taxi"> {{ i18n "taxi" }}</label>
+                    <select name="Taxi" class="col form-control" id="taxi">
+                        <option value="">--{{ i18n "selectAtaxi" }}--</option>
+                        {{ range (where .Site.RegularPages "Type" "taxi")}}
+                            <option value="{{ .Params.name }}"> {{ .Params.name }}  </option>
+                        {{ end }}
+                    </select>
+                </div>
+                    
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="date"> {{ i18n "date" }}</span>
+                    <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
+                </div>
+    
+                <textarea class="common-textarea mt-10 form-control" name="address" placeholder="{{ i18n "addressget" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "addressget" }}'" required="" id="address"></textarea>
+                <div id="Mensajeria" class="hidden">
+                    <textarea class="common-textarea mt-10 form-control" name="addressset" placeholder="{{ i18n "addressset" }}" onfocus="this.placeholder = ''" onblur="this.placeholder = '{{ i18n "addressset" }}'" required="" id="address"></textarea>
+                </div>
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para un servicio de Excursiones/Taxi/Mensajerias!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_next" value="{{ .Site.BaseURL }}/{{ .Language.Lang }}/thanks">
+                <button class="primary-btn mt-20">{{ i18n "contactsend" }}<span class="fa fa-send fa-fw"></span></button>
             </form>
         </div>
         <div class="form-container" id="RRSS">

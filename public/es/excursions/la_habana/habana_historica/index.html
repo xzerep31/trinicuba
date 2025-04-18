@@ -209,64 +209,61 @@
             </div>
         </div>
     </div>
-    <div class="" id="Excursiones/Taxi/Mensajerias">
-        <h3 class="text-center">Reserva ahora</h3>
+    <h3 class="text-center">Reserva ahora</h3>
+    <div class="contact-form" id="Excursiones/Taxi/Mensajerias">
         <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
-            <div class="row d-flex justify-content-center">
-                <div class="col-md-12 pb-10 col-lg-8 form-background">
-                    <div class="row">
-                        <div class="col-md-6 mt-10">
-                            <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
-                        </div>
-                        <div class="col-md-6 mt-10">
-                            <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
-                            <input type="hidden" name="_cc" value="pelly31@nauta.cu">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4 mt-10">
-                            <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
-                        </div>
-                        <div class="col-md-4 mt-10">
-                            <input name="pax" placeholder="Personas" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personas'" class="common-input mb-20 form-control" required="" type="text">
-                        </div>
-                        <div class="col-md-4 mb-20 mt-10">
-                            <label for="flexRadioDefault1">¿Niños?</label>
-                            <input type="radio" value="childs" name="childs" id="flexRadioDefault1">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 mb-20">
-                            <div class="input-group">
-                                <span class="input-group-addon" for="excursionname"> Excursión</span>
-                                <input disabled name="excursionname" placeholder="City Tour Habana Centro Histórico"  class="common-input mb-20 form-control" id="excursionname" type="text">
-                            </div>
-                        </div>
-                        <div class="col-md-12 mb-20" >
-                            <div class="input-group">
-                                <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
-                                <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <textarea class="common-textarea mt-10 form-control" name="address" placeholder="Dirección de recogida" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de recogida'" required=""></textarea>
-                        </div>
-                    </div>
-                    <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para la excursión City Tour Habana Centro Histórico!">
-                    <input type="hidden" name="_captcha" value="false">
-                    <input type="hidden" name="_template" value="table">
-                    <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
-                    <div class="row">
-                        <div class="col-md-4"></div>
-                        <div class="col-md-4">
-                            <button class="primary-btn mt-20">Enviar...<span class="fa fa-send fa-fw"></span></button>
-                        </div>
-                        <div class="col-md-4"></div>
-                    </div>
-                </div>
+            <div class="input-group mb-10">
+                <span class="input-group-addon" for="name">Nombres y Apellidos</span>
+                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text" id="name">    
             </div>
+            
+            <div class="input-group mb-10">
+                <span class="input-group-addon" for="email">Correo Electrónico</span>
+                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email" id="email">
+                <input type="hidden" name="_cc" value="pelly31@nauta.cu">    
+            </div>
+
+            <div class="input-group mb-10">
+                <span class="input-group-addon" for="cel">Whatsapp</span>
+                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text" id="cel">    
+            </div>
+
+            <div class="input-group mb-10">
+                <span class="input-group-addon" for="pax"> Personas</span>
+                <input name="pax" placeholder="Personas" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personas'" class="common-input mb-20 form-control" required="" type="text" id="pax">
+            </div>
+
+            <div class="input-group mb-10">
+                <label for="children">¿Niños?</label>
+                <select id="children" name="children" required>
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>    
+            </div>
+
+            <div class="input-group hidden mb-10" id="cantchilds">
+                <span class="input-group-addon" for="cantchilds">Niños</span>
+                <input name="cantchilds" placeholder="Niños" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Niños'" class="common-input mb-20 form-control" type="text">
+            </div>
+
+            <div class="input-group mb-10">
+                <span class="input-group-addon" for="excursionname"> Excursión</span>
+                <input disabled name="excursionname" placeholder="City Tour Habana Centro Histórico"  class="common-input mb-20 form-control" id="excursionname" type="text">
+            </div>
+
+            <div class="input-group mb-10">
+                <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
+                <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
+            </div>
+
+            <textarea class="common-textarea mt-10 form-control" name="address" placeholder="Dirección de recogida" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de recogida'" required="" id="address"></textarea>
+            <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para la excursión City Tour Habana Centro Histórico!">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
+            <button class="primary-btn mt-20">Enviar...<span class="fa fa-send fa-fw"></span></button>
+
+
         </form>
     </div>
     <div class="text-right">
@@ -339,6 +336,7 @@
         <script src="http://localhost:1313/js/vendor/bootstrap.min.js"></script>
         <script src="http://localhost:1313/js/vendor/form.js"></script>
         <script src="http://localhost:1313/js/vendor/cantChilds.js"></script>
+        <script src="http://localhost:1313/js/vendor/selectTMX.js"></script>
         <script src="http://localhost:1313/js/jquery.magnific-popup.min.js"></script>
         <script src="http://localhost:1313/js/owl.carousel.min.js"></script>
         <script src="http://localhost:1313/js/jquery.sticky.js"></script>
