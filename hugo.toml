@@ -76,6 +76,7 @@ canonifyUrls = true
             "js/vendor/jquery-2.2.4.min.js",
             "js/vendor/bootstrap.min.js",
             "js/vendor/form.js",
+            "js/vendor/cantChilds.js",
             "js/jquery.magnific-popup.min.js",
             "js/owl.carousel.min.js",
             "js/jquery.sticky.js",

@@ -86,10 +86,19 @@
   translation: "Hostal"
 
 - id: date
-  translation: "Fecha"
+  translation: "Posible de fecha del evento"
 
-- id: address
+- id: addressget
   translation: "Dirección de recogida"
+
+- id: addressset
+  translation: "Dirección de entrega"
+
+- id: excursionname
+  translation: "Excursión"
+
+- id: offersname
+  trasnlation: "Oferta"
 
 - id: arrivalDate
   translation: "Fecha de llegada"
@@ -105,6 +114,9 @@
 
 - id: contactchilds
   translation: "¿Niños?"
+
+- id: cantchilds
+  translation: "Niños"
 
 - id: taxi
   translation: "Taxi"

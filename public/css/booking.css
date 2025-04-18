@@ -1,22 +1,78 @@
 .contact-form {
-    margin: 0 1.6em 1.6em 1.6em;
-    padding: 0 1.6em 1.6em 1.6em;
-    border-radius: 1%;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
 }
 
-.contact-form input, select, textarea, label, .input-group span{
-    font-size: .9em;
+.contact-form input, select, textarea, label, .input-group span {
+    font-size: .9em !important;
     padding: .7em;
 }
 
-.contact-form .input-group input {
-    text-align: right;
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input, select, textarea .input-group span {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-group {
+    flex: 1 1 100%; /* Default to two columns on larger screens */
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #218838;
 }
 
 @media screen and (min-width: 1024px) {
 
+    .contact-form {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
     .contact-form input, select, textarea, label, .input-group span{
         font-size: 1.9em;
+    }
+
+    input, select, textarea .input-group span {
+        width: 30%;
+    }
+
+    .input-group {
+        margin: 10px;
+        padding: 10px;
+        flex: 1 1 45%; /* Default to two columns on larger screens */
+    }
+
+    button {
+        width: 50%;        
     }
 }
 
