@@ -227,10 +227,10 @@
                 </div>
 
                 <div class="input-group mb-10" id="childs">
-                    <label for="children">¿Niños?</label>
+                    <span for="children">¿Niños?</span>
                     <select id="children" name="children" required>
-                        <option value="no">No</option>
-                        <option value="yes">Yes</option>
+                        <option value="No">No</option>
+                        <option value="Si">Si</option>
                     </select>    
                 </div>
     
@@ -240,7 +240,7 @@
                 </div>
     
                 <div class="input-group mb-10" id="Excursion">
-                    <label for="excursionname"> Excursión</label>
+                    <span for="excursionname"> Excursión</span>
                     <select name="Excursion" class="col form-control" id="excursioname">
                         <option value="">--Selecciona una Excursión--</option>
                         
@@ -310,7 +310,7 @@
                 </div>
                     
                 <div class="input-group mb-10">
-                    <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
+                    <span class="input-group-addon" for="date"> Fecha del servicio</span>
                     <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
                 </div>
     
@@ -347,10 +347,10 @@
                 </div>
 
                 <div class="input-group mb-10" id="childs">
-                    <label for="children">¿Niños?</label>
+                    <span for="children">¿Niños?</span>
                     <select id="children" name="children" required>
-                        <option value="no">No</option>
-                        <option value="yes">Yes</option>
+                        <option value="No">No</option>
+                        <option value="Si">Si</option>
                     </select>    
                 </div>
     
@@ -360,7 +360,7 @@
                 </div>
 
                 <div class="input-group mb-10" id="Taxi">
-                    <label for="taxi"> Taxi</label>
+                    <span for="taxi"> Taxi</span>
                     <select name="Taxi" class="col form-control" id="taxi">
                         <option value="">----</option>
                         
@@ -384,7 +384,7 @@
                 </div>
                     
                 <div class="input-group mb-10">
-                    <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
+                    <span class="input-group-addon" for="date"> Fecha del servicio</span>
                     <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
                 </div>
     
@@ -423,7 +423,7 @@
                 </div>
                     
                 <div class="input-group mb-10">
-                    <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
+                    <span class="input-group-addon" for="date"> Fecha del servicio</span>
                     <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
                 </div>
     
@@ -439,168 +439,154 @@
         </div>
         <div class="form-container" id="fRRSS">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-12 pb-10 col-lg-8 form-background">
-                        <div class="row">
-                            <div class="col-md-6 mt-10">
-                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-6 mt-10">
-                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
-                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
-                            </div>                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mb-20">
-                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-6">
-                                <select name="Paquete" class="col form-control">
-                                    <option value="">----</option>
-                                    <option value="Creación de Página Web">Creación de Página Web</option>
-                                    <option value="Gestión de redes sociales (FB &#43; IG &#43; WhatsApp)"> Gestión de redes sociales (FB &#43; IG &#43; WhatsApp)</option>
-                                    <option value="Ambas">Ambas</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
-                            </div>
-                        </div>
-                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Gestión de Redes Sociales!">
-                        <input type="hidden" name="_captcha" value="false">
-                        <input type="hidden" name="_template" value="table">
-                        <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
-                        <div class="row">
-                            <div class="col-md-4"></div>
-                            <div class="col-md-4">
-                                <button class="primary-btn mt-10">Enviar...<span class="lnr lnr-arrow-right"></span></button>
-                            </div>
-                            <div class="col-md-4"></div>
-                        </div>
-                    </div>
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="name">Nombres y Apellidos</span>
+                    <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text" id="name">
                 </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="email">Correo Electrónico</span>
+                    <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                    <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                </div>
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="whatsapp">Whatsapp</span>
+                    <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                </div>
+                <div class="input-group mb-10">
+                    <span for="Paquete">Paquete a solicitar</span>
+                    <select name="Paquete" class="col form-control">
+                        <option value="">--Selecciona un servicio--</option>
+                        <option value="Creación de Página Web">Creación de Página Web</option>
+                        <option value="Gestión de redes sociales (FB &#43; IG &#43; WhatsApp)"> Gestión de redes sociales (FB &#43; IG &#43; WhatsApp)</option>
+                        <option value="Ambas">Ambas</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
+                </div>
+
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Gestión de Redes Sociales!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
+                
+                <button class="primary-btn mt-10">Enviar...<span class="lnr lnr-arrow-right"></span></button>
+
             </form>
         </div>
         <div class="form-container" id="fVuelos">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-12 pb-10 col-lg-8 form-background">
-                        <div class="row">
-                            <div class="col-md-4 mt-10">
-                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-4 mt-10">
-                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
-                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
-                            </div>
-                            <div class="col-md-4 mt-10">
-                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mb-20">
-                                <div class="input-group">
-                                    <span class="input-group-addon" for="Date"> Posible de fecha del evento</span>
-                                    <input type="date" name="date" class="commom-input mb-20 form-control" id="Date" />
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <select name="Oferta" class="col form-control">
-                                    <option value="">----</option>
-                                    
-                                        <option value="CUN - HAV - CUN"> CUN - HAV - CUN  </option>
-                                    
-                                        <option value="MID - HAV - MID"> MID - HAV - MID  </option>
-                                    
-                                        <option value="HAV - SDQ - GEO"> HAV - SDQ - GEO  </option>
-                                    
-                                        <option value="MAD - HAV - MAD"> MAD - HAV - MAD  </option>
-                                    
-                                        <option value="MEX - HAV - MEX"> MEX - HAV - MEX  </option>
-                                    
-                                        <option value="MIA - HAV - MIA"> MIA - HAV - MIA  </option>
-                                    
-                                </select>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
-                            </div>
-                        </div>
-                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Boletos de Avión!">
-                        <input type="hidden" name="_captcha" value="false">
-                        <input type="hidden" name="_template" value="table">
-                        <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
-                        <div class="row">
-                            <div class="col-md-4"></div>
-                            <div class="col-md-4">
-                                <button class="primary-btn mt-20">Enviar...<span class="lnr lnr-arrow-right"></span></button>
-                            </div>
-                            <div class="col-md-4"></div>
-                        </div>
-                    </div>
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="name">Nombres y Apellidos</span>
+                    <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
                 </div>
+                
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="email">Correo Electrónico</span>
+                    <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                    <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                </div>
+                
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="whatsapp">Whatsapp</span>
+                    <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                </div>
+                
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="Date"> Fecha del servicio</span>
+                    <input type="date" name="date" class="commom-input mb-20 form-control" id="Date" />
+                </div>
+                
+                <div class="input-group mb-10">
+                    <span for="Oferta">Ofertas Disponibles</span>
+                    <select name="Oferta" class="col form-control">
+                        <option value="">--Selecciona una oferta--</option>
+                        
+                            <option value="CUN - HAV - CUN"> CUN - HAV - CUN  </option>
+                        
+                            <option value="MID - HAV - MID"> MID - HAV - MID  </option>
+                        
+                            <option value="HAV - SDQ - GEO"> HAV - SDQ - GEO  </option>
+                        
+                            <option value="MAD - HAV - MAD"> MAD - HAV - MAD  </option>
+                        
+                            <option value="MEX - HAV - MEX"> MEX - HAV - MEX  </option>
+                        
+                            <option value="MIA - HAV - MIA"> MIA - HAV - MIA  </option>
+                        
+                    </select>
+                </div>
+                
+                <div class="input-group mb-10">
+                    <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
+                </div>
+
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Boletos de Avión!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
+
+                <button class="primary-btn mt-20">Enviar...<span class="lnr lnr-arrow-right"></span></button>
+
             </form>
         </div>
         <div class="form-container" id="fHospedaje">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-12 pb-10 col-lg-8 form-background">
-                        <div class="row">
-                            <div class="col-md-6 mt-10">
-                                <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-6 mt-10">
-                                <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
-                                <input type="hidden" name="_cc" value="pelly31@nauta.cu">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-4 mt-10">
-                                <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-4 mt-10">
-                                <input name="pax" placeholder="Personas" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personas'" class="common-input mb-20 form-control" required="" type="text">
-                            </div>
-                            <div class="col-md-4 mb-20 mt-10">
-                                <label for="flexRadioDefault1">¿Niños?</label>
-                                <input type="radio" value="childs" name="childs" id="flexRadioDefault1">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 mb-20">
-                                <div class="input-group">
-                                    <span class="input-group-addon" for="arrivalDate"> Fecha de llegada</span>
-                                    <input type="date" name="checkout" class="commom-input mb-20 form-control" id="arrivalDate" />
-                                </div>
-                            </div>
-                            <div class="col-md-6 mb-20" >
-                                <div class="input-group">
-                                    <span class="input-group-addon" for="departDate"> Fecha de Salida</span>
-                                    <input type="date" name="checkin" class="commom-input mb-20 form-control" id="departDate" />
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
-                            </div>
-                        </div>
-                        <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Gestión de Alojamiento!">
-                        <input type="hidden" name="_captcha" value="false">
-                        <input type="hidden" name="_template" value="table">
-                        <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
-                        <div class="row">
-                            <div class="col-md-4"></div>
-                            <div class="col-md-4">
-                                <button class="primary-btn mt-20">Enviar...<span class="lnr lnr-arrow-right"></span></button>
-                            </div>
-                            <div class="col-md-4"></div>
-                        </div>
-                    </div>
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="name">Nombres y Apellidos</span>
+                    <input name="name" placeholder="Nombres y Apellidos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombres y Apellidos'" class="common-input mb-20 form-control" required="" type="text">
                 </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="email">Correo Electrónico</span>
+                    <input name="email" placeholder="Correo Electrónico" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" class="common-input mb-20 form-control" required="" type="email">
+                    <input type="hidden" name="_cc" value="pelly31@nauta.cu">
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="whatsapp">Whatsapp</span>
+                    <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text">
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="pax">Personas</span>
+                    <input name="pax" placeholder="Personas" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personas'" class="common-input mb-20 form-control" required="" type="text">
+                </div>
+
+                <div class="input-group mb-10" id="childs">
+                    <span for="children">¿Niños?</span>
+                    <select id="children" name="children" required>
+                        <option value="No">No</option>
+                        <option value="Si">Si</option>
+                    </select>    
+                </div>
+    
+                <div class="input-group hidden mb-10" id="cantchilds">
+                    <span class="input-group-addon" for="cantchilds">Niños</span>
+                    <input name="cantchilds" placeholder="Niños" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Niños'" class="common-input mb-20 form-control" type="text">
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="arrivalDate"> Fecha de llegada</span>
+                    <input type="date" name="checkout" class="commom-input mb-20 form-control" id="arrivalDate" />
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="departDate"> Fecha de Salida</span>
+                    <input type="date" name="checkin" class="commom-input mb-20 form-control" id="departDate" />
+                </div>
+
+                <div class="input-group mb-10">
+                    <textarea class="common-textarea mt-10 form-control" name="message" placeholder="Comentarios" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Comentarios'" required=""></textarea>
+                </div>
+
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para servicio de Gestión de Alojamiento!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_next" value="http://localhost:1313//es/thanks">
+
+                <button class="primary-btn mt-20">Enviar...<span class="lnr lnr-arrow-right"></span></button>
             </form>
         </div>												
     </div>	

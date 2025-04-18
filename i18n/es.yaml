@@ -43,6 +43,18 @@
 - id: "About Us"
   translation: "Quienes Somos"
 
+- id: "whyChoiceUs"
+  translation: "¿Por qué elegirnos?"
+
+- id: "whyChoiceUsp1"
+  translation: "Somos TriniCuba y nuestro objetivo es hacer de sus vacaciones en la isla un maravilloso recuerdo. Diseñamos, gestionamos y promocionamos productos turísticos; garantizando calidad, profesionalidad, exclusividad, seguridad y confiabilidad en los servicios que brindamos."
+
+- id: "whyChoiceUsp2"
+  translation: "Nuestras ofertas abarcan un amplio abanico: transportación, hospedaje, excursiones  de turismo de ciudad y de naturaleza a lo largo y ancho de la isla. Paquetes turísticos. Servicio de guía con dominio de idioma extranjero. Asistencia y acompañamiento al cliente en la tramitación de intereses afines con la agencia. Atención especializada a clientes VIP."
+
+- id: "whyChoiceUsp3"
+  translation: "TriniCuba también le ofrece paquetes turísticos temáticos para que se apropie mejor de la historia local y de sus tradiciones: baile, randa, alfarería, coctelería. Además, adapta cada uno de sus servicios a las solicitudes y necesidades de sus clientes. Nuestra razón de ser es ayudarle a descubrir el secreto de unas vacaciones felices."
+
 - id: "AboutUsDesc"
   translation: "Somos una agencia lista para cumplir tus deseos y contamos con un paraiso por descubrir para usted; asi que no se lo piense más y reserve sus mejores vacaciones con nosotros en la mejor Isla del Caribe."
 
@@ -86,7 +98,7 @@
   translation: "Hostal"
 
 - id: date
-  translation: "Posible de fecha del evento"
+  translation: "Fecha del servicio"
 
 - id: addressget
   translation: "Dirección de recogida"
@@ -156,6 +168,12 @@
 
 - id: "selectAnOffer"
   translation: "Selecciona una oferta"
+
+- id: "offersAvail"
+  translation: "Ofertas Disponibles"
+
+- id: "rrssPack"
+  translation: "Paquete a solicitar"
 
 - id: "creation a webpage"
   translation: "Creación de Página Web"
@@ -286,5 +304,9 @@
 - id: "cityTourTradiciones"
   translation: "City Tour Viva las tradiciones de Cuba"
 
+- id: "yes"
+  translation: "Si"
 
+- id: "no"
+  translation: "No"
 
