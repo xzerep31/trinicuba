@@ -2,7 +2,7 @@
 date: '2025-01-10T09:34:57-05:00'
 title: 'Packages'
 weight: 7
-group: "Excursiones/Taxi/Mensajerias"
+group: "fMensajerias"
 name: "packs services"
 icon: "fa fa-paper-plane fa-3x"
 id: "packages"

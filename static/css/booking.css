@@ -35,7 +35,7 @@ input, select, textarea .input-group span {
     display: none;
 }
 
-button {
+.contact-form button {
     background-color: #28a745;
     color: white;
     border: none;

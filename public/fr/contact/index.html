@@ -199,7 +199,7 @@
                 </div>
             </div>
         </div>	
-        <div class="form-container" id="Excursiones/Taxi/Mensajerias">
+        <div class="form-container" id="fExcursiones">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
                 <div class="input-group mb-10">
                     <span class="input-group-addon" for="name">Entrez votre nom</span>
@@ -215,16 +215,6 @@
                 <div class="input-group mb-10">
                     <span class="input-group-addon" for="cel">Whatsapp</span>
                     <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text" id="cel">    
-                </div>
-                
-                <div class="input-group mb-10">
-                    <label for="service"></label>
-                    <select id="service" name="service" required>
-                        <option value="--">Seleccione un Servicio</option>
-                        <option value="Excursión">Excursión</option>
-                        <option value="Taxi">Taxi</option>
-                        <option value="Mensajería">Mensajería</option>
-                    </select>    
                 </div>
 
                 <div class="input-group mb-10">
@@ -245,7 +235,7 @@
                     <input name="cantchilds" placeholder="Niños" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Niños'" class="common-input mb-20 form-control" type="text">
                 </div>
     
-                <div class="input-group mb-10 hidden" id="Excursion">
+                <div class="input-group mb-10" id="Excursion">
                     <label for="excursionname"> Excursión</label>
                     <select name="Excursion" class="col form-control" id="excursioname">
                         <option value="">--Selecciona una Excursión--</option>
@@ -289,17 +279,113 @@
                 </div>
     
                 <textarea class="common-textarea mt-10 form-control" name="address" placeholder="Dirección de recogida" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de recogida'" required="" id="address"></textarea>
-                <div id="Mensajeria" class="hidden">
-                    <textarea class="common-textarea mt-10 form-control" name="addressset" placeholder="Dirección de entrega" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de entrega'" required="" id="address"></textarea>
-                </div>
-                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para un servicio de Excursiones/Taxi/Mensajerias!">
+                
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para un servicio de Excursiones!">
                 <input type="hidden" name="_captcha" value="false">
                 <input type="hidden" name="_template" value="table">
                 <input type="hidden" name="_next" value="http://localhost:1313//fr/thanks">
                 <button class="primary-btn mt-20">Enviar...<span class="fa fa-send fa-fw"></span></button>
             </form>
         </div>
-        <div class="form-container" id="RRSS">
+        <div class="form-container" id="fTaxi">
+            <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="name">Entrez votre nom</span>
+                    <input name="name" placeholder="Entrez votre nom" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Entrez votre nom'" class="common-input mb-20 form-control" required="" type="text" id="name">    
+                </div>
+                
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="email">Entrez l&#39;adresse e-mail</span>
+                    <input name="email" placeholder="Entrez l&#39;adresse e-mail" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Entrez l\u0027adresse e-mail'" class="common-input mb-20 form-control" required="" type="email" id="email">
+                    <input type="hidden" name="_cc" value="pelly31@nauta.cu">    
+                </div>
+    
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="cel">Whatsapp</span>
+                    <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text" id="cel">    
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="pax"> Personnes</span>
+                    <input name="pax" placeholder="Personnes" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personnes'" class="common-input mb-20 form-control" required="" type="text" id="pax">
+                </div>
+
+                <div class="input-group mb-10" id="childs">
+                    <label for="children">¿Niños?</label>
+                    <select id="children" name="children" required>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>    
+                </div>
+    
+                <div class="input-group hidden mb-10" id="cantchilds">
+                    <span class="input-group-addon" for="cantchilds">Niños</span>
+                    <input name="cantchilds" placeholder="Niños" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Niños'" class="common-input mb-20 form-control" type="text">
+                </div>
+
+                <div class="input-group mb-10" id="Taxi">
+                    <label for="taxi"> Taxi</label>
+                    <select name="Taxi" class="col form-control" id="taxi">
+                        <option value="">----</option>
+                        
+                    </select>
+                </div>
+                    
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
+                    <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
+                </div>
+    
+                <textarea class="common-textarea mt-10 form-control" name="address" placeholder="Dirección de recogida" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de recogida'" required="" id="address"></textarea>
+                <div id="Mensajeria" class="hidden">
+                    <textarea class="common-textarea mt-10 form-control" name="addressset" placeholder="Dirección de entrega" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de entrega'" required="" id="address"></textarea>
+                </div>
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para un servicio de Taxi!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_next" value="http://localhost:1313//fr/thanks">
+                <button class="primary-btn mt-20">Enviar...<span class="fa fa-send fa-fw"></span></button>
+            </form>
+        </div>
+        <div class="form-container" id="fMensajeria">
+            <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="name">Entrez votre nom</span>
+                    <input name="name" placeholder="Entrez votre nom" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Entrez votre nom'" class="common-input mb-20 form-control" required="" type="text" id="name">    
+                </div>
+                
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="email">Entrez l&#39;adresse e-mail</span>
+                    <input name="email" placeholder="Entrez l&#39;adresse e-mail" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Entrez l\u0027adresse e-mail'" class="common-input mb-20 form-control" required="" type="email" id="email">
+                    <input type="hidden" name="_cc" value="pelly31@nauta.cu">    
+                </div>
+    
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="cel">Whatsapp</span>
+                    <input name="whatsapp" placeholder="Whatsapp" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Whatsapp'" class="common-input mb-20 form-control" required="" type="text" id="cel">    
+                </div>
+
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="pax"> Personnes</span>
+                    <input name="pax" placeholder="Personnes" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Personnes'" class="common-input mb-20 form-control" required="" type="text" id="pax">
+                </div>
+                    
+                <div class="input-group mb-10">
+                    <span class="input-group-addon" for="date"> Posible de fecha del evento</span>
+                    <input type="date" name="date" class="commom-input mb-20 form-control" id="date" />
+                </div>
+    
+                <textarea class="common-textarea mt-10 form-control" name="address" placeholder="Dirección de recogida" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de recogida'" required="" id="address"></textarea>
+                <textarea class="common-textarea mt-10 form-control" name="addressset" placeholder="Dirección de entrega" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Dirección de entrega'" required="" id="address"></textarea>
+                
+                <input type="hidden" name="_subject" value="¡Nueva Reserva desde la página de TriniCuba para un servicio de Mensajerias!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_next" value="http://localhost:1313//fr/thanks">
+                <button class="primary-btn mt-20">Enviar...<span class="fa fa-send fa-fw"></span></button>
+            </form>
+        </div>
+        <div class="form-container" id="fRRSS">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-12 pb-10 col-lg-8 form-background">
@@ -344,7 +430,7 @@
                 </div>
             </form>
         </div>
-        <div class="form-container" id="Vuelos">
+        <div class="form-container" id="fVuelos">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-12 pb-10 col-lg-8 form-background">
@@ -394,7 +480,7 @@
                 </div>
             </form>
         </div>
-        <div class="form-container" id="Hospedaje">
+        <div class="form-container" id="fHospedaje">
             <form action="https://formsubmit.co/reserva@trinicuba.com" method="post" class="contact-form">
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-12 pb-10 col-lg-8 form-background">
@@ -521,7 +607,6 @@
         <script src="http://localhost:1313/js/vendor/bootstrap.min.js"></script>
         <script src="http://localhost:1313/js/vendor/form.js"></script>
         <script src="http://localhost:1313/js/vendor/cantChilds.js"></script>
-        <script src="http://localhost:1313/js/vendor/selectTMX.js"></script>
         <script src="http://localhost:1313/js/jquery.magnific-popup.min.js"></script>
         <script src="http://localhost:1313/js/owl.carousel.min.js"></script>
         <script src="http://localhost:1313/js/jquery.sticky.js"></script>
