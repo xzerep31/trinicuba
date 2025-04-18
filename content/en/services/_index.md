@@ -1,5 +1,4 @@
-+++
-date = '2025-01-10T09:31:07-05:00'
-draft = true
-title = 'Services'
-+++
+---
+date: '2025-01-10T09:30:27-05:00'
+title: 'Services'
+---

@@ -2,589 +2,1280 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/excursions/trinidad/playa_ancon/</loc>
-    <lastmod>2025-02-17T21:46:07-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/rentacar/automaticos/kia/</loc>
+    <lastmod>2025-04-16T01:11:21-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/playa_ancon/"
+                href="http://localhost:1313/trinicuba/es/rentacar/automaticos/kia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/playa_ancon/"
+                href="http://localhost:1313/trinicuba/fr/rentacar/automaticos/kia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/playa_ancon/"
+                href="http://localhost:1313/trinicuba/en/rentacar/automaticos/kia/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-02-17T21:46:07-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/taxi/w004926/</loc>
+    <lastmod>2025-04-16T00:53:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="http://localhost:1313/trinicuba/es/taxi/w004926/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="http://localhost:1313/trinicuba/fr/taxi/w004926/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://localhost:1313/trinicuba/en/taxi/w004926/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/trinidad/valle_ingenios/</loc>
-    <lastmod>2025-02-17T21:45:58-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/services/tourpacks/</loc>
+    <lastmod>2025-04-16T00:23:36-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/valle_ingenios/"
+                href="http://localhost:1313/trinicuba/es/services/tourpacks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/valle_ingenios/"
+                href="http://localhost:1313/trinicuba/fr/services/tourpacks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/valle_ingenios/"
+                href="http://localhost:1313/trinicuba/en/services/tourpacks/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/trinidad/salto_caburni/</loc>
-    <lastmod>2025-02-17T21:45:45-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/fusterland/</loc>
+    <lastmod>2025-02-17T21:37:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/salto_caburni/"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/fusterland/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/salto_caburni/"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/fusterland/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/salto_caburni/"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/fusterland/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/trinidad/trinidad/</loc>
-    <lastmod>2025-02-17T21:45:35-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/accomod/casacolonialguaurabo/</loc>
+    <lastmod>2025-01-11T16:54:25-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/trinidad/"
+                href="http://localhost:1313/trinicuba/es/accomod/casacolonialguaurabo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/trinidad/"
+                href="http://localhost:1313/trinicuba/fr/accomod/casacolonialguaurabo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/trinidad/"
+                href="http://localhost:1313/trinicuba/en/accomod/casacolonialguaurabo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/trinidad/trinidad_artesanal/</loc>
-    <lastmod>2025-02-17T21:45:27-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/offers/hav-cun/</loc>
+    <lastmod>2025-01-10T11:59:21-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/trinidad_artesanal/"
+                href="http://localhost:1313/trinicuba/es/offers/hav-cun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/trinidad_artesanal/"
+                href="http://localhost:1313/trinicuba/fr/offers/hav-cun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/trinidad_artesanal/"
+                href="http://localhost:1313/trinicuba/en/offers/hav-cun/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/yorufr/excursions/la_habana/habana_moderna/</loc>
-    <lastmod>2025-02-17T21:41:19-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/yoruba/</loc>
-    <lastmod>2025-02-17T21:40:21-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/rentacar/automaticos/byd/</loc>
+    <lastmod>2025-04-16T01:11:31-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/la_habana/yoruba/"
+                href="http://localhost:1313/trinicuba/es/rentacar/automaticos/byd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/yoruba/"
+                href="http://localhost:1313/trinicuba/fr/rentacar/automaticos/byd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/yoruba/"
+                href="http://localhost:1313/trinicuba/en/rentacar/automaticos/byd/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/fusterland/</loc>
-    <lastmod>2025-02-17T21:40:11-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/taxi/w004927/</loc>
+    <lastmod>2025-04-16T00:58:28-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/la_habana/fusterland/"
+                href="http://localhost:1313/trinicuba/es/taxi/w004927/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/fusterland/"
+                href="http://localhost:1313/trinicuba/fr/taxi/w004927/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/fusterland/"
+                href="http://localhost:1313/trinicuba/en/taxi/w004927/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/hemingway/</loc>
-    <lastmod>2025-02-17T21:40:04-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/hemingway/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/hemingway/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/habana_moderna/</loc>
-    <lastmod>2025-02-17T21:39:54-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_historica/</loc>
+    <lastmod>2025-02-17T21:37:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/la_habana/habana_moderna/"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/habana_historica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/habana_moderna/"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_historica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/habana_moderna/"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/habana_historica/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/habana_historica/</loc>
-    <lastmod>2025-02-17T21:39:44-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/accomod/casalondra/</loc>
+    <lastmod>2025-01-11T17:05:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/la_habana/habana_historica/"
+                href="http://localhost:1313/trinicuba/es/accomod/casalondra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/habana_historica/"
+                href="http://localhost:1313/trinicuba/fr/accomod/casalondra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/habana_historica/"
+                href="http://localhost:1313/trinicuba/en/accomod/casalondra/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/habana_nocturna/</loc>
-    <lastmod>2025-02-17T21:39:21-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/services/flights/</loc>
+    <lastmod>2025-01-10T09:34:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/la_habana/habana_nocturna/"
+                href="http://localhost:1313/trinicuba/es/services/flights/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/habana_nocturna/"
+                href="http://localhost:1313/trinicuba/fr/services/flights/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/habana_nocturna/"
+                href="http://localhost:1313/trinicuba/en/services/flights/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/la_habana/</loc>
-    <lastmod>2025-02-17T21:35:34-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/taxi/w004261/</loc>
+    <lastmod>2025-04-16T00:59:53-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/la_habana/"
+                href="http://localhost:1313/trinicuba/es/taxi/w004261/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/la_habana/"
+                href="http://localhost:1313/trinicuba/fr/taxi/w004261/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/la_habana/"
+                href="http://localhost:1313/trinicuba/en/taxi/w004261/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/trinidad/</loc>
-    <lastmod>2025-02-17T21:34:53-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_moderna/</loc>
+    <lastmod>2025-02-17T21:38:01-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/excursions/trinidad/"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/habana_moderna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/excursions/trinidad/"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_moderna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/excursions/trinidad/"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/habana_moderna/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/excursions/</loc>
-    <lastmod>2025-01-10T09:47:07-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/excursions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/excursions/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/services/social/</loc>
-    <lastmod>2025-01-10T09:37:51-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/offers/hav-mid/</loc>
+    <lastmod>2025-01-10T12:07:15-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/social/"
+                href="http://localhost:1313/trinicuba/es/offers/hav-mid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/social/"
+                href="http://localhost:1313/trinicuba/fr/offers/hav-mid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/social/"
+                href="http://localhost:1313/trinicuba/en/offers/hav-mid/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/accomodations/</loc>
-    <lastmod>2025-01-10T09:37:29-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/services/accomodations/</loc>
+    <lastmod>2025-01-10T09:34:31-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/accomodations/"
+                href="http://localhost:1313/trinicuba/es/services/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/accomodations/"
+                href="http://localhost:1313/trinicuba/fr/services/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/accomodations/"
+                href="http://localhost:1313/trinicuba/en/services/accomodations/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/excursions/</loc>
-    <lastmod>2025-01-10T09:36:54-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/taxi/w001256/</loc>
+    <lastmod>2025-04-16T01:01:12-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/excursions/"
+                href="http://localhost:1313/trinicuba/es/taxi/w001256/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/excursions/"
+                href="http://localhost:1313/trinicuba/fr/taxi/w001256/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/excursions/"
+                href="http://localhost:1313/trinicuba/en/taxi/w001256/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/flights/</loc>
-    <lastmod>2025-01-10T09:36:37-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/habana_nocturna/</loc>
+    <lastmod>2025-02-17T21:38:19-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/flights/"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/habana_nocturna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/flights/"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_nocturna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/flights/"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/habana_nocturna/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/packs/</loc>
-    <lastmod>2025-01-10T09:36:27-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/accomod/elbalcon/</loc>
+    <lastmod>2025-01-11T17:07:53-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/packs/"
+                href="http://localhost:1313/trinicuba/es/accomod/elbalcon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/packs/"
+                href="http://localhost:1313/trinicuba/fr/accomod/elbalcon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/packs/"
+                href="http://localhost:1313/trinicuba/en/accomod/elbalcon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/taxi/</loc>
-    <lastmod>2025-01-10T09:35:13-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/offers/hav-sdq-geo/</loc>
+    <lastmod>2025-01-10T12:08:05-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/taxi/"
+                href="http://localhost:1313/trinicuba/es/offers/hav-sdq-geo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/taxi/"
+                href="http://localhost:1313/trinicuba/fr/offers/hav-sdq-geo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/taxi/"
+                href="http://localhost:1313/trinicuba/en/offers/hav-sdq-geo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/accomod/</loc>
-    <lastmod>2025-01-10T09:31:50-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/services/taxi/</loc>
+    <lastmod>2025-01-10T09:35:03-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/accomod/"
+                href="http://localhost:1313/trinicuba/es/services/taxi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/accomod/"
+                href="http://localhost:1313/trinicuba/fr/services/taxi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/accomod/"
+                href="http://localhost:1313/trinicuba/en/services/taxi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/offers/</loc>
-    <lastmod>2025-01-10T09:31:28-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/taxi/p202487/</loc>
+    <lastmod>2025-04-16T01:02:22-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/offers/"
+                href="http://localhost:1313/trinicuba/es/taxi/p202487/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/offers/"
+                href="http://localhost:1313/trinicuba/fr/taxi/p202487/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/offers/"
+                href="http://localhost:1313/trinicuba/en/taxi/p202487/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/</loc>
-    <lastmod>2025-01-10T09:31:07-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/services/rentacar/</loc>
+    <lastmod>2025-04-16T00:24:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/services/"
+                href="http://localhost:1313/trinicuba/es/services/rentacar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/services/"
+                href="http://localhost:1313/trinicuba/fr/services/rentacar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/"
+                href="http://localhost:1313/trinicuba/en/services/rentacar/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/booking/</loc>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway_1/</loc>
+    <lastmod>2025-02-17T21:36:38-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/hemingway_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway_1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/accomod/german1806/</loc>
+    <lastmod>2025-01-11T17:09:18-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/accomod/german1806/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/accomod/german1806/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/accomod/german1806/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/offers/mad-hav-mad/</loc>
+    <lastmod>2025-01-10T12:10:48-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/offers/mad-hav-mad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/offers/mad-hav-mad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/offers/mad-hav-mad/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/taxi/p172012/</loc>
+    <lastmod>2025-04-16T01:02:57-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/taxi/p172012/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/taxi/p172012/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/taxi/p172012/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway_2/</loc>
+    <lastmod>2025-03-08T17:45:40-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/hemingway_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway_2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/accomod/staelena/</loc>
+    <lastmod>2025-01-11T17:10:52-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/accomod/staelena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/accomod/staelena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/accomod/staelena/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/offers/mex-hav-mex/</loc>
+    <lastmod>2025-01-10T12:08:27-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/offers/mex-hav-mex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/offers/mex-hav-mex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/offers/mex-hav-mex/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/services/excursions/</loc>
+    <lastmod>2025-01-10T09:34:37-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/services/excursions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/services/excursions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/services/excursions/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/taxi/b180244/</loc>
+    <lastmod>2025-04-16T01:03:12-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/taxi/b180244/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/taxi/b180244/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/taxi/b180244/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway_3/</loc>
+    <lastmod>2025-03-08T17:45:50-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/hemingway_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/hemingway_3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/offers/mia-hav-mia/</loc>
+    <lastmod>2025-01-10T12:09:09-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/offers/mia-hav-mia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/offers/mia-hav-mia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/offers/mia-hav-mia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/services/packs/</loc>
+    <lastmod>2025-01-10T09:34:57-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/services/packs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/services/packs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/services/packs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/taxi/b133460/</loc>
+    <lastmod>2025-04-16T01:03:28-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/taxi/b133460/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/taxi/b133460/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/taxi/b133460/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/yoruba/</loc>
+    <lastmod>2025-02-17T21:37:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/yoruba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/yoruba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/yoruba/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/services/social/</loc>
+    <lastmod>2025-01-10T09:34:17-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/services/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/services/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/services/social/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/salto_caburni/</loc>
+    <lastmod>2025-02-17T21:43:20-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/salto_caburni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/salto_caburni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/salto_caburni/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad_artesanal/</loc>
+    <lastmod>2025-02-17T21:43:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/trinidad_artesanal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/trinidad_artesanal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad_artesanal/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad/</loc>
+    <lastmod>2025-02-17T21:43:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/trinidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/trinidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/trinidad/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/valle_ingenios/</loc>
+    <lastmod>2025-02-17T21:43:04-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/valle_ingenios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/valle_ingenios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/valle_ingenios/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/playa_ancon/</loc>
+    <lastmod>2025-02-17T21:43:56-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/playa_ancon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/playa_ancon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/playa_ancon/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/vi%C3%B1ales/vi%C3%B1ales/</loc>
+    <lastmod>2025-04-16T17:32:49-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/vi%C3%B1ales/vi%C3%B1ales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/vi%C3%B1ales/vi%C3%B1ales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/vi%C3%B1ales/vi%C3%B1ales/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/playa_redondo/</loc>
+    <lastmod>2025-04-16T17:34:47-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/playa_redondo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/playa_redondo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/playa_redondo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/city_tours/baile/</loc>
+    <lastmod>2025-04-16T17:44:51-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/city_tours/baile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/city_tours/baile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/city_tours/baile/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/city_tours/descubra/</loc>
+    <lastmod>2025-04-16T17:44:58-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/city_tours/descubra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/city_tours/descubra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/city_tours/descubra/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/city_tours/tradiciones/</loc>
+    <lastmod>2025-04-16T17:45:22-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/city_tours/tradiciones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/city_tours/tradiciones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/city_tours/tradiciones/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/</loc>
+    <lastmod>2025-04-16T17:45:22-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/city_tours/</loc>
+    <lastmod>2025-04-16T17:44:44-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/city_tours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/city_tours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/city_tours/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/valle&#43;food/</loc>
+    <lastmod>2025-04-16T17:33:55-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/valle&#43;food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/valle&#43;food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/valle&#43;food/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/vi%C3%B1ales/</loc>
+    <lastmod>2025-04-16T17:32:40-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/vi%C3%B1ales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/vi%C3%B1ales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/vi%C3%B1ales/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/rentacar/</loc>
+    <lastmod>2025-04-16T01:11:31-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/rentacar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/rentacar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/rentacar/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/rentacar/manuales/</loc>
+    <lastmod>2025-04-16T01:10:42-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/rentacar/manuales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/rentacar/manuales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/rentacar/manuales/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/rentacar/automaticos/</loc>
+    <lastmod>2025-04-16T01:10:30-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/rentacar/automaticos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/rentacar/automaticos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/rentacar/automaticos/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/taxi/</loc>
+    <lastmod>2025-04-16T00:52:26-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/taxi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/taxi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/taxi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/trinidad/</loc>
+    <lastmod>2025-02-17T21:34:29-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/trinidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/trinidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/trinidad/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/excursions/la_habana/</loc>
+    <lastmod>2025-02-17T21:34:15-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/excursions/la_habana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/excursions/la_habana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/excursions/la_habana/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/testimonials/</loc>
+    <lastmod>2025-01-12T13:55:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/testimonials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/testimonials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/testimonials/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/accomod/casayuya/</loc>
+    <lastmod>2025-01-11T17:06:58-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/accomod/casayuya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/accomod/casayuya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/accomod/casayuya/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/accomod/</loc>
+    <lastmod>2025-01-10T09:30:58-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/accomod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/accomod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/accomod/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/offers/</loc>
+    <lastmod>2025-01-10T09:30:43-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/offers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/offers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/offers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/services/</loc>
+    <lastmod>2025-01-10T09:30:27-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/trinicuba/es/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/trinicuba/fr/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/trinicuba/en/services/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/trinicuba/en/booking/</loc>
     <lastmod>2025-01-06T17:05:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/booking/"
+                href="http://localhost:1313/trinicuba/es/booking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/booking/"
+                href="http://localhost:1313/trinicuba/fr/booking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/booking/"
+                href="http://localhost:1313/trinicuba/en/booking/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>http://localhost:1313/trinicuba/en/contact/</loc>
     <lastmod>2025-01-06T17:05:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/contact/"
+                href="http://localhost:1313/trinicuba/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/contact/"
+                href="http://localhost:1313/trinicuba/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="http://localhost:1313/trinicuba/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/thanks/</loc>
+    <loc>http://localhost:1313/trinicuba/en/thanks/</loc>
     <lastmod>2025-01-06T17:02:20-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/thanks/"
+                href="http://localhost:1313/trinicuba/es/thanks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/thanks/"
+                href="http://localhost:1313/trinicuba/fr/thanks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/thanks/"
+                href="http://localhost:1313/trinicuba/en/thanks/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/accomodations/</loc>
+    <loc>http://localhost:1313/trinicuba/en/accomodations/</loc>
     <lastmod>2025-01-06T17:01:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/accomodations/"
+                href="http://localhost:1313/trinicuba/es/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/accomodations/"
+                href="http://localhost:1313/trinicuba/fr/accomodations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/accomodations/"
+                href="http://localhost:1313/trinicuba/en/accomodations/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/gallery/</loc>
+    <loc>http://localhost:1313/trinicuba/en/gallery/</loc>
     <lastmod>2025-01-06T17:01:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/gallery/"
+                href="http://localhost:1313/trinicuba/es/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/gallery/"
+                href="http://localhost:1313/trinicuba/fr/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/gallery/"
+                href="http://localhost:1313/trinicuba/en/gallery/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
-    <lastmod>2025-01-06T17:01:02-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/about/</loc>
+    <lastmod>2025-01-06T17:01:20-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/about/"
+                href="http://localhost:1313/trinicuba/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/about/"
+                href="http://localhost:1313/trinicuba/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="http://localhost:1313/trinicuba/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/packages/</loc>
-    <lastmod>2025-01-06T17:00:31-05:00</lastmod>
+    <loc>http://localhost:1313/trinicuba/en/packages/</loc>
+    <lastmod>2025-01-06T17:00:26-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/packages/"
+                href="http://localhost:1313/trinicuba/es/packages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/packages/"
+                href="http://localhost:1313/trinicuba/fr/packages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/packages/"
+                href="http://localhost:1313/trinicuba/en/packages/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>http://localhost:1313/trinicuba/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="http://localhost:1313/trinicuba/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="http://localhost:1313/trinicuba/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/trinicuba/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>http://localhost:1313/trinicuba/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="http://localhost:1313/trinicuba/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="http://localhost:1313/trinicuba/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/trinicuba/en/tags/"
                 />
   </url>
 </urlset>

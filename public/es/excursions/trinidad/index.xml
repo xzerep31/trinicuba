@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trinidad on TriniCuba</title>
-    <link>http://localhost:1313/es/excursions/trinidad/</link>
+    <link>http://localhost:1313/trinicuba/es/excursions/trinidad/</link>
     <description>Recent content in Trinidad on TriniCuba</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Wed, 16 Apr 2025 17:34:47 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/es/excursions/trinidad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/trinicuba/es/excursions/trinidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>excursionCaburniTri</title>
-      <link>http://localhost:1313/es/excursions/trinidad/salto_caburni/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/salto_caburni/</link>
       <pubDate>Mon, 17 Feb 2025 21:43:20 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/salto_caburni/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/salto_caburni/</guid>
       <description>&lt;h3 id=&#34;excursión-a-la-cascada-salto-el-caburní&#34;&gt;Excursión a la Cascada &amp;ldquo;Salto El Caburní&amp;rdquo;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Entre las variadas ofertas que brinda la agencia TriniCuba, está la posibilidad de realizar turismo de naturaleza.&lt;/p&gt;&#xA;&lt;p&gt;Descubra la naturaleza exótica de esta Isla llamada Cuba. Disfrutar de un refrescante baño en las piscinas naturales, alimentadas por una de las cascadas más populares de Topes de Collantes, es el colofón de una ruta de senderismo intenso y vigorizante.&lt;/p&gt;&#xA;&lt;h5 id=&#34;qué-incluye-la-excursión-&#34;&gt;Qué incluye la excursión 🤔:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👉🏻Recogida en el hostal.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Traslado de vuelta al hostal.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Visita al Mirador de Topes de Collantes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;según-la-oferta-de-su-elección-podrá-disfrutar-&#34;&gt;Según la oferta de su elección podrá disfrutar 😎:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;😉 Acompañamiento de guía.&lt;/li&gt;&#xA;&lt;li&gt;😋 Degustación de café previo al senderismo.&lt;/li&gt;&#xA;&lt;li&gt;😎 Visitar sitios de interés en Topes de Collantes.&lt;/li&gt;&#xA;&lt;li&gt;😋 Disfrutar de un delicioso almuerzo en restaurant a la carta o buffet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Usted solo elija el día, que TriniCuba garantiza su disfrute.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>cityTourArtesanalTri</title>
-      <link>http://localhost:1313/es/excursions/trinidad/trinidad_artesanal/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/trinidad_artesanal/</link>
       <pubDate>Mon, 17 Feb 2025 21:43:39 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/trinidad_artesanal/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/trinidad_artesanal/</guid>
       <description>&lt;h3 id=&#34;city-tour-trinidad-artesanal&#34;&gt;City Tour &amp;ldquo;Trinidad Artesanal&amp;rdquo;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Trinidad integra desde 2018 la lista de ciudades artesanales del mundo. Y “City tour artesanal” brinda la posibilidad de descubrir la historia de la villa, desde dos de sus principales tradiciones artesanales.&lt;/p&gt;&#xA;&lt;h5 id=&#34;el-tour-incluye-&#34;&gt;El tour incluye 😎:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👉🏻 Conocer la historia de la alfarería.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Visita a taller de alfarería.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Clase práctica de alfarería.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Recorrido por el casco histórico.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Conocer la historia de la tradición del tejido.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Intercambio con  artesana especializada en randa.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Clase práctica de randa.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Visita a La Canchánchara.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Almuerzo en restaurante.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻 Visita a la candonga.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;TriniCuba le ofrece el secreto para unas vacaciones feliz.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>excursionTrinidad</title>
-      <link>http://localhost:1313/es/excursions/trinidad/trinidad/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/trinidad/</link>
       <pubDate>Mon, 17 Feb 2025 21:43:31 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/trinidad/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/trinidad/</guid>
       <description>&lt;h3 id=&#34;city-tour-trinidad&#34;&gt;City Tour Trinidad&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;¿Quieres conocer la tercera Villa fundada en Cuba, Patrimonio de la Humanidad? &lt;em&gt;TriniCuba&lt;/em&gt; pone a su disposición una visita guiada por toda la ciudad.&lt;/p&gt;&#xA;&lt;h5 id=&#34;qué-ofrecemos-&#34;&gt;¿Qué ofrecemos? 😎&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👉🏻Servicio de guía.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Variados paquetes (económico, confort, alto confort).&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Diferentes ofertas gastronómicas (incluida según paquete seleccionado).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;qué-garantizamos&#34;&gt;¿Qué garantizamos?&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👌🏻Disfrute total.&lt;/li&gt;&#xA;&lt;li&gt;👌🏻Lindos recuerdos.&lt;/li&gt;&#xA;&lt;li&gt;👌🏻Fotografías para presumir con amigos y familiares.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;requisitos&#34;&gt;Requisitos🤔&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👀 Vestir ropa y calzado cómodos para caminar.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;TriniCuba le ofrece el secreto para unas vacaciones feliz.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>excursionValleTri</title>
-      <link>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/valle_ingenios/</link>
       <pubDate>Mon, 17 Feb 2025 21:43:04 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/valle_ingenios/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/valle_ingenios/</guid>
       <description>&lt;h3 id=&#34;excursión-al-valle-de-los-ingenios&#34;&gt;Excursión al Valle de los Ingenios.&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;El Valle de los Ingenios es un lugar mágico. Dentro de sus 250 km 2, leyenda, historia, arquitectura y naturaleza se entrelazan para ofrecerle al visitante la más sublime de las experiencias.&lt;/p&gt;&#xA;&lt;p&gt;El recorrido por algunos de los sitios de mayor valor arqueológico del valle empleará un total de 5 horas.&lt;/p&gt;&#xA;&lt;h6 id=&#34;qué-incluye-&#34;&gt;Qué incluye 🤔:&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👉🏻Recogida en el hostal.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Traslado de vuelta al hostal.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Visita al Mirador del Valle.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Visita a Finca San Isidro de los Destiladeros.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Visita a Finca Buena Vista.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Visita a Finca Manaca Iznaga.&lt;/li&gt;&#xA;&lt;li&gt;👉🏻Visita a Casa del Alfarero (de regreso a Trinidad).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;😎 Según la oferta de su elección podrá disfrutar de bebidas y almuerzo incluidos en el pago inicial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>cityTourPlayaAnconTri</title>
-      <link>http://localhost:1313/es/excursions/trinidad/playa_ancon/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/playa_ancon/</link>
       <pubDate>Mon, 17 Feb 2025 21:43:56 -0500</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/playa_ancon/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/playa_ancon/</guid>
       <description>&lt;h3 id=&#34;excursión-a-playa-ancón&#34;&gt;Excursión a playa Ancón&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Playa Ancón es de las más populares del litoral, ideal para cualquiera de sus propósitos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Descansar.&lt;/li&gt;&#xA;&lt;li&gt;Refrescarse.&lt;/li&gt;&#xA;&lt;li&gt;Relajarse.&lt;/li&gt;&#xA;&lt;li&gt;Disfrutar del paisaje.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Usted elija el día y el horario, que un chofer de TriniCuba le recogerá en el hostal para llevarle a su destino de arenas blancas y aguas calmas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TriniCuba les brinda el secreto para unas vacaciones felices&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Playa</title>
-      <link>http://localhost:1313/es/excursions/trinidad/playa_redondo/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/playa_redondo/</link>
       <pubDate>Wed, 16 Apr 2025 17:34:47 -0400</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/playa_redondo/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/playa_redondo/</guid>
       <description></description>
     </item>
     <item>
       <title>Valle&#43;food</title>
-      <link>http://localhost:1313/es/excursions/trinidad/valle&#43;food/</link>
+      <link>http://localhost:1313/trinicuba/es/excursions/trinidad/valle&#43;food/</link>
       <pubDate>Wed, 16 Apr 2025 17:33:55 -0400</pubDate>
-      <guid>http://localhost:1313/es/excursions/trinidad/valle&#43;food/</guid>
+      <guid>http://localhost:1313/trinicuba/es/excursions/trinidad/valle&#43;food/</guid>
       <description></description>
     </item>
   </channel>

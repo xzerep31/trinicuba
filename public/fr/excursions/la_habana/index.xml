@@ -2,53 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La_habana on TriniCuba</title>
-    <link>http://localhost:1313/fr/excursions/la_habana/</link>
+    <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/</link>
     <description>Recent content in La_habana on TriniCuba</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 17 Feb 2025 21:42:25 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/excursions/la_habana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 17:45:50 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/trinicuba/fr/excursions/la_habana/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Yoruba</title>
-      <link>http://localhost:1313/fr/excursions/la_habana/yoruba/</link>
-      <pubDate>Mon, 17 Feb 2025 21:42:25 -0500</pubDate>
-      <guid>http://localhost:1313/fr/excursions/la_habana/yoruba/</guid>
-      <description></description>
+      <title>cityTourHavFusterland</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/fusterland/</link>
+      <pubDate>Mon, 17 Feb 2025 21:37:00 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/fusterland/</guid>
+      <description>&lt;h3 id=&#34;city-tour-fusterlandia&#34;&gt;City Tour &amp;ldquo;Fusterlandia&amp;rdquo;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Fusterlandia es un proyecto del artista, pintor y escultor José Rodríguez Fuster (1946), que recuerda al encanto de la obra de Gaudí. Está ubicado en Jaimanitas, poblado pesquero situado al oeste de La Habana, a 18km del centro de la ciudad.&lt;/p&gt;&#xA;&lt;p&gt;Fusterlandia es un espacio artístico a base de esculturas, mosaicos y citas de Alejo Carpentier y Ernest Hemingway; que agrupa la fachada de 80 viviendas. Este proyecto que comenzó en la década de los 90, ha progresado hasta la actualidad, promoviendo la magia de vivir dentro del arte.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Fusterland</title>
-      <link>http://localhost:1313/fr/excursions/la_habana/fusterland/</link>
-      <pubDate>Mon, 17 Feb 2025 21:42:16 -0500</pubDate>
-      <guid>http://localhost:1313/fr/excursions/la_habana/fusterland/</guid>
-      <description></description>
+      <title>cityTourHavHistorica</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_historica/</link>
+      <pubDate>Mon, 17 Feb 2025 21:37:44 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_historica/</guid>
+      <description>&lt;h3 id=&#34;city-tour-la-habana-moderna&#34;&gt;City Tour La Habana Moderna&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La capital de Cuba se ubica en La Habana, territorio fundamental para el desarrollo del comercio y las comunicaciones, dentro y fuera de la isla. La Habana es también una ciudad vistosa y abundante de historia y tradiciones.&lt;/p&gt;&#xA;&lt;p&gt;San Cristóbal de La Habana fue la quinta villa fundada, hace ya 510 años. Su centro Histórico fue declarado por la Unesco Patrimonio Cultural de la Humanidad desde los años 80 y más reciente, La Habana mereció el título de Ciudad Maravilla del Mundo.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hemingway</title>
-      <link>http://localhost:1313/fr/excursions/la_habana/hemingway/</link>
-      <pubDate>Mon, 17 Feb 2025 21:42:08 -0500</pubDate>
-      <guid>http://localhost:1313/fr/excursions/la_habana/hemingway/</guid>
-      <description></description>
+      <title>cityTourHavModerna</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_moderna/</link>
+      <pubDate>Mon, 17 Feb 2025 21:38:01 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_moderna/</guid>
+      <description>&lt;h3 id=&#34;city-tour-la-habana-moderna&#34;&gt;City Tour La Habana Moderna&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La capital de Cuba se ubica en La Habana, territorio fundamental para el desarrollo del comercio y las comunicaciones, dentro y fuera de la isla. La Habana es también una ciudad vistosa y abundante de historia y tradiciones.&lt;/p&gt;&#xA;&lt;p&gt;San Cristóbal de La Habana fue la quinta villa fundada, hace ya 510 años. Su centro Histórico fue declarado por la Unesco Patrimonio Cultural de la Humanidad desde los años 80 y más reciente, La Habana mereció el título de Ciudad Maravilla del Mundo.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Habana_nocturna</title>
-      <link>http://localhost:1313/fr/excursions/la_habana/habana_nocturna/</link>
-      <pubDate>Mon, 17 Feb 2025 21:41:55 -0500</pubDate>
-      <guid>http://localhost:1313/fr/excursions/la_habana/habana_nocturna/</guid>
-      <description></description>
+      <title>cityTourHavNocturna</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_nocturna/</link>
+      <pubDate>Mon, 17 Feb 2025 21:38:19 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/habana_nocturna/</guid>
+      <description>&lt;h3 id=&#34;city-tour-la-habana-nocturna&#34;&gt;City Tour La Habana nocturna&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La capital de Cuba se ubica en La Habana, territorio fundamental para el desarrollo del comercio y las comunicaciones, dentro y fuera de la isla. La Habana es también una ciudad vistosa y abundante de historia y tradiciones.&lt;/p&gt;&#xA;&lt;p&gt;San Cristóbal de La Habana fue la quinta villa fundada, hace ya 510 años. Su centro Histórico fue declarado por la Unesco Patrimonio Cultural de la Humanidad desde los años 80 y más reciente, La Habana mereció el título de Ciudad Maravilla del Mundo.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Habana_historica</title>
-      <link>http://localhost:1313/fr/excursions/la_habana/habana_historica/</link>
-      <pubDate>Mon, 17 Feb 2025 21:41:48 -0500</pubDate>
-      <guid>http://localhost:1313/fr/excursions/la_habana/habana_historica/</guid>
-      <description></description>
+      <title>cityTourHavHemingway1</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_1/</link>
+      <pubDate>Mon, 17 Feb 2025 21:36:38 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_1/</guid>
+      <description>&lt;h3 id=&#34;city-tour-hemingway-no-1&#34;&gt;City Tour &amp;ldquo;Hemingway&amp;rdquo; No. 1&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;El escritor y periodista estadounidense Ernest Hemingway (1899–1961) visitó Cuba por primera vez en 1928. Al año siguiente volvió en su barco Anita para pescar agujas, quedando enamorado de la isla. Desde entonces vivió en La Habana de forma intermitente, hasta 1960.&lt;/p&gt;&#xA;&lt;h4 id=&#34;visita-al-museo-ernest-hemingway&#34;&gt;Visita al Museo Ernest Hemingway&lt;/h4&gt;&#xA;&lt;p&gt;Hemingway alquiló esta mansión en 1939 y la compró al siguiente año, convirtiéndola en su residencia de invierno. Finca Vigía fue convertida en Museo en el año 1962.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Habana_moderna</title>
-      <link>http://localhost:1313/fr/excursions/la_habana/habana_moderna/</link>
-      <pubDate>Mon, 17 Feb 2025 21:41:41 -0500</pubDate>
-      <guid>http://localhost:1313/fr/excursions/la_habana/habana_moderna/</guid>
-      <description></description>
+      <title>cityTourHavHemingway2</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_2/</link>
+      <pubDate>Sat, 08 Mar 2025 17:45:40 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_2/</guid>
+      <description>&lt;h3 id=&#34;city-tour-hemingway-no-2&#34;&gt;City Tour &amp;ldquo;Hemingway&amp;rdquo; No. 2&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;El escritor y periodista estadounidense Ernest Hemingway (1899–1961) visitó Cuba por primera vez en 1928. Al año siguiente volvió en su barco Anita para pescar agujas, quedando enamorado de la isla. Desde entonces vivió en La Habana de forma intermitente, hasta 1960.&lt;/p&gt;&#xA;&lt;h4 id=&#34;visita-al-museo-ernest-hemingway&#34;&gt;Visita al Museo Ernest Hemingway&lt;/h4&gt;&#xA;&lt;p&gt;Hemingway alquiló esta mansión en 1939 y la compró al siguiente año, convirtiéndola en su residencia de invierno. Finca Vigía fue convertida en Museo en el año 1962.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>cityTourHavHemingway3</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_3/</link>
+      <pubDate>Sat, 08 Mar 2025 17:45:50 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/hemingway_3/</guid>
+      <description>&lt;h3 id=&#34;city-tour-hemingway-no-3&#34;&gt;City Tour &amp;ldquo;Hemingway&amp;rdquo; No. 3&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;El escritor y periodista estadounidense Ernest Hemingway (1899–1961) visitó Cuba por primera vez en 1928. Al año siguiente volvió en su barco Anita para pescar agujas, quedando enamorado de la isla. Desde entonces vivió en La Habana de forma intermitente, hasta 1960.&lt;/p&gt;&#xA;&lt;h4 id=&#34;visita-al-museo-ernest-hemingway&#34;&gt;Visita al Museo Ernest Hemingway&lt;/h4&gt;&#xA;&lt;p&gt;Hemingway alquiló esta mansión en 1939 y la compró al siguiente año, convirtiéndola en su residencia de invierno. Finca Vigía fue convertida en Museo en el año 1962.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>cityTourHavYoruba</title>
+      <link>http://localhost:1313/trinicuba/fr/excursions/la_habana/yoruba/</link>
+      <pubDate>Mon, 17 Feb 2025 21:37:22 -0500</pubDate>
+      <guid>http://localhost:1313/trinicuba/fr/excursions/la_habana/yoruba/</guid>
+      <description>&lt;h3 id=&#34;city-tour-huellas-africanas&#34;&gt;City Tour Huellas Africanas&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La religión Yoruba llegó a Cuba de la mano de los esclavos africanos, en tiempos del colonialismo español. Medio siglo después es practicada, defendida e investigada por muchos, sin importar estrato social, edad, ni color de la piel. La religión yoruba es ingrediente fundamental en este ajiaco, como dijera Nicolás Guillen, que conforma la sociedad cubana.&lt;/p&gt;&#xA;&lt;h5 id=&#34;itinerario&#34;&gt;Itinerario:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Recogida en el hostal (casa particular).&lt;/li&gt;&#xA;&lt;li&gt;Primera parada: Museo de los Orishas en La Habana Vieja.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; Ubicado en el  edificio de la Sociedad Cultural Yoruba de Cuba. Este es el lugar ideal para conocer sobre las representaciones, atributos y ambientaciones de los dioses africanos.&lt;/li&gt;&#xA;&lt;li&gt;Segunda parada: Callejón de Hamel, situado en Centro Habana.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; El callejón es una Galería de Arte a cielo abierto que desde 1990 rinde homenaje y culto a la religión Yoruba. Ambientada con materiales reciclados, desde sus murales e instalaciones, representa y describe deidades o pasajes de la vida cultural y religiosa en Cuba.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; El Callejón además tiene vida propia. En él se celebran peñas culturales donde se puede disfrutar de música en vivo, bailes y hasta ser testigo de algún ritual religioso.&lt;/li&gt;&#xA;&lt;li&gt;&amp;ndash;&amp;gt; En el callejón también se puede degustar coctelería, picadera y comida criolla.&lt;/li&gt;&#xA;&lt;li&gt;Regreso al hostal (casa particular).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;TriniCuba les brinda el secreto para unas vacaciones felices.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
